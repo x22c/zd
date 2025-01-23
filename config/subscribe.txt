@@ -44,7 +44,11 @@ http://www.meowtv.top/mtvzb.txt
 https://yyrj.fun/tv
 https://raw.githubusercontent.com/mygoww/xoxo/main/zb/测试.txt
 https://raw.githubusercontent.com/MemoryCollection/IPTV/refs/heads/main/hotel.txt
-https://raw.githubusercontent.com/Ftindy/IPTV-URL/main/IPV6.m3u
+https://raw.githubusercontent.com/kimwang1978/collect-tv-txt/main/merged_output.txt
+https://raw.githubusercontent.com/ssili126/tv/main/itvlist.txt
+https://fm1077.serv00.net/SmartTV.m3u
+https://raw.githubusercontent.com/vbskycn/iptv/master/tv/hd.txt
+http://xhztv.top/zbc.txt
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924111/live1.txt
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1715581924675/live2.txt
 https://fs-im-kefu.7moor-fs1.com/ly/4d2c3f00-7d4c-11e5-af15-41bf63ae4ea0/1716213337323/live3.txt
