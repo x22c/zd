@@ -121,3 +121,135 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
 华视,http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
 龙华日韩,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
 龙华经典,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
+
+👉以下频道需要魔法👈,https://7692.kstore.space/4.mp4
+👉请扫码更换新链接👈,https://cloud.wujiyan.cc/f/P6bHM/6.mp4
+UK: Eurosport 1,http://ua-iptv.com:8080//Balcony11/8036405556/755394
+UK: Eurosport 2,http://ua-iptv.com:8080//Balcony11/8036405556/755395
+UK: Fight Sports,http://ua-iptv.com:8080//Balcony11/8036405556/755396
+UK: FreeSports,http://ua-iptv.com:8080//Balcony11/8036405556/755397
+UK: LaLiga TV,http://ua-iptv.com:8080//Balcony11/8036405556/845672
+UK: LFC TV,http://ua-iptv.com:8080//Balcony11/8036405556/755398
+UK: MUTV,http://ua-iptv.com:8080//Balcony11/8036405556/755399
+UK: SKY SPORTS Action/NFL,http://ua-iptv.com:8080//Balcony11/8036405556/755405
+UK: SKY SPORTS Arena,http://ua-iptv.com:8080//Balcony11/8036405556/755406
+UK: SKY SPORTS Box Office,http://ua-iptv.com:8080//Balcony11/8036405556/755407
+UK: SKY SPORTS Cricket,http://ua-iptv.com:8080//Balcony11/8036405556/755408
+UK: SKY SPORTS F1,http://ua-iptv.com:8080//Balcony11/8036405556/755409
+UK: SKY SPORTS Football,http://ua-iptv.com:8080//Balcony11/8036405556/755410
+UK: SKY SPORTS Golf,http://ua-iptv.com:8080//Balcony11/8036405556/755411
+UK: SKY SPORTS Main Event,http://ua-iptv.com:8080//Balcony11/8036405556/755412
+UK: SKY SPORTS Mix,http://ua-iptv.com:8080//Balcony11/8036405556/755413
+UK: Sky Sports News,http://ua-iptv.com:8080//Balcony11/8036405556/755414
+UK: SKY SPORTS Premier League,http://ua-iptv.com:8080//Balcony11/8036405556/755415
+UK: SKY SPORTS Racing,http://ua-iptv.com:8080//Balcony11/8036405556/755416
+UK: PDC DARTS 01 (EVENT TIME ONLY),http://ua-iptv.com:8080//Balcony11/8036405556/755400
+UK: PDC DARTS 02 (EVENT TIME ONLY),http://ua-iptv.com:8080//Balcony11/8036405556/755401
+UK: PREMIER SPORTS 1,http://ua-iptv.com:8080//Balcony11/8036405556/755402
+UK: PREMIER SPORTS 2,http://ua-iptv.com:8080//Balcony11/8036405556/755403
+UK: Racing TV,http://ua-iptv.com:8080//Balcony11/8036405556/755404
+UK: TNT SPORTS  1,http://ua-iptv.com:8080//Balcony11/8036405556/755417
+UK: TNT SPORTS 2,http://ua-iptv.com:8080//Balcony11/8036405556/755418
+UK: TNT SPORTS 3,http://ua-iptv.com:8080//Balcony11/8036405556/755419
+UK: TNT SPORTS 4,http://ua-iptv.com:8080//Balcony11/8036405556/755420
+UK: TNT SPORTS 5,http://ua-iptv.com:8080//Balcony11/8036405556/755421
+UK: TNT SPORTS 6,http://ua-iptv.com:8080//Balcony11/8036405556/755422
+UK: TNT SPORTS 7,http://ua-iptv.com:8080//Balcony11/8036405556/755423
+UK: TNT SPORTS 8,http://ua-iptv.com:8080//Balcony11/8036405556/755424
+UK: TNT SPORTS 9,http://ua-iptv.com:8080//Balcony11/8036405556/755425
+UK: TNT SPORTS 10 HD,http://ua-iptv.com:8080//Balcony11/8036405556/845673
+UK: TNT SPORTS Ultimate,http://ua-iptv.com:8080//Balcony11/8036405556/755426
+UK: TNT SPORTS Ultimate ⁴ᴷ,http://ua-iptv.com:8080//Balcony11/8036405556/755427
+UK: TNT SPORTS Box Office [Events Only],http://ua-iptv.com:8080//Balcony11/8036405556/755428
+UK: Via Play sports 1,http://ua-iptv.com:8080//Balcony11/8036405556/845674
+UK: Via Play Sports 2,http://ua-iptv.com:8080//Balcony11/8036405556/845675
+US: NBA TV,http://ua-iptv.com:8080//Balcony11/8036405556/707878
+US: NBC Golf,http://ua-iptv.com:8080//Balcony11/8036405556/707879
+US: ESPN,http://ua-iptv.com:8080//Balcony11/8036405556/707850
+US: ESPN 2,http://ua-iptv.com:8080//Balcony11/8036405556/707851
+US: ESPN 3,http://ua-iptv.com:8080//Balcony11/8036405556/707852
+US: ESPN NEWS,http://ua-iptv.com:8080//Balcony11/8036405556/707853
+US: ESPN U,http://ua-iptv.com:8080//Balcony11/8036405556/707854
+US: ALTITUDE SPORTS,http://ua-iptv.com:8080//Balcony11/8036405556/707805
+US: AT&T SPORTSNET SOUTHWEST,http://ua-iptv.com:8080//Balcony11/8036405556/707807
+US: ATT SPORTSNET PITTSBURGH,http://ua-iptv.com:8080//Balcony11/8036405556/707808
+US: CBS SPORTS NETWORK,http://ua-iptv.com:8080//Balcony11/8036405556/707847
+US: FOX SPORTS 1,http://ua-iptv.com:8080//Balcony11/8036405556/707859
+US: FOX SPORTS 2,http://ua-iptv.com:8080//Balcony11/8036405556/707860
+PPV: UFC FIGHT PASS 24/7,http://ua-iptv.com:8080//Balcony11/8036405556/851451
+PPV: WWE Network (Peacock),http://ua-iptv.com:8080//Balcony11/8036405556/851452
+PPV: WWE Network (PPV),http://ua-iptv.com:8080//Balcony11/8036405556/851453
+PT: Eleven Sports 1 HD,http://ua-iptv.com:8080//Balcony11/8036405556/854225
+PT: Eleven Sports 1 UHD,http://ua-iptv.com:8080//Balcony11/8036405556/854228
+PT: Eleven Sports 2 HD,http://ua-iptv.com:8080//Balcony11/8036405556/854230
+PT: Eleven Sports 3 HD,http://ua-iptv.com:8080//Balcony11/8036405556/854235
+PT: Eleven Sports 4 HD,http://ua-iptv.com:8080//Balcony11/8036405556/854238
+PT: Eleven Sports 5 HD,http://ua-iptv.com:8080//Balcony11/8036405556/854242
+PT: Eleven Sports 6 HD,http://ua-iptv.com:8080//Balcony11/8036405556/854245
+ES: DAZN 1 HD,http://ua-iptv.com:8080//Balcony11/8036405556/853675
+ES: DAZN 2 HD,http://ua-iptv.com:8080//Balcony11/8036405556/853679
+ES: DAZN 3 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/853681
+ES: DAZN 4 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/853682
+ES: DAZN F1 4K,http://ua-iptv.com:8080//Balcony11/8036405556/853683
+ES: DAZN F1 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/853684
+ES: DAZN LaLiga  1 HD,http://ua-iptv.com:8080//Balcony11/8036405556/853687
+ES: DAZN LaLiga 2 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/853685
+ARB: beIN Sports 1 {阿拉伯语},http://ua-iptv.com:8080//Balcony11/8036405556/855424
+ARB: beIN Sports 1 {英语},http://ua-iptv.com:8080//Balcony11/8036405556/855425
+ARB: beIN Sports 1 {法语},http://ua-iptv.com:8080//Balcony11/8036405556/855426
+ARB: beIN Sports 2 {阿拉伯语},http://ua-iptv.com:8080//Balcony11/8036405556/855427
+ARB: beIN Sports 2 {英语},http://ua-iptv.com:8080//Balcony11/8036405556/855428
+ARB: beIN Sports 2 {法语},http://ua-iptv.com:8080//Balcony11/8036405556/855429
+ARB: beIN Sports 3 {阿拉伯语},http://ua-iptv.com:8080//Balcony11/8036405556/855430
+ARB: beIN Sports 3 {英语},http://ua-iptv.com:8080//Balcony11/8036405556/855431
+ARB: beIN Sports 4 {阿拉伯语},http://ua-iptv.com:8080//Balcony11/8036405556/855432
+ARB: beIN Sports 5 {阿拉伯语},http://ua-iptv.com:8080//Balcony11/8036405556/855433
+ARB: beIN Sports Premium 1 {阿拉伯语},http://ua-iptv.com:8080//Balcony11/8036405556/855434
+ARB: beIN Sports Premium 2 {阿拉伯语},http://ua-iptv.com:8080//Balcony11/8036405556/855435
+ARB: beIN Sports Premium 3 {阿拉伯语},http://ua-iptv.com:8080//Balcony11/8036405556/855436
+MY: beIN Sports {马来语},http://ua-iptv.com:8080//Balcony11/8036405556/856845
+MY: beIN Sports 2 {马来语},http://ua-iptv.com:8080//Balcony11/8036405556/856846
+MY: beIN Sports 2 50fps {马来语},http://ua-iptv.com:8080//Balcony11/8036405556/856847
+MY: beIN Sports 3 {马来语},http://ua-iptv.com:8080//Balcony11/8036405556/856848
+MY: beIN Sports 3 50fps {马来语},http://ua-iptv.com:8080//Balcony11/8036405556/856849
+MY: beIN Sports 4 {马来语},http://ua-iptv.com:8080//Balcony11/8036405556/856850
+MY: beIN Sports 5 {马来语},http://ua-iptv.com:8080//Balcony11/8036405556/856851
+MY: beIN Sports 50fps {马来语},http://ua-iptv.com:8080//Balcony11/8036405556/856852
+AS: SuperSport 1,http://ua-iptv.com:8080//Balcony11/8036405556/857418
+AS: SuperSport 2,http://ua-iptv.com:8080//Balcony11/8036405556/857419
+AS: SuperSport 3,http://ua-iptv.com:8080//Balcony11/8036405556/857420
+AS: SuperSport 4,http://ua-iptv.com:8080//Balcony11/8036405556/857421
+AS: SuperSport 5,http://ua-iptv.com:8080//Balcony11/8036405556/857422
+SS: SuperSport Action,http://ua-iptv.com:8080//Balcony11/8036405556/857424
+SS: SuperSport Blitz,http://ua-iptv.com:8080//Balcony11/8036405556/857425
+SS: SuperSport Cricket,http://ua-iptv.com:8080//Balcony11/8036405556/857426
+SS: SuperSport Football / WC Fan Zone,http://ua-iptv.com:8080//Balcony11/8036405556/857427
+SS: SuperSport Golf,http://ua-iptv.com:8080//Balcony11/8036405556/857428
+SS: SuperSport Grandstand,http://ua-iptv.com:8080//Balcony11/8036405556/857429
+SS: SuperSport La Liga / WC Select 1,http://ua-iptv.com:8080//Balcony11/8036405556/857430
+SS: SuperSport Maximo,http://ua-iptv.com:8080//Balcony11/8036405556/857431
+SS: SuperSport Motorsports,http://ua-iptv.com:8080//Balcony11/8036405556/857432
+SS: SuperSport Premier League / SS: SuperSport WC Extra,http://ua-iptv.com:8080//Balcony11/8036405556/857433
+SS: SuperSport PSL / WC Central,http://ua-iptv.com:8080//Balcony11/8036405556/857434
+SS: SuperSport Rugby,http://ua-iptv.com:8080//Balcony11/8036405556/857435
+SS: SuperSport Tennis,http://ua-iptv.com:8080//Balcony11/8036405556/857436
+SS: SuperSport Variety 01 / WC Select 2,http://ua-iptv.com:8080//Balcony11/8036405556/857437
+SS: SuperSport Variety 02,http://ua-iptv.com:8080//Balcony11/8036405556/857438
+SS: SuperSport Variety 03,http://ua-iptv.com:8080//Balcony11/8036405556/857439
+SS: SuperSport Variety 04,http://ua-iptv.com:8080//Balcony11/8036405556/857440
+FR: Canal+ Sport 360 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/945739
+FR: Canal+ Sport FHD,http://ua-iptv.com:8080//Balcony11/8036405556/945742
+FR: Canal+ Cinema FHD,http://ua-iptv.com:8080//Balcony11/8036405556/945727
+FR: Canal+ Docs FHD,http://ua-iptv.com:8080//Balcony11/8036405556/945729
+FR: Canal+ F1 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/945730
+FR: Canal Play 1 4K,http://ua-iptv.com:8080//Balcony11/8036405556/945720
+FR: Canal Play 2 4K,http://ua-iptv.com:8080//Balcony11/8036405556/945721
+FR: Canal Play 3 4K,http://ua-iptv.com:8080//Balcony11/8036405556/945722
+FR: Canal Play 4 4K,http://ua-iptv.com:8080//Balcony11/8036405556/945723
+FR: Canal Play 5,http://ua-iptv.com:8080//Balcony11/8036405556/945724
+FR: Canal Play 6,http://ua-iptv.com:8080//Balcony11/8036405556/945725
+FR: RMC Sport 1 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/946013
+FR: RMC Sport 2 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/946017
+FR: RMC Sport 3 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/946021
+FR: RMC Sport 4 FHD,http://ua-iptv.com:8080//Balcony11/8036405556/946022
+
