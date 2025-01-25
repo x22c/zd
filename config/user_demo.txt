@@ -1234,7 +1234,7 @@ IPTV经典电影
 咪咕视频44
 咪咕视频45
 
-🔆体育频道🔆,#genre#
+🔆国内体育🔆,#genre#
 CCTV-5
 CCTV-5+
 广东体育
@@ -1670,6 +1670,31 @@ CN卡通
 狄仁杰：元芳 你怎么看？
 
 🔆NewTV🔆,#genre#
+NewTV超级电影
+NewTV超级电视剧
+NewTV超级体育
+NewTV超级综艺
+NewTV金牌综艺
+NewTV东北热剧
+NewTV古装剧场
+NewTV欢乐剧场
+NewTV怡伴健康
+NewTV潮妈辣婆
+NewTV军旅剧场
+NewTV军事评论
+NewTV中国功夫
+NewTV农业致富
+NewTV动作电影
+NewTV家庭剧场
+NewTV惊悚悬疑
+NewTV武博世界
+NewTV炫舞未来
+NewTV爱情喜剧
+NewTV精品萌宠
+NewTV精品体育
+NewTV精品大剧
+NewTV精品记录
+NewTV哒啵赛事
 NewTV怡伴健康
 NewTV完美游戏
 NewTV动画王国
