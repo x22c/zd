@@ -22,7 +22,6 @@ CCTV12,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CCTV12HD$!
 CCTV13,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CCTV13HD$!
 CCTV14,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CCTV14HD$!
 CCTV16,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CCTV16HD$!
-CETV-1,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=CETV1HD$!
 北京卫视,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=BEIJHD$!
 东方卫视,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=DONGFHD$!
 湖南卫视,http://8.138.90.107/公众号睡眼迷离的猫/jx.php?id=HUNANHD$!
