@@ -2675,6 +2675,22 @@ SiTV-游戏风云,http://iptv.0564.org:35455/itv/5000000011000031114.m3u8?cdn=be
 
 
 🔆湖南🔆,#genre#
+
+
+湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs$!
+湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds$!
+湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj$!
+湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl$!
+湖南爱晚,http://php.jdshipin.com:8880/iptv.php?id=hngg$!
+湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy$!
+湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj$!
+湖南国际,http://php.jdshipin.com/TVOD/iptv.php?id=hngj$!
+湖南娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=hnyl$!
+湖南爱晚,http://php.jdshipin.com/TVOD/iptv.php?id=hngg$!
+湖南电影,http://php.jdshipin.com/TVOD/iptv.php?id=hndy$!
+湖南电视剧,http://php.jdshipin.com/TVOD/iptv.php?id=hndsj$!
+湖南经视,http://php.jdshipin.com/TVOD/iptv.php?id=hnjs$!
+湖南都市,http://php.jdshipin.com/TVOD/iptv.php?id=hnds$!
 湖南经视,http://tvbox6.icu/tv/mgtv.php?id=280$!
 湖南电影,http://tvbox6.icu/tv/mgtv.php?id=221$!
 湖南都市,http://tvbox6.icu/tv/mgtv.php?id=346$!
@@ -2691,6 +2707,13 @@ SiTV-游戏风云,http://iptv.0564.org:35455/itv/5000000011000031114.m3u8?cdn=be
 长沙政法,http://tvbox6.icu/tv/mgtv.php?id=254$!
 长沙女性,http://tvbox6.icu/tv/mgtv.php?id=230$!
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8$!
+湖南爱晚,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6307875884530512195$!
+湖南电视剧,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867$!
+湖南都市,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407$!
+湖南国际,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526$!
+湖南经视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256$!
+湖南经视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7766420291569067385$!
+湖南娱乐,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392$!
 湖南经视FHD,
 湖南都市FHD,
 湖南电视剧FHD,
