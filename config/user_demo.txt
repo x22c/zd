@@ -2553,7 +2553,6 @@ BRTV纪实科教HD
 BRTV财经HD
 BRTV青年HD
 BTV国际频道
-北京卫视
 北京文艺
 北京科教
 北京影视
@@ -2589,7 +2588,6 @@ BTV国际频道
 上海哈哈炫动,http://iptv.0564.org:35455/itv/5000000011000031123.m3u8?cdn=bestzb$!
 上海纪实人文,http://iptv.0564.org:35455/itv/5000000004000010282.m3u8?cdn=bestzb$!
 上海纪实人文,http://iptv.0564.org:35455/itv/1000000005000265021.m3u8?cdn=ystenlive$!
-东方卫视
 上海新闻综合
 新闻综合
 五星体育
@@ -2675,8 +2673,6 @@ SiTV-游戏风云,http://iptv.0564.org:35455/itv/5000000011000031114.m3u8?cdn=be
 
 
 🔆湖南🔆,#genre#
-
-
 湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs$!
 湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds$!
 湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj$!
@@ -2797,7 +2793,6 @@ IPTV戏剧HD,
 IPTV故事HD,
 IPTV健康之路HD,
 湖南国际HD,
-湖南卫视FHD,
 湖南经视HD,
 湖南都市HD,
 湖南娱乐HD,
