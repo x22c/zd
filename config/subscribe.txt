@@ -5,6 +5,7 @@ https://tv6.tv1288.xyz
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt
 http://我不是.摸鱼儿.com/live.php
 http://ttkx.cc:55/lib/kx2024.txt
+http://mdxgh.tpddns.cn:9999/new/mdzb.txt
 http://rihou.cc:555/gggg.nzk
 https://tttt.findvps.top/index.php?key=250217
 http://jk.qoo.us.kg/index.php?key=250217
@@ -33,9 +34,8 @@ https://live.zbds.top/tv/iptv4.txt
 https://raw.githubusercontent.com/altn2025/iptv/refs/heads/main/iptv.m3u
 https://raw.githubusercontent.com/BP3388/TVBOX/refs/heads/main/live.txt
 https://raw.githubusercontent.com/Supprise0901/TVBox_live/refs/heads/main/live.txt
-
-
-
+http://iptv.catvod.com/tv.m3u
+http://szygdc.tpddns.cn:93/dsch/cmcc/chlist.txt
 https://raw.githubusercontent.com/YanG-1989/m3u/main/Gather.m3u
 https://raw.githubusercontent.com/YueChan/Live/main/APTV.m3u
 https://raw.githubusercontent.com/iptv-org/iptv/gh-pages/countries/cn.m3u
@@ -61,3 +61,6 @@ https://raw.githubusercontent.com/Love4vn/love4vn/main/Sport.m3u
 https://gitlab.com/tvkj/loong/-/raw/main/loog.txt
 https://tvpass.org/playlist/m3u
 https://ghproxy.net/raw.githubusercontent.com/CCSH/IPTV/refs/heads/main/live.txt
+https://4708.kstore.space/omg/tv.txt
+https://d.kstore.dev/download/2912/520.txt
+http://117.72.68.25:9230/latest.txt
