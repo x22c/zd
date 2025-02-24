@@ -535,7 +535,7 @@ Now Sports PL 5 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544
 Now Sports PL 6 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544/253018$!
 
 🔆TW湾湾-①🔆,#genre#
-👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
+👉此分类需要湾湾节点👈,https://d.kstore.dev/download/7692/4.mp4$!
 纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$!
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$!
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$!
@@ -551,97 +551,83 @@ TVBS,http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8$!
 龍華經典台,http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8$!
 龍華日韓台,http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8$!
 
-民视,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv002$!
-民视,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv155$!
-民视第一台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv003$!
-民视新闻台,https://bk.msbot.us.kg/litv.php?id=litv-ftv13$!
-民视台湾台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv001$!
-民视台湾台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv156$!
-民视影剧台,https://bk.msbot.us.kg/litv.php?id=litv-ftv09$!
-民视旅游台,https://bk.msbot.us.kg/litv.php?id=litv-ftv07$!
-民视综艺台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv004$!
-中视,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv040$!
-中视新闻台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv074$!
-中视经典台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv080$!
-中视菁采台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv064$!
-中天新闻台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv009$!
-中天亚洲台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv109$!
-华视,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv041$!
-华视新闻,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv052$!
-靖天综合台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv046$!
-靖天国际台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv063$!
-靖天戏剧台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv058$!
-靖天日本台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv047$!
-靖天映画台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv055$!
-靖天卡通台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv044$!
-靖天育乐台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv062$!
-靖天资讯台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv065$!
-靖天电影台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv061$!
-靖天欢乐台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv054$!
-龙华偶像台,https://bk.msbot.us.kg/litv.php?id=litv-longturn12$!
-龙华卡通台,https://bk.msbot.us.kg/litv.php?id=litv-longturn01$!
-龙华戏剧台,https://bk.msbot.us.kg/litv.php?id=litv-longturn18$!
-龙华日韩台,https://bk.msbot.us.kg/litv.php?id=litv-longturn11$!
-龙华经典台,https://bk.msbot.us.kg/litv.php?id=litv-longturn21$!
-龙华电影台,https://bk.msbot.us.kg/litv.php?id=litv-longturn03$!
-靖洋戏剧台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv045$!
-靖洋卡通NiceBingo,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv057$!
-寰宇新闻台,https://bk.msbot.us.kg/litv.php?id=litv-longturn14$!
-寰宇新闻台湾台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv156$!
-寰宇财经台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv158$!
-TVBS,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv073$!
-TVBS新闻台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv072$!
-TVBS欢乐台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv068$!
-TVBS精采台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv067$!
-八大精彩台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv034$!
-八大综艺台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv039$!
-台视,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv066$!
-台视新闻台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv051$!
-台视财经台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv056$!
-博斯运动一台,https://bk.msbot.us.kg/litv.php?id=litv-longturn07$!
-博斯运动二台,https://bk.msbot.us.kg/litv.php?id=litv-longturn08$!
-博斯无限台,https://bk.msbot.us.kg/litv.php?id=litv-longturn10$!
-博斯无限二台,https://bk.msbot.us.kg/litv.php?id=litv-longturn13$!
-博斯网球台,https://bk.msbot.us.kg/litv.php?id=litv-longturn09$!
-博斯高球台,https://bk.msbot.us.kg/litv.php?id=litv-longturn05$!
-博斯高球二台,https://bk.msbot.us.kg/litv.php?id=litv-longturn06$!
-博斯魅力台,https://bk.msbot.us.kg/litv.php?id=litv-longturn04$!
-ELTA娱乐台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv070$!
-ELTV生活英语,https://bk.msbot.us.kg/litv.php?id=litv-longturn20$!
-东森新闻,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv152$!
-东森财经新闻,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv153$!
-非凡新闻台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv010$!
-非凡商业台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv048$!
-镜电视新闻台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv075$!
-亚洲旅游台,https://bk.msbot.us.kg/litv.php?id=litv-longturn17$!
-GINXEsportsTV,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv053$!
-时尚运动X,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv014$!
-智林体育台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv101$!
-TraceSports,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv077$!
-影迷数位电影台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv011$!
-AMC电影台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv017$!
-公视戏剧台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv042$!
-采昌影剧台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv049$!
-台湾戏剧台,https://bk.msbot.us.kg/litv.php?id=litv-longturn22$!
-CatchPlay电影台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv076$!
-i-Fun动漫台,https://bk.msbot.us.kg/litv.php?id=litv-ftv15$!
-达文西频道,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv018$!
-Classica古典乐,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv059$!
-MezzoLive,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv083$!
-猪哥亮歌厅秀,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv006$!
-TraceUrban,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv082$!
-韩国娱乐台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv016$!
-ArirangTV,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv079$!
-VOA美国之音,https://bk.msbot.us.kg/litv.php?id=litv-ftv03$!
-半岛国际新闻台,https://bk.msbot.us.kg/litv.php?id=litv-ftv10$!
-第1商业台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv104$!
-Smart知识台,https://bk.msbot.us.kg/litv.php?id=litv-longturn19$!
-视纳华仁纪实频道,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv013$!
-客家电视台,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv043$!
-好消息,https://bk.msbot.us.kg/litv.php?id=litv-ftv16$!
-好消息2台,https://bk.msbot.us.kg/litv.php?id=litv-ftv17$!
-国会频道1,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv084$!
-国会频道2,https://bk.msbot.us.kg/litv.php?id=4gtv-4gtv085$!
+鏡新聞,http://tv543.cc/litv.php?id=4gtv-4gtv075$!
+寰宇新聞,http://tv543.cc/litv.php?id=litv-longturn14$!
+東森新聞,http://tv543.cc/litv.php?id=4gtv-4gtv152$!
+中天新聞,http://tv543.cc/litv.php?id=4gtv-4gtv009$!
+民視新聞 ,http://tv543.cc/litv.php?id=litv-ftv13$!
+TVBS新聞,http://tv543.cc/litv.php?id=4gtv-4gtv072$!
+TVBS,http://tv543.cc/litv.php?id=4gtv-4gtv073$!
+東森財經,http://tv543.cc/litv.php?id=4gtv-4gtv153$!
+非凡新聞,http://tv543.cc/litv.php?id=4gtv-4gtv010$!
+寰宇財經,http://tv543.cc/litv.php?id=litv-longturn23$!
+AMC最愛電影,http://tv543.cc/litv.php?id=4gtv-4gtv017$!
+中視,http://tv543.cc/litv.php?id=4gtv-4gtv040$!
+中視新聞,http://tv543.cc/litv.php?id=4gtv-4gtv074$!
+中視經典,http://tv543.cc/litv.php?id=4gtv-4gtv080$!
+中視菁采,http://tv543.cc/litv.php?id=4gtv-4gtv064$!
+民視,http://tv543.cc/litv.php?id=4gtv-4gtv002$!
+民視第一,http://tv543.cc/litv.php?id=4gtv-4gtv003$!
+民視新聞,http://tv543.cc/litv.php?id=litv-ftv13$!
+民視台灣,http://tv543.cc/litv.php?id=4gtv-4gtv001$!
+公視戲劇,http://tv543.cc/litv.php?id=4gtv-4gtv042$!
+客家電視,http://tv543.cc/litv.php?id=4gtv-4gtv043$!
+台視,http://tv543.cc/litv.php?id=4gtv-4gtv066$!
+台視新聞,http://tv543.cc/litv.php?id=4gtv-4gtv051$!
+台視財經,http://tv543.cc/litv.php?id=4gtv-4gtv056$!
+台灣戲劇,http://tv543.cc/litv.php?id=litv-longturn22$!
+華視新聞,http://tv543.cc/litv.php?id=4gtv-4gtv052$!
+豬哥亮歌廳秀,http://tv543.cc/litv.php?id=4gtv-4gtv006$!
+i-Fun動漫,http://tv543.cc/litv.php?id=litv-ftv15$!
+八大精彩,http://tv543.cc/litv.php?id=4gtv-4gtv034$!
+八大綜藝,http://tv543.cc/litv.php?id=4gtv-4gtv039$!
+ELTA娛樂,http://tv543.cc/litv.php?id=4gtv-4gtv070$!
+ELTA生活英語,http://tv543.cc/litv.php?id=litv-longturn20$!
+亞洲旅遊,http://tv543.cc/litv.php?id=4gtv-4gtv076$!
+民視影劇,http://tv543.cc/litv.php?id=litv-ftv09$!
+民視綜藝,http://tv543.cc/litv.php?id=4gtv-4gtv004$!
+民視旅遊,http://tv543.cc/litv.php?id=litv-ftv07$!
+TVBS歡樂,http://tv543.cc/litv.php?id=4gtv-4gtv068$!
+TVBS精采,http://tv543.cc/litv.php?id=4gtv-4gtv067$!
+好消息,http://tv543.cc/litv.php?id=litv-ftv16$!
+好消息2,http://tv543.cc/litv.php?id=litv-ftv17$!
+博斯無限,http://tv543.cc/litv.php?id=litv-longturn10$!
+博斯無限2,http://tv543.cc/litv.php?id=litv-longturn13$!
+博斯網球,http://tv543.cc/litv.php?id=litv-longturn09$!
+博斯運動,http://tv543.cc/litv.php?id=litv-longturn07$!
+博斯運動2,http://tv543.cc/litv.php?id=litv-longturn08$!
+博斯高球,http://tv543.cc/litv.php?id=litv-longturn05$!
+博斯高球2,http://tv543.cc/litv.php?id=litv-longturn06$!
+博斯魅力,http://tv543.cc/litv.php?id=litv-longturn04$!
+時尚運動X,http://tv543.cc/litv.php?id=4gtv-4gtv014$!
+智林體育,http://tv543.cc/litv.php?id=4gtv-4gtv101$!
+中天亞洲,http://tv543.cc/litv.php?id=4gtv-4gtv109$!
+靖天卡通,http://tv543.cc/litv.php?id=4gtv-4gtv044$!
+靖天國際,http://tv543.cc/litv.php?id=4gtv-4gtv063$!
+靖天戲劇,http://tv543.cc/litv.php?id=4gtv-4gtv058$!
+靖天日本,http://tv543.cc/litv.php?id=4gtv-4gtv047$!
+靖天映畫,http://tv543.cc/litv.php?id=4gtv-4gtv055$!
+靖天歡樂,http://tv543.cc/litv.php?id=4gtv-4gtv054$!
+靖天綜合,http://tv543.cc/litv.php?id=4gtv-4gtv046$!
+靖天育樂,http://tv543.cc/litv.php?id=4gtv-4gtv062$!
+靖天資訊,http://tv543.cc/litv.php?id=4gtv-4gtv065$!
+靖天電影,http://tv543.cc/litv.php?id=4gtv-4gtv061$!
+靖洋卡通,http://tv543.cc/litv.php?id=4gtv-4gtv057$!
+靖洋戲劇,http://tv543.cc/litv.php?id=4gtv-4gtv045$!
+龍華偶像,http://tv543.cc/litv.php?id=litv-longturn12$!$!
+龍華卡通,http://tv543.cc/litv.php?id=litv-longturn01$!
+龍華戲劇,http://tv543.cc/litv.php?id=litv-longturn18$!
+龍華日韓,http://tv543.cc/litv.php?id=litv-longturn11$!
+龍華經典,http://tv543.cc/litv.php?id=litv-longturn21$!
+龍華電影,http://tv543.cc/litv.php?id=litv-longturn03$!
+寰宇新聞2,http://tv543.cc/litv.php?id=litv-longturn15$!
+非凡商業,http://tv543.cc/litv.php?id=4gtv-4gtv048$!
+第1商業,http://tv543.cc/litv.php?id=4gtv-4gtv104$!
+采昌影劇,http://tv543.cc/litv.php?id=4gtv-4gtv049$!
+影迷數位電影,http://tv543.cc/litv.php?id=4gtv-4gtv011$!
+ArirangTV,http://tv543.cc/litv.php?id=4gtv-4gtv079$!
+Classica古典樂,http://tv543.cc/litv.php?id=4gtv-4gtv059$!
+Globetrotter環遊旅行家,http://tv543.cc/litv.php?id=4gtv-4gtv016$!
 
 
 🔆TW湾湾-②🔆,#genre#
@@ -691,66 +677,66 @@ KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8$!
 食尚玩家,http://125.227.210.55:8187/VideoInput/play.ts$!
 
 🔆日本频道🔆,#genre#
-👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4
-フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0
-テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0
-テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
-NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
-NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
-BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
-BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
-BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
-BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
-BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0
-WOWOWプライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
-WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
-WOWOWシネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
-BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
-JSPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
-JSPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
-JSPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
-JSPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
-ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
-ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
-LaLaTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
-BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
-CNN J,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16
-QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8
-Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8
-ANN News,https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8
-SHOPCHANNEL,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8
-日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8
-日本UN WeTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8
+👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
+フジテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd05&isp=10&bind=0&uin=159413&playseek=0$!
+テレビ朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd06&isp=10&bind=0&uin=159413&playseek=0$!
+テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0$!
+NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11$!
+NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01$!
+BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0$!
+BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0$!
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0$!
+BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0$!
+BSフジ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs06&isp=10&bind=0&uin=159413&playseek=0$!
+WOWOWプライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0$!
+WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0$!
+WOWOWシネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0$!
+BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0$!
+JSPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0$!
+JSPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0$!
+JSPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0$!
+JSPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0$!
+ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0$!
+ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0$!
+LaLaTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19$!
+BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0$!
+CNN J,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs16$!
+QVC,http://cdn-live1.qvc.jp/iPhone/800/800.m3u8$!
+Shop Channel,http://stream1.shopch.jp/HLS/out2/prog_index.m3u8$!
+ANN News,https://ythls.armelin.one/channel/UCGCZAYq5Xxojl_tSXcVJhiQ.m3u8$!
+SHOPCHANNEL,http://stream1.shopch.jp/HLS/out1/prog_index.m3u8$!
+日本Shop Channel,https://stream3.shopch.jp/HLS/master.m3u8$!
+日本UN WeTV,https://cdnapi.kaltura.com/p/2503451/sp/250345100/playManifest/entryId/1_gb6tjmle/protocol/https/format/applehttp/a.m3u8$!
 
 
 🔆韩国频道🔆,#genre#
-👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4
-Arirang 阿里郎,http://php.jdshipin.com:8880/xsj.php?id=arirang
-KBS 1,http://mytv.dothome.co.kr/ch/public/1.php
-KBS 2,http://mytv.dothome.co.kr/ch/public/3.php
-BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
-CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
-CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
-EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8
-EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8
-EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
-EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
-EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
-Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
-KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
-KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
-KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
-KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
-KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
-KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
-KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php
-KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
-KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
-Korea TV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
-MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
-SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
-TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
-국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
+👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
+Arirang 阿里郎,http://php.jdshipin.com:8880/xsj.php?id=arirang$!
+KBS 1,http://mytv.dothome.co.kr/ch/public/1.php$!
+KBS 2,http://mytv.dothome.co.kr/ch/public/3.php$!
+BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8$!
+CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8$!
+CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8$!
+EBS+ 1,http://ebsonairios.ebs.co.kr/plus1tablet500k/tablet500k/plus1tablet500k.index.m3u8$!
+EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.index.m3u8$!
+EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd$!
+EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd$!
+EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd$!
+Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8$!
+KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8$!
+KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php$!
+KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php$!
+KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php$!
+KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php$!
+KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8$!
+KBS Story,http://mytv.dothome.co.kr/ch/catv/4.php$!
+KBS World,http://mytv.dothome.co.kr/ch/catv/7.php$!
+KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8$!
+Korea TV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8$!
+MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8$!
+SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8$!
+TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8$!
+국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8$!
 
 🔆海外体育🔆,#genre#
 👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
