@@ -438,6 +438,7 @@ TVB 经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc$!
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx$!
 TVB娱乐新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw$!
 TVB生活台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbsh$!
+TVB明珠台(中字),https://cdn5.163189.xyz/live/mzt/stream.m3u8$!
 TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt$!
 TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2$!
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe$!
@@ -2764,6 +2765,10 @@ SiTV-游戏风云,http://iptv.0564.org:35455/itv/5000000011000031114.m3u8?cdn=be
 
 🔆广东🔆,#genre#
 南国都市4K,http://tencentplaygzrb01.gztv.com/live/nanguodushi.m3u8$!
+广东珠江,http://219.137.202.197:9901/tsfile/live/1000_1.m3u8?yyds$!
+广东新闻,http://219.137.202.197:9901/tsfile/live/1001_1.m3u8?yyds$!
+广东公共,http://219.137.202.197:9901/tsfile/live/1002_1.m3u8?yyds$!
+广东体育,http://219.137.202.197:9901/tsfile/live/1003_1.m3u8?yyds$!
 广州综合,http://tencentplaygzrb01.gztv.com/live/zonghes.m3u8$!
 广州新闻,http://tencentplaygzrb01.gztv.com/live/xinwen.m3u8$!
 广州影视,http://tencentplaygzrb01.gztv.com/live/yingshi.m3u8$!
