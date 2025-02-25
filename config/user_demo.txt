@@ -416,6 +416,8 @@ Channel U HD,http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8$!
 
 🔆HK香港-②🔆,#genre#
 👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
+凤凰中文,http://cdn.163189.xyz/live/fhzw/stream.m3u8$!
+凤凰资讯,https://cdn3.163189.xyz/live/fhzx/stream.m3u8$!
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw$!
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2$!
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx$!
@@ -476,6 +478,13 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod$!
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$!
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam$!
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as$!
+翡翠台4K,http://cdn.163189.xyz/live/fct4k/stream.m3u8$!
+无线新闻,http://cdn.163189.xyz/live/tvbp/stream.m3u8$!
+TVB PLUS,http://cdn.163189.xyz/live/tvbp/stream.m3u8$!
+TVB PLUS,https://cdn.163189.xyz/live/?id=tvbp$!
+TVB J1,http://cdn3.163189.xyz/live/j1/stream.m3u8$!
+TVB J1,http://cdn5.1678520.xyz/live/?id=j1$!
+HOY 77,http://cdn.163189.xyz/live/hoy/stream.m3u8$!
 
 凤凰中文台
 凤凰资讯台
@@ -536,6 +545,7 @@ Now Sports PL 6 FHD (Matchtime Only),http://doubleclicktv.live/70376812/52663544
 
 🔆TW湾湾-①🔆,#genre#
 👉此分类需要湾湾节点👈,https://d.kstore.dev/download/7692/4.mp4$!
+中天新闻,https://zt.dracwoundshop.eu.org/live/stream.m3u8$!
 纬来体育台,http://aktv.top/AKTV/live/aktv3/null-1/AKTV.m3u8$!
 中天新聞台,http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8$!
 亞洲新聞台,http://aktv.top/AKTV/live/aktv3/null-3/AKTV.m3u8$!
@@ -631,6 +641,7 @@ Globetrotter環遊旅行家,http://tv543.cc/litv.php?id=4gtv-4gtv016$!
 
 
 🔆TW湾湾-②🔆,#genre#
+中天新闻,https://zt.dracwoundshop.eu.org/live/stream.m3u8$!
 民视,rtmp://f13h.mine.nu/sat/tv051$!
 台视,rtmp://f13h.mine.nu/sat/tv071$!
 中视,rtmp://f13h.mine.nu/sat/tv091$!
