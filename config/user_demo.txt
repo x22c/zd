@@ -1272,6 +1272,50 @@ SS Variety 3 (FHD),http://doubleclicktv.live//70376812/52663544/62936
 SS Variety 4 (FHD),http://doubleclicktv.live//70376812/52663544/62935
 FR: EUROSPORT 1,http://ua-iptv.com:8080//Balcony11/8036405556/971606
 FR: EUROSPORT 2,http://ua-iptv.com:8080//Balcony11/8036405556/971607
+ES: LALIGA TV 2 HYPERMOTION,http://ua-iptv.com:8080//Balcony11/8036405556/973387
+ES: LALIGA TV 3 HYPERMOTION,http://ua-iptv.com:8080//Balcony11/8036405556/973388
+ES: LALIGA TV HYPERMOTION,http://ua-iptv.com:8080//Balcony11/8036405556/973389
+IT: Serie A Tim Femminile 1,http://ua-iptv.com:8080//Balcony11/8036405556/778187
+IT: Serie A Tim Femminile 1,http://ua-iptv.com:8080//Balcony11/8036405556/778188
+IT: Serie A Tim Femminile 2,http://ua-iptv.com:8080//Balcony11/8036405556/778189
+IT: Serie A Tim Femminile 2,http://ua-iptv.com:8080//Balcony11/8036405556/778190
+IT: Serie A Tim Femminile 3,http://ua-iptv.com:8080//Balcony11/8036405556/778191
+IT: Serie A Tim Femminile 3,http://ua-iptv.com:8080//Balcony11/8036405556/778192
+IT: Serie A Tim Femminile 4,http://ua-iptv.com:8080//Balcony11/8036405556/778193
+IT: Serie A Tim Femminile 4,http://ua-iptv.com:8080//Balcony11/8036405556/778194
+IT: Serie A Tim Femminile 5,http://ua-iptv.com:8080//Balcony11/8036405556/778195
+IT: Serie A Tim Femminile 5,http://ua-iptv.com:8080//Balcony11/8036405556/778196
+IT: Dazn Zona,http://ua-iptv.com:8080//Balcony11/8036405556/778122
+IT: Dazn Zona 2,http://ua-iptv.com:8080//Balcony11/8036405556/778123
+IT: Dazn Zona 3,http://ua-iptv.com:8080//Balcony11/8036405556/778124
+IT: Boomerang,http://ua-iptv.com:8080//Balcony11/8036405556/778112
+DE: Sky Sport Bundesliga (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856661
+DE: Sky Sport Bundesliga (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856662
+DE: Sky Sport Bundesliga 1 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856663
+DE: Sky Sport Bundesliga 1 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856664
+DE: Sky Sport Bundesliga 2 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856667
+DE: Sky Sport Bundesliga 2 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856668
+DE: Sky Sport Bundesliga 3 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856669
+DE: Sky Sport Bundesliga 3 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856670
+DE: Sky Sport Bundesliga 4 (FHD),http://ua-iptv.com:8080//Balcony11/8036405556/856671
+DE: Sky Sport Bundesliga 4 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856672
+DE: Sky Sport Bundesliga 5 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856673
+DE: Sky Sport Bundesliga 5 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856674
+DE: Sky Sport Bundesliga 6 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856675
+DE: Sky Sport Bundesliga 6 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856676
+DE: Sky Sport Bundesliga 7 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856677
+DE: Sky Sport Bundesliga 7 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856678
+DE: Sky Sport Bundesliga 8 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856679
+DE: Sky Sport Bundesliga 8 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856680
+DE: Sky Sport Bundesliga 9 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856681
+DE: Sky Sport Bundesliga 9 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856682
+DE: Sky Sport Bundesliga 10 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856665
+DE: Sky Sport Bundesliga 10 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856666
+DE: ZDF (FHD),http://ua-iptv.com:8080//Balcony11/8036405556/856736
+DE: ZDF (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856737
+DE: ZDF Neo (HD),http://ua-iptv.com:8080//Balcony11/8036405556/856739
+DE: ZDFinfo (FHD),http://ua-iptv.com:8080//Balcony11/8036405556/856740
+
 
 🔆英国频道🔆,#genre#
 👉以下频道需要魔法👈,https://wp.23zo.cn/f/YP9fx/6h.mp4
