@@ -1997,6 +1997,15 @@ USA: AR: Little Rock-ABC- KATV,http://ua-iptv.com:8080//Balcony11/8036405556/100
 
 🔆法国频道🔆,#genre#
 👉以下频道需要魔法👈,https://wp.23zo.cn/f/YP9fx/6h.mp4
+FR: EVENEMENT SPORT HDR/UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971640
+FR: EVENEMENT SPORT UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971641
+FR: M6 UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971691
+FR: RMC DECOUVERTE,http://ua-iptv.com:8080//Balcony11/8036405556/971719
+FR: RMC STORY,http://ua-iptv.com:8080//Balcony11/8036405556/971720
+FR: TF1,http://ua-iptv.com:8080//Balcony11/8036405556/971730
+FR: TF1 HDR/UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971731
+FR: TF1 SERIES FILMS,http://ua-iptv.com:8080//Balcony11/8036405556/971732
+FR: TF1 UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971733
 FR: 6TER,http://ua-iptv.com:8080//Balcony11/8036405556/971500
 FR: AB1,http://ua-iptv.com:8080//Balcony11/8036405556/971501
 FR: ACTION,http://ua-iptv.com:8080//Balcony11/8036405556/971502
@@ -2072,19 +2081,14 @@ FR: COMEDY CENTRAL,http://ua-iptv.com:8080//Balcony11/8036405556/971583
 FR: CSTAR,http://ua-iptv.com:8080//Balcony11/8036405556/971584
 FR: CSTAR HITS FRANCE,http://ua-iptv.com:8080//Balcony11/8036405556/971585
 FR: Dazn 1 (FHD),http://ua-iptv.com:8080//Balcony11/8036405556/971586
-FR: Dazn 1 (SD),http://ua-iptv.com:8080//Balcony11/8036405556/971587
 FR: Dazn 2 (FHD),http://ua-iptv.com:8080//Balcony11/8036405556/971588
 FR: Dazn 2 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/971589
-FR: Dazn 2 (SD),http://ua-iptv.com:8080//Balcony11/8036405556/971590
 FR: Dazn 3 (FHD),http://ua-iptv.com:8080//Balcony11/8036405556/971591
 FR: Dazn 3 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/971592
-FR: Dazn 3 (SD),http://ua-iptv.com:8080//Balcony11/8036405556/971593
 FR: Dazn 4 (FHD),http://ua-iptv.com:8080//Balcony11/8036405556/971594
 FR: Dazn 4 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/971595
-FR: Dazn 4 (SD),http://ua-iptv.com:8080//Balcony11/8036405556/971596
 FR: Dazn 5 (FHD),http://ua-iptv.com:8080//Balcony11/8036405556/971597
 FR: Dazn 5 (HD),http://ua-iptv.com:8080//Balcony11/8036405556/971598
-FR: Dazn 5 (SD),http://ua-iptv.com:8080//Balcony11/8036405556/971599
 FR: DISCOVERY CHANNEL,http://ua-iptv.com:8080//Balcony11/8036405556/971600
 FR: DISCOVERY INVESTIGATION,http://ua-iptv.com:8080//Balcony11/8036405556/971601
 FR: DISNEY CHANNEL,http://ua-iptv.com:8080//Balcony11/8036405556/971602
@@ -2096,8 +2100,6 @@ FR: EUROSPORT 360 2,http://ua-iptv.com:8080//Balcony11/8036405556/971619
 FR: EUROSPORT 360 3,http://ua-iptv.com:8080//Balcony11/8036405556/971630
 FR: EUROSPORT 360 4,http://ua-iptv.com:8080//Balcony11/8036405556/971634
 FR: EUROSPORT 360 5,http://ua-iptv.com:8080//Balcony11/8036405556/971635
-FR: EVENEMENT SPORT HDR/UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971640
-FR: EVENEMENT SPORT UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971641
 FR: F3 ALPES,http://ua-iptv.com:8080//Balcony11/8036405556/971642
 FR: F3 ALSACE,http://ua-iptv.com:8080//Balcony11/8036405556/971643
 FR: F3 AQUITAINE,http://ua-iptv.com:8080//Balcony11/8036405556/971644
@@ -2147,7 +2149,6 @@ FR: Loupe Art UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971687
 FR: LUXE TV UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971688
 FR: M6,http://ua-iptv.com:8080//Balcony11/8036405556/971689
 FR: M6 MUSIC,http://ua-iptv.com:8080//Balcony11/8036405556/971690
-FR: M6 UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971691
 FR: MANGAS,http://ua-iptv.com:8080//Balcony11/8036405556/971692
 FR: MCM,http://ua-iptv.com:8080//Balcony11/8036405556/971693
 FR: MGG TV,http://ua-iptv.com:8080//Balcony11/8036405556/971694
@@ -2175,8 +2176,6 @@ FR: PLANETE+ AVENTURE,http://ua-iptv.com:8080//Balcony11/8036405556/971715
 FR: PLANETE+ CRIME,http://ua-iptv.com:8080//Balcony11/8036405556/971716
 FR: POLAR+,http://ua-iptv.com:8080//Balcony11/8036405556/971717
 FR: RFM TV,http://ua-iptv.com:8080//Balcony11/8036405556/971718
-FR: RMC DECOUVERTE,http://ua-iptv.com:8080//Balcony11/8036405556/971719
-FR: RMC STORY,http://ua-iptv.com:8080//Balcony11/8036405556/971720
 FR: RTL9,http://ua-iptv.com:8080//Balcony11/8036405556/971721
 FR: SCIENCE ET VIE TV,http://ua-iptv.com:8080//Balcony11/8036405556/971722
 FR: SERIE CLUB,http://ua-iptv.com:8080//Balcony11/8036405556/971723
@@ -2186,10 +2185,6 @@ FR: STANDS,http://ua-iptv.com:8080//Balcony11/8036405556/971726
 FR: TCM CINEMA,http://ua-iptv.com:8080//Balcony11/8036405556/971727
 FR: TELETOON+,http://ua-iptv.com:8080//Balcony11/8036405556/971728
 FR: TEVA,http://ua-iptv.com:8080//Balcony11/8036405556/971729
-FR: TF1,http://ua-iptv.com:8080//Balcony11/8036405556/971730
-FR: TF1 HDR/UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971731
-FR: TF1 SERIES FILMS,http://ua-iptv.com:8080//Balcony11/8036405556/971732
-FR: TF1 UHD/4K,http://ua-iptv.com:8080//Balcony11/8036405556/971733
 FR: TFX,http://ua-iptv.com:8080//Balcony11/8036405556/971734
 FR: TIJI,http://ua-iptv.com:8080//Balcony11/8036405556/971735
 FR: TLC,http://ua-iptv.com:8080//Balcony11/8036405556/971736
