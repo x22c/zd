@@ -1,9 +1,9 @@
 # 这是订阅源列表，每行一个订阅地址
 # This is a list of subscription sources, with one subscription address per line
 
+https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-database/refs/heads/master/result.txt
 https://live.hacks.tools/tv/iptv4.txt
 https://live.hacks.tools/tv/iptv6.txt
-https://gh-proxy.com/raw.githubusercontent.com/Guovin/iptv-database/refs/heads/master/result.txt
 https://live.hacks.tools/iptv/index.m3u
 https://tv6.tv1288.xyz
 http://kkk.jjjj.jiduo.me/user/tttt/api.txt
