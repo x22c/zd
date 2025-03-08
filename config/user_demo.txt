@@ -4511,7 +4511,8 @@ SiTV游戏风云,http://nhljz.net:35455/itv/2000000002000000011.m3u8?cdn=Fifastb
 
 
 🔆湖北🔆,#genre#
-湖北影视,http://cdn.jdshipin.com:8880/hbgd.php?id=hbys_1000$!
+湖北影视,http://119.36.78.50:9981/tsfile/live/1013_1.m3u8
+湖北影视,http://119.98.124.186:4022/rtp/239.69.1.204:10866
 武汉新闻综合,http://stream.appwuhan.com/1tzb/sd/live.m3u8$!
 武汉电视剧,http://stream.appwuhan.com/2tzb/sd/live.m3u8$!
 武汉经济,http://stream.appwuhan.com/4tzb/sd/live.m3u8$!
