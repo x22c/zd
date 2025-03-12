@@ -1032,15 +1032,6 @@ TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8$!
 👉以下频道需要魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
 UK: Eurosport 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001347
 UK: Eurosport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001348
-UK: Europsort XTRA 1 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001349
-UK: Europsort XTRA 2 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001350
-UK: Europsort XTRA 3 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001351
-UK: Europsort XTRA 4 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001352
-UK: Europsort XTRA 5 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001353
-UK: Europsort XTRA 6 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001354
-UK: Europsort XTRA 7 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001355
-UK: Europsort XTRA 8 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001356
-UK: Europsort XTRA 9 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001357
 UK: Fight Sports,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001358
 UK: FreeSports,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001359
 UK: LaLiga TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001360
@@ -1053,7 +1044,7 @@ UK: PREMIER SPORTS 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1
 UK: Racing TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001367
 UK: SKY SPORTS Action/NFL,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001368
 UK: SKY SPORTS Arena,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001369
-UK: SKY SPORTS Box Office [Events Only],http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001370
+UK: SKY SPORTS Box Office,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001370
 UK: SKY SPORTS Cricket,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001371
 UK: SKY SPORTS F1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001372
 UK: SKY SPORTS Football,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001373
@@ -1079,16 +1070,16 @@ UK: TNT SPORTS Ultimate,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9P
 UK: TNT SPORTS Ultimate ⁴ᴷ,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001393
 UK: Via Play sports 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001394
 UK: Via Play Sports 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001395
-Eleven Sport UHD/4K (P),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/843207
+UK: Eleven Sport UHD/4K,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/843207
 USA Eleven Sports,http://doubleclicktv.live//70376812/52663544/933
 24/7: WWE Money in the Bank,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/998996
 24/7: WWE Royal Rumble,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/998997
 24/7: WWE SummerSlam,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/998998
 24/7: WWE WrestleMania,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/998999
 US: UFC FIGHT PASS 24/7,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000093
-US:  ACC NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999992
-US:  BIG TEN NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999993
-US:  CBS SPORTS HQ,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999994
+US: ACC NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999992
+US: BIG TEN NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999993
+US: CBS SPORTS HQ,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999994
 US: ALTITUDE SPORTS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999995
 US: ATT SPORTSNET PITTSBURGH,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999996
 US: CBS SPORTS NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999997
@@ -1099,36 +1090,6 @@ US: ESPN 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000001
 US: ESPN NEWS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000002
 US: ESPN U,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000003
 US: FanDuel TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000004
-US: FanDuel CAROLINAS US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000005
-US: FanDuel  Cincinnati us,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000006
-US: FanDuel  Detroit US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000007
-US: FanDuel Detroit Plus,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000008
-US: FanDuel  Great Lakes US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000009
-US: FanDuel Florida,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000010
-US: FanDuel Indiana,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000011
-US: FanDuel  Kansas City US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000012
-US: FanDuel Kansas City Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000013
-US: FanDuel  Midwest US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000014
-US: FanDuel  Midwest Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000015
-US: FanDuel New Orleans US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000016
-US: FanDuel  New Orleans Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000017
-US: FanDuel  North,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000018
-US: FanDuel  North Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000019
-US: FanDuel Ohio US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000020
-US: FanDuel  Ohio Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000021
-US: FanDuel  Oklahoma US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000022
-US: FanDuel  Oklahoma Plus,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000023
-US: FanDuel  San Diego US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000024
-US: FanDuel  Socal US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000025
-US: FanDuel  South US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000026
-US: FanDuel  South Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000027
-US: FanDuel  Southeast US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000028
-US: FanDuel Southwest,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000029
-US: FanDuel  SUN SOUTH US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000030
-US: FanDuel  Sun US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000031
-US: FanDuel Tennessee US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000032
-US: FanDuel  WEST,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000033
-US: FanDuel  Wisconsin,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000034
 US: FanDuel Wisconsin Plus,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000035
 US: FIGHT NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000036
 US: FOR THE FANS FTF,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000037
@@ -1155,14 +1116,6 @@ US: MSG 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000057
 US: MSG Plus,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000058
 US: NBA TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000059
 US: NBC Golf,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000060
-US: NBC SPORTS (BAY AREA),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000061
-US: NBC SPORTS (BAY AREA) +,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000062
-US: NBC SPORTS (BOSTON),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000063
-US: NBC SPORTS (CALIFORNIA),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000064
-US: NBC SPORTS (CALIFORNIA) +,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000065
-US: NBC SPORTS CHICAGO,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000066
-US: NBC SPORTS CHICAGO PLUS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000067
-US: NBC SPORTS NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000068
 US: NBC SPORTS PHILLY PLUS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000069
 US: NBCSN PHILADELPHIA,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000070
 US: NESN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000071
@@ -1202,16 +1155,6 @@ IT-DAZN 6,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990088
 IT-DAZN 7,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990089
 ES-DAZN 1: F1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990008
 ES-DAZN 2: F1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990009
-ES-DAZN 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990010
-ES-DAZN 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990011
-ES-DAZN 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990012
-ES-DAZN 6,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990013
-ES-DAZN 7,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990014
-ES-DAZN 8,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990015
-ES-DAZN 9,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990016
-ES-DAZN 10,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990017
-ES-DAZN 11,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990018
-ES-DAZN 12,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990019
 ARB: beIN Sports 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855424
 ARB: beIN Sports 1 English,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855425
 ARB: beIN Sports 1 French,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855426
@@ -1239,15 +1182,11 @@ MY: Astro Premier 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/85
 MY: Astro Premier 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856819
 MY: Astro Rania,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856820
 MY: Astro Supersport 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856821
-MY: Astro Supersport 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856822
 MY: Astro Supersport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856823
-MY: Astro Supersport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856824
 MY: Astro Supersport 2_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856825
 MY: Astro Supersport 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856826
-MY: Astro Supersport 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856827
 MY: Astro Supersport 3_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856828
 MY: Astro Supersport 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856829
-MY: Astro Supersport 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856830
 MY: Astro Supersport 4_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856831
 MY: Astro Supersport 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856832
 MY: Astro SuperSport Events 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856833
@@ -1262,8 +1201,7 @@ MY: ASTRO_CRICKET_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9P
 MY: Awesome TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856842
 MY: AXN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856843
 MY: BBC CBeebies,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856844
-MY: beIN Sports,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856845
-MY: beIN Sports 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856846
+MY: beIN Sports 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856845
 MY: beIN Sports 2 50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856847
 MY: beIN Sports 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856848
 MY: beIN Sports 3 50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856849
@@ -1292,15 +1230,10 @@ ES: LALIGA TV 2 HYPERMOTION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR87
 ES: LALIGA TV 3 HYPERMOTION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973388
 ES: LALIGA TV HYPERMOTION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973389
 IT: Serie A Tim Femminile 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778187
-IT: Serie A Tim Femminile 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778188
 IT: Serie A Tim Femminile 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778189
-IT: Serie A Tim Femminile 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778190
 IT: Serie A Tim Femminile 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778191
-IT: Serie A Tim Femminile 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778192
 IT: Serie A Tim Femminile 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778193
-IT: Serie A Tim Femminile 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778194
 IT: Serie A Tim Femminile 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778195
-IT: Serie A Tim Femminile 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778196
 IT: Dazn Zona,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778122
 IT: Dazn Zona 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778123
 IT: Dazn Zona 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778124
@@ -1308,27 +1241,16 @@ IT: Boomerang,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778112
 DE: Sky Sport Bundesliga (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856661
 DE: Sky Sport Bundesliga (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856662
 DE: Sky Sport Bundesliga 1 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856663
-DE: Sky Sport Bundesliga 1 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856664
-DE: Sky Sport Bundesliga 2 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856667
 DE: Sky Sport Bundesliga 2 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856668
 DE: Sky Sport Bundesliga 3 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856669
-DE: Sky Sport Bundesliga 3 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856670
 DE: Sky Sport Bundesliga 4 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856671
-DE: Sky Sport Bundesliga 4 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856672
 DE: Sky Sport Bundesliga 5 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856673
-DE: Sky Sport Bundesliga 5 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856674
 DE: Sky Sport Bundesliga 6 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856675
-DE: Sky Sport Bundesliga 6 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856676
 DE: Sky Sport Bundesliga 7 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856677
-DE: Sky Sport Bundesliga 7 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856678
 DE: Sky Sport Bundesliga 8 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856679
-DE: Sky Sport Bundesliga 8 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856680
 DE: Sky Sport Bundesliga 9 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856681
-DE: Sky Sport Bundesliga 9 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856682
 DE: Sky Sport Bundesliga 10 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856665
-DE: Sky Sport Bundesliga 10 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856666
 DE: ZDF (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856736
-DE: ZDF (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856737
 DE: ZDF Neo (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856739
 DE: ZDFinfo (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856740
 
@@ -1344,15 +1266,6 @@ UK: CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001254
 UK: CNN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001255
 UK: Eurosport 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001347
 UK: Eurosport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001348
-UK: Europsort XTRA 1 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001349
-UK: Europsort XTRA 2 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001350
-UK: Europsort XTRA 3 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001351
-UK: Europsort XTRA 4 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001352
-UK: Europsort XTRA 5 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001353
-UK: Europsort XTRA 6 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001354
-UK: Europsort XTRA 7 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001355
-UK: Europsort XTRA 8 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001356
-UK: Europsort XTRA 9 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001357
 UK: Fight Sports,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001358
 UK: FreeSports,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001359
 UK: LaLiga TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001360
@@ -1376,7 +1289,7 @@ UK: Sky Sports News,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/10
 UK: SKY SPORTS Premier League,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001378
 UK: SKY SPORTS Racing,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001379
 UK: Sky Sports Tennis FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001380
-UK: TNT SPORTS  1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001381
+UK: TNT SPORTS 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001381
 UK: TNT SPORTS 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001382
 UK: TNT SPORTS 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001383
 UK: TNT SPORTS 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001384
@@ -1565,64 +1478,28 @@ UK: Sky Nature,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1001443
 US: CNN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999764
 US: CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999762
 US: CNBC WORLD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999763
-US: C-SPAN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999756
+US: C-SPAN 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999756
 US: C-SPAN 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999757
 US: C-SPAN 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999758
 US: CBS NEWS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999759
 US: ABC NEWS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999751
-US: ACCU WEATHER,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999752
 US: BBC WORLD NEWS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999753
-US:  ACC NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999992
-US:  BIG TEN NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999993
-US:  CBS SPORTS HQ,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999994
-US: ALTITUDE SPORTS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999995
-US: ATT SPORTSNET PITTSBURGH,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999996
 US: CBS SPORTS NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999997
 US: DISCOVERY VELOCITY (MOTORTREND),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999998
 US: ESPN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999999
+US: NBA TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000059
 US: ESPN 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000000
 US: ESPN 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000001
 US: ESPN NEWS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000002
 US: ESPN U,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000003
-US: FanDuel TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000004
-US: FanDuel CAROLINAS US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000005
-US: FanDuel  Cincinnati us,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000006
-US: FanDuel  Detroit US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000007
-US: FanDuel Detroit Plus,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000008
-US: FanDuel  Great Lakes US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000009
-US: FanDuel Florida,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000010
-US: FanDuel Indiana,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000011
-US: FanDuel  Kansas City US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000012
-US: FanDuel Kansas City Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000013
-US: FanDuel  Midwest US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000014
-US: FanDuel  Midwest Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000015
-US: FanDuel New Orleans US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000016
-US: FanDuel  New Orleans Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000017
-US: FanDuel  North,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000018
-US: FanDuel  North Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000019
-US: FanDuel Ohio US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000020
-US: FanDuel  Ohio Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000021
-US: FanDuel  Oklahoma US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000022
-US: FanDuel  Oklahoma Plus,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000023
-US: FanDuel  San Diego US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000024
-US: FanDuel  Socal US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000025
-US: FanDuel  South US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000026
-US: FanDuel  South Plus US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000027
-US: FanDuel  Southeast US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000028
-US: FanDuel Southwest,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000029
-US: FanDuel  SUN SOUTH US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000030
-US: FanDuel  Sun US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000031
-US: FanDuel Tennessee US,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000032
-US: FanDuel  WEST,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000033
-US: FanDuel  Wisconsin,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000034
-US: FanDuel Wisconsin Plus,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000035
-US: FIGHT NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000036
-US: FOR THE FANS FTF,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000037
 US: Fox Soccer Plus,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000038
 US: FOX SPORTS 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000039
 US: FOX SPORTS 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000040
 US: FOX SPORTS DEPORTES,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000041
 US: FUBO SPORTS NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000042
+US: FanDuel TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000004
+US: FIGHT NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000036
+US: FOR THE FANS FTF,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000037
 US: FUEL TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000043
 US: GINX ESPORTS TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000044
 US: Hunt Channel (D),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000045
@@ -1639,18 +1516,14 @@ US: MOTORVISION.TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/100
 US: MSG,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000056
 US: MSG 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000057
 US: MSG Plus,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000058
-US: NBA TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000059
 US: NBC Golf,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000060
-US: NBC SPORTS (BAY AREA),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000061
-US: NBC SPORTS (BAY AREA) +,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000062
-US: NBC SPORTS (BOSTON),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000063
-US: NBC SPORTS (CALIFORNIA),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000064
-US: NBC SPORTS (CALIFORNIA) +,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000065
-US: NBC SPORTS CHICAGO,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000066
-US: NBC SPORTS CHICAGO PLUS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000067
-US: NBC SPORTS NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000068
 US: NBC SPORTS PHILLY PLUS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000069
 US: NBCSN PHILADELPHIA,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000070
+US: ACC NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999992
+US: BIG TEN NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999993
+US: CBS SPORTS HQ,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999994
+US: ALTITUDE SPORTS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999995
+US: ATT SPORTSNET PITTSBURGH,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999996
 US: NESN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000071
 US: NESN PLUS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000072
 US: NFL Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/1000073
@@ -1692,13 +1565,6 @@ US: HLN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999770
 US: INFO WARS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999771
 US: MSNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999772
 US: NECN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999773
-US: News 12 Brooklyn,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999774
-US: News 12 Connecticut,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999775
-US: News 12 Hudson Valley,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999776
-US: News 12 Long Island,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999777
-US: News 12 New Jersey,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999778
-US: News 12 The Bronx,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999779
-US: News 12 Westchester,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999780
 US: NEWS NATION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999781
 US: NEWSMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999782
 US: NEWSNET,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999783
@@ -1731,13 +1597,6 @@ US: AWE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999328
 US: Ax Men,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999329
 US: AXS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999330
 US: BBC AMERICA,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999331
-US: BET,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999332
-US: BET (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999333
-US: BET HER,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999334
-US: BET HER (WEST),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999335
-US: BET Jams,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999336
-US: BET SOUL,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999337
-US: Bob Ross Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999338
 US: BOUNCE TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999339
 US: BRAVO,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999340
 US: Bravo (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999341
@@ -1954,17 +1813,6 @@ US: AMC PLUS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999898
 US: CINEMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999899
 US: Cinemax (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999900
 US: CINEMAX 5 STARMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999901
-US: CINEMAX ACTIONMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999902
-US: Cinemax ActionMax (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999903
-US: CINEMAX MOREMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999904
-US: Cinemax MoreMax (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999905
-US: CINEMAX MOVIEMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999906
-US: CINEMAX OUTERMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999907
-US: CINEMAX THRILLERMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999908
-US: Cinemax ThrillerMax (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999909
-US: CINEVAULT 80s,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999910
-US: CINEVAULT WESTERNS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999911
-US: FILMRISE CRIME,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999912
 US: FLIX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999913
 US: Flix (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999914
 US: FX MOVIE CHANNEL,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999915
@@ -1999,19 +1847,6 @@ US: SCREEN PIX VOICES,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/
 US: SCREEN PIX WESTERNS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999944
 US: ScreenPix,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999945
 US: SHOWTIME,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999946
-US: Showtime (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999947
-US: SHOWTIME 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999948
-US: Showtime 2 (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999949
-US: SHOWTIME EXTREME,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999950
-US: Showtime Extreme (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999951
-US: SHOWTIME FAMILY ZONE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999952
-US: Showtime Family Zone (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999953
-US: SHOWTIME NEXT,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999954
-US: Showtime Next (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999955
-US: SHOWTIME SHOWCASE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999956
-US: Showtime Showcase (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999957
-US: SHOWTIME WOMEN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999958
-US: Showtime Women (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999959
 US: SHOxBET,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999960
 US: SONY MOVIE CHANNEL,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999961
 US: STARZ,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999962
@@ -2022,19 +1857,6 @@ US: STARZ COMEDY,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/99996
 US: STARZ EDGE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999967
 US: Starz Edge (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999968
 US: STARZ ENCORE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999969
-US: Starz Encore (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999970
-US: STARZ ENCORE ACTION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999971
-US: Starz Encore Action (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999972
-US: STARZ ENCORE BLACK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999973
-US: Starz Encore Black (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999974
-US: STARZ ENCORE CLASSIC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999975
-US: Starz Encore Classic (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999976
-US: STARZ ENCORE FAMILY,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999977
-US: Starz Encore Family (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999978
-US: STARZ ENCORE SUSPENSE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999979
-US: Starz Encore Suspense (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999980
-US: STARZ ENCORE WESTERNS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999981
-US: Starz Encore Westerns (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999982
 US: STARZ IN BLACK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999983
 US: Starz in Black (West),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999984
 US: STARZ KIDS AND FAMILY,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/999985
@@ -2142,13 +1964,9 @@ FR: CSTAR,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971584
 FR: CSTAR HITS FRANCE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971585
 FR: Dazn 1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971586
 FR: Dazn 2 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971588
-FR: Dazn 2 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971589
 FR: Dazn 3 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971591
-FR: Dazn 3 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971592
 FR: Dazn 4 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971594
-FR: Dazn 4 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971595
 FR: Dazn 5 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971597
-FR: Dazn 5 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971598
 FR: DISCOVERY CHANNEL,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971600
 FR: DISCOVERY INVESTIGATION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971601
 FR: DISNEY CHANNEL,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971602
@@ -2287,20 +2105,19 @@ DE: Deluxemusic (HQ),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/8
 DE: Discovery Channel (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856506
 DE: Esports1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856507
 DE: Eurosport 1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856508
-DE: Eurosport1 (SD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856509
-DE: Sky Sport F1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856683
+DE: Sky Sport F1 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856683
 DE: Sky Sport F1 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856684
-DE: Sky Sport Golf (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856685
+DE: Sky Sport Golf (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856685
 DE: Sky Sport Golf (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856686
-DE: Sky Sport Mix (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856687
+DE: Sky Sport Mix (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856687
 DE: Sky Sport Mix (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856688
-DE: Sky Sport News (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856689
+DE: Sky Sport News (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856689
 DE: Sky Sport News (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856690
-DE: Sky Sport Premier League (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856691
+DE: Sky Sport Premier League (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856691
 DE: Sky Sport Premier League (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856692
-DE: Sky Sport Tennis (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856693
+DE: Sky Sport Tennis (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856693
 DE: Sky Sport Tennis (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856694
-DE: Sky Sport Top Event (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856695
+DE: Sky Sport Top Event (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856695
 DE: Sky Sport Top Event (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856696
 DE: Sky Sport UHD/4K,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856697
 DE: Sport1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856698
@@ -2367,75 +2184,63 @@ DE: Servus TV (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/85
 DE: Sixx (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856610
 DE: Sky Atlantic (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856611
 DE: Sky Atlantic (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856612
-DE: Sky Cinema Action (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856613
+DE: Sky Cinema Action (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856613
 DE: Sky Cinema Action (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856614
-DE: Sky Cinema Best Of (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856615
+DE: Sky Cinema Best Of (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856615
 DE: Sky Cinema Best Of (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856616
-DE: Sky Cinema Classics (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856617
+DE: Sky Cinema Classics (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856617
 DE: Sky Cinema Classics (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856618
-DE: Sky Cinema Family (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856619
+DE: Sky Cinema Family (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856619
 DE: Sky Cinema Family (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856620
-DE: Sky Cinema Fun (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856621
+DE: Sky Cinema Fun (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856621
 DE: Sky Cinema Fun (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856622
-DE: Sky Cinema Premieren (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856623
+DE: Sky Cinema Premieren (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856623
 DE: Sky Cinema Premieren (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856624
-DE: Sky Cinema Special (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856625
+DE: Sky Cinema Special (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856625
 DE: Sky Cinema Special (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856626
-DE: Sky Cinema Thriller (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856627
+DE: Sky Cinema Thriller (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856627
 DE: Sky Cinema Thriller (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856628
-DE: Sky Comedy (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856629
+DE: Sky Comedy (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856629
 DE: Sky Comedy (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856630
-DE: Sky Crime (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856631
+DE: Sky Crime (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856631
 DE: Sky Crime (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856632
-DE: Sky Krimi (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856633
+DE: Sky Krimi (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856633
 DE: Sky Krimi (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856634
-DE: Sky One (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856635
+DE: Sky One (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856635
 DE: Sky One (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856636
 DE: Sky Replay (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856637
-DE: Sky Replay (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856638
 DE: Sky Showcase (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856639
-DE: Sky Showcase (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856640
 DE: Sky Sport 1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856641
-DE: Sky Sport 1 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856642
 DE: Sky Sport 10 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856643
-DE: Sky Sport 10 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856644
 DE: Sky Sport 2 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856645
-DE: Sky Sport 2 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856646
 DE: Sky Sport 3 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856647
-DE: Sky Sport 3 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856648
 DE: Sky Sport 4 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856649
-DE: Sky Sport 4 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856650
 DE: Sky Sport 5 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856651
-DE: Sky Sport 5 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856652
 DE: Sky Sport 6 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856653
-DE: Sky Sport 6 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856654
 DE: Sky Sport 7 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856655
-DE: Sky Sport 7 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856656
 DE: Sky Sport 8 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856657
-DE: Sky Sport 8 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856658
 DE: Sky Sport 9 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856659
-DE: Sky Sport 9 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856660
-DE: Sky Sport Bundesliga (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856661
+DE: Sky Sport Bundesliga (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856661
 DE: Sky Sport Bundesliga (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856662
-DE: Sky Sport Bundesliga 1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856663
+DE: Sky Sport Bundesliga 1 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856663
 DE: Sky Sport Bundesliga 1 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856664
-DE: Sky Sport Bundesliga 2 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856667
+DE: Sky Sport Bundesliga 2 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856667
 DE: Sky Sport Bundesliga 2 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856668
-DE: Sky Sport Bundesliga 3 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856669
+DE: Sky Sport Bundesliga 3 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856669
 DE: Sky Sport Bundesliga 3 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856670
-DE: Sky Sport Bundesliga 4 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856671
+DE: Sky Sport Bundesliga 4 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856671
 DE: Sky Sport Bundesliga 4 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856672
-DE: Sky Sport Bundesliga 5 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856673
+DE: Sky Sport Bundesliga 5 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856673
 DE: Sky Sport Bundesliga 5 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856674
-DE: Sky Sport Bundesliga 6 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856675
+DE: Sky Sport Bundesliga 6 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856675
 DE: Sky Sport Bundesliga 6 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856676
-DE: Sky Sport Bundesliga 7 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856677
+DE: Sky Sport Bundesliga 7 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856677
 DE: Sky Sport Bundesliga 7 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856678
-DE: Sky Sport Bundesliga 8 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856679
+DE: Sky Sport Bundesliga 8 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856679
 DE: Sky Sport Bundesliga 8 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856680
-DE: Sky Sport Bundesliga 9 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856681
+DE: Sky Sport Bundesliga 9 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856681
 DE: Sky Sport Bundesliga 9 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856682
-DE: Sky Sport Bundesliga 10 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856665
+DE: Sky Sport Bundesliga 10 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856665
 DE: Sky Sport Bundesliga 10 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856666
 DE: Sr (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856701
 DE: SR Fernsehen (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856702
