@@ -326,6 +326,7 @@ CCTV风云音乐
 
 
 🔆4K-UHD🔆,#genre#
+北京卫视 4K,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s41/index.m3u8?time=1743118885&sign=d0a9f3569fe58ebdd9a30738464ec58f$!
 南国都市 4k,http://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=140110ae3d6c936a77f94c4f4d85b0d3&txTime=18d57929bd4$!
 CCTV-4K 超高清,http://148.135.93.213:81/live.php?id=CCTV4K-av3a$!
 CCTV-16 4K,http://148.135.93.213:81/live.php?id=CCTV16-4K-av3a$!
