@@ -3,6 +3,249 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
+
+🔆虎牙轮播🔆,#genre#
+ 悬疑放映厅,https://www.goodiptv.club/huya/26355797
+ 微竞-小也baby,https://www.goodiptv.club/huya/20155
+ 每日读书,https://www.goodiptv.club/huya/20985826
+ 武林萌主唐小姐,https://www.goodiptv.club/huya/11336726
+ 乐佰-虫虫,https://www.goodiptv.club/huya/23025
+ 周星星,https://www.goodiptv.club/huya/11342412
+ 蛮多的功夫,https://www.goodiptv.club/huya/23740156
+ 回去拿马卡报,https://www.goodiptv.club/huya/30080238
+ 小木子先生丶,https://www.goodiptv.club/huya/11342396
+ 痞子帅叔叔,https://www.goodiptv.club/huya/11342433
+ 微竞-笑笑大兔兔,https://www.goodiptv.club/huya/520016
+ 球哥解说,https://www.goodiptv.club/huya/29465875
+ 阿斗归来了,https://www.goodiptv.club/huya/13303478
+ 埋堆堆官方影视狂热者,https://www.goodiptv.club/huya/29076690
+ 斗破-萧炎,https://www.goodiptv.club/huya/29863394
+ 婧婧丶,https://www.goodiptv.club/huya/618917
+ 江爽【好运来】,https://www.goodiptv.club/huya/23796393
+ 悠悠爱电影,https://www.goodiptv.club/huya/30611864
+ 鯎爺,https://www.goodiptv.club/huya/11352944
+ 超甜呦、,https://www.goodiptv.club/huya/30526458
+ 口口甜,https://www.goodiptv.club/huya/25701671
+ 不染ctal,https://www.goodiptv.club/huya/30595074
+ 超级大幂幂,https://www.goodiptv.club/huya/30540279
+ 婉晴ctde,https://www.goodiptv.club/huya/30595139
+ 齐鲁影视,https://www.goodiptv.club/huya/29807061
+ 提莫放映,https://www.goodiptv.club/huya/30684784
+ 斗破-萧薰儿,https://www.goodiptv.club/huya/29862625
+ 麻花糖,https://www.goodiptv.club/huya/26182091
+ 偶lo,https://www.goodiptv.club/huya/30509122
+ 小璐影视,https://www.goodiptv.club/huya/30655127
+ 欣儿不爱吃香菜,https://www.goodiptv.club/huya/30621162
+ 微微oi,https://www.goodiptv.club/huya/30308535
+ 美美影视,https://www.goodiptv.club/huya/30548806
+ 精彩小雨幕,https://www.goodiptv.club/huya/30080148
+ 微竞-浪娅,https://www.goodiptv.club/huya/30280769
+ 陈翔六点半,https://www.goodiptv.club/huya/11274154
+ 微竞-絮絮,https://www.goodiptv.club/huya/126859
+ 古镇小鹿,https://www.goodiptv.club/huya/30145009
+ 吸门亲,https://www.goodiptv.club/huya/30629768
+ 叁岁打死牛,https://www.goodiptv.club/huya/30515137
+ 雪雪姐tu,https://www.goodiptv.club/huya/30585957
+ 菲菲影视剧,https://www.goodiptv.club/huya/30671959
+ 虎桥路关羽,https://www.goodiptv.club/huya/30613314
+ 得志未断绝,https://www.goodiptv.club/huya/30523326
+ 子宽放,https://www.goodiptv.club/huya/30362138
+ 小虎牙影视厅,https://www.goodiptv.club/huya/30413280
+ 新橙記Orange丶,https://www.goodiptv.club/huya/30590779
+ 不吃兔兔子,https://www.goodiptv.club/huya/30512441
+ 柯冉冉,https://www.goodiptv.club/huya/11352874
+ 不吃香菜丫丫,https://www.goodiptv.club/huya/30612264
+ 婧丶,https://www.goodiptv.club/huya/26298751
+ SJ-小美,https://www.goodiptv.club/huya/30363727
+ 小桃猪猪,https://www.goodiptv.club/huya/30527430
+ 炒白果萝卜,https://www.goodiptv.club/huya/30440855
+ 小麥,https://www.goodiptv.club/huya/10980725
+ 知性美丽小公主,https://www.goodiptv.club/huya/30653684
+ Stcop猫猫,https://www.goodiptv.club/huya/30488738
+ 甜瓜不萌,https://www.goodiptv.club/huya/30158546
+ 我是詹密,https://www.goodiptv.club/huya/11342439
+ 沫宝儿吖,https://www.goodiptv.club/huya/30526426
+ 贫困小张喜欢A锥,https://www.goodiptv.club/huya/30656608
+ 锤子动画,https://www.goodiptv.club/huya/30649359
+ winccab,https://www.goodiptv.club/huya/30650192
+ 初一,https://www.goodiptv.club/huya/16567940
+ 仙女鹿、,https://www.goodiptv.club/huya/29835716
+ 我很忙,https://www.goodiptv.club/huya/11352950
+ 7喜先生,https://www.goodiptv.club/huya/11342421
+ 薇薇ol,https://www.goodiptv.club/huya/30712548
+ 猴麻麻,https://www.goodiptv.club/huya/25692245
+ 老问我东西南北,https://www.goodiptv.club/huya/30080244
+ 梦梦影视,https://www.goodiptv.club/huya/25129377
+ 薄情凉了城,https://www.goodiptv.club/huya/30156310
+ 炎热夏阳柔和,https://www.goodiptv.club/huya/30252446
+ 南风影视,https://www.goodiptv.club/huya/30424191
+ 梦溪影视,https://www.goodiptv.club/huya/25742076
+ 高贵优雅石榴裙,https://www.goodiptv.club/huya/30653672
+ 海绵宝宝宝,https://www.goodiptv.club/huya/11352919
+ 大雅唯白发,https://www.goodiptv.club/huya/30692769
+ 爱笑的优米,https://www.goodiptv.club/huya/29820210
+ 非凡武林,https://www.goodiptv.club/huya/21674665
+ 静静影视,https://www.goodiptv.club/huya/30712558
+ 佩琪不爱吃香菜,https://www.goodiptv.club/huya/30577385
+ 可梦伊人,https://www.goodiptv.club/huya/29800791
+ 晴儿影视,https://www.goodiptv.club/huya/30400559
+ 一只大懒虫,https://www.goodiptv.club/huya/11279251
+ 糖果小豆包,https://www.goodiptv.club/huya/30653660
+ 小糯米丿,https://www.goodiptv.club/huya/128391
+ 傍晚猴,https://www.goodiptv.club/huya/30080236
+ 梦想观影社,https://www.goodiptv.club/huya/30667638
+ 白菘无人省,https://www.goodiptv.club/huya/26355864
+ 沐希兔子,https://www.goodiptv.club/huya/29835225
+ 小猫影视,https://www.goodiptv.club/huya/30569079
+ 全优少年,https://www.goodiptv.club/huya/11602081
+ 虎牙观影厅,https://www.goodiptv.club/huya/30273533
+ 會唱歌的小野貓,https://www.goodiptv.club/huya/11352871
+ 心疼得抱住胖胖的自己,https://www.goodiptv.club/huya/11342425
+ 红茶妹妹,https://www.goodiptv.club/huya/11336592
+ 【炊烟大壮】,https://www.goodiptv.club/huya/24782284
+ 裸奔的蜗牛╮,https://www.goodiptv.club/huya/11342418
+ 影评专员,https://www.goodiptv.club/huya/30311494
+ 美少女咸儿,https://www.goodiptv.club/huya/11336572
+ 野原的一家,https://www.goodiptv.club/huya/11352970
+ 傻妞,https://www.goodiptv.club/huya/11342426
+ 领带哥,https://www.goodiptv.club/huya/11342430
+ 马呜呜,https://www.goodiptv.club/huya/29982631
+ 瞬间爆炸,https://www.goodiptv.club/huya/11352960
+ 霜夜品书香,https://www.goodiptv.club/huya/30233965
+ 大侠,https://www.goodiptv.club/huya/11602085
+ 扁豆看电影,https://www.goodiptv.club/huya/16028551
+ 天行豆豉,https://www.goodiptv.club/huya/29877837
+ 彪哥的日常,https://www.goodiptv.club/huya/23650804
+ 反方向的钟1874,https://www.goodiptv.club/huya/29465868
+
+
+🔆斗鱼轮播🔆,#genre#
+ 橙記Orange丶,http://3501776.xyz:35455/douyu/4549169
+baby丶贝贝,http://3501776.xyz:35455/douyu/431460
+深夜D你上高速,http://3501776.xyz:35455/douyu/7882691
+深夜D你练神功,http://3501776.xyz:35455/douyu/12421816
+深夜D你学当官,http://3501776.xyz:35455/douyu/12434419
+精彩短剧看不停,http://3501776.xyz:35455/douyu/11824307
+妮妮AWY,http://3501776.xyz:35455/douyu/11903773
+龍組队长天昊,http://3501776.xyz:35455/douyu/1487654
+伊太刀刀,http://3501776.xyz:35455/douyu/747764
+久了旧知,http://3501776.xyz:35455/douyu/310926
+周杰伦颜老师,http://3501776.xyz:35455/douyu/7537296
+Poison丶冰冰,http://3501776.xyz:35455/douyu/74374
+吃奶滴虫,http://3501776.xyz:35455/douyu/263824
+江边五哥,http://3501776.xyz:35455/douyu/12447123
+我们可爱的程程,http://3501776.xyz:35455/douyu/329667
+有一辆立标奔驰,http://3501776.xyz:35455/douyu/12442176
+菠萝屋SpongeBob,http://3501776.xyz:35455/douyu/12400977
+粤语电影丶,http://3501776.xyz:35455/douyu/1226741
+makimaning,http://3501776.xyz:35455/douyu/12432399
+当燕双鹰遇见李元芳,http://3501776.xyz:35455/douyu/3439096
+竹叶的熊猫,http://3501776.xyz:35455/douyu/3870925
+刘少丶7012,http://3501776.xyz:35455/douyu/131977
+牛叔说电影,http://3501776.xyz:35455/douyu/2758565
+懒猫是只喵,http://3501776.xyz:35455/douyu/260322
+颜如艺,http://3501776.xyz:35455/douyu/12447928
+我的李青插眼不w,http://3501776.xyz:35455/douyu/12437542
+红歌汇直播间,http://3501776.xyz:35455/douyu/12430563
+Only丶邵氏,http://3501776.xyz:35455/douyu/4246519
+晓晓666666,http://3501776.xyz:35455/douyu/426517
+当幽兰剑遇上链子刀,http://3501776.xyz:35455/douyu/6027991
+贾贵队长真男神,http://3501776.xyz:35455/douyu/299854
+卖女孩滴小姑凉,http://3501776.xyz:35455/douyu/922564
+吃米滴虫,http://3501776.xyz:35455/douyu/315457
+师落,http://3501776.xyz:35455/douyu/6911044
+疯狂尛瀦瀦,http://3501776.xyz:35455/douyu/4290711
+小粤兒,http://3501776.xyz:35455/douyu/5033502
+疯狂小潴潴,http://3501776.xyz:35455/douyu/5522351
+火龙果说电影,http://3501776.xyz:35455/douyu/9559158
+苹果Zei妖,http://3501776.xyz:35455/douyu/2793084
+白了个痴,http://3501776.xyz:35455/douyu/319576
+当铁手团遇到光复社,http://3501776.xyz:35455/douyu/5875025
+时光再遇见,http://3501776.xyz:35455/douyu/4944033
+追剧凌宝,http://3501776.xyz:35455/douyu/7119207
+名侦探柯南之银色子弹,http://3501776.xyz:35455/douyu/6484910
+单纯的顺才少爷,http://3501776.xyz:35455/douyu/10084875
+智仗心,http://3501776.xyz:35455/douyu/5635000
+gslaini,http://3501776.xyz:35455/douyu/6997954
+702放映厅,http://3501776.xyz:35455/douyu/10348728
+永远快乐的小美女,http://3501776.xyz:35455/douyu/6091425
+小片片说大片,http://3501776.xyz:35455/douyu/4258555
+喷子OAO,http://3501776.xyz:35455/douyu/7253343
+万合出品,http://3501776.xyz:35455/douyu/9220456
+豆腐芭比,http://3501776.xyz:35455/douyu/6478650
+菠萝屋的海绵宝宝,http://3501776.xyz:35455/douyu/3949681
+牛奶味的梦猪猪,http://3501776.xyz:35455/douyu/5261342
+成龙历险纪,http://3501776.xyz:35455/douyu/2287949
+万事通熊猫,http://3501776.xyz:35455/douyu/7812810
+飘洋过海来,http://3501776.xyz:35455/douyu/9548850
+米尼影院,http://3501776.xyz:35455/douyu/7642724
+十七岁的道姑,http://3501776.xyz:35455/douyu/3186217
+一起看港剧,http://3501776.xyz:35455/douyu/5061550
+7师傅,http://3501776.xyz:35455/douyu/17732
+开心锤锤动漫,http://3501776.xyz:35455/douyu/9018297
+用户1275665728,http://3501776.xyz:35455/douyu/9067836
+科幻Fans布玛,http://3501776.xyz:35455/douyu/3508304
+球球来了呦,http://3501776.xyz:35455/douyu/12180551
+mn静静nm,http://3501776.xyz:35455/douyu/5668371
+小早不服输,http://3501776.xyz:35455/douyu/12453821
+刘松毅,http://3501776.xyz:35455/douyu/12128227
+小约翰可汗,http://3501776.xyz:35455/douyu/9738854
+苹果Zei甜,http://3501776.xyz:35455/douyu/1174353
+网神影厅,http://3501776.xyz:35455/douyu/508118
+老高与小茉的死忠粉,http://3501776.xyz:35455/douyu/236461
+一样二职,http://3501776.xyz:35455/douyu/11827530
+徐大sao,http://3501776.xyz:35455/douyu/7107176
+PDD影院阿,http://3501776.xyz:35455/douyu/1274132
+赵本山经典小品,http://3501776.xyz:35455/douyu/9817716
+怀旧经典影视汇,http://3501776.xyz:35455/douyu/12143022
+聚聚聚一个月,http://3501776.xyz:35455/douyu/4105989
+傲娇的超级赛亚人,http://3501776.xyz:35455/douyu/4373285
+JhZj丶天明,http://3501776.xyz:35455/douyu/1006179
+cym009,http://3501776.xyz:35455/douyu/8231658
+自说自话的总裁,http://3501776.xyz:35455/douyu/9317739
+玛莎提,http://3501776.xyz:35455/douyu/8543072
+一把钢刀镇斗虞,http://3501776.xyz:35455/douyu/7356023
+电影院颜老师,http://3501776.xyz:35455/douyu/12192607
+PP看动漫,http://3501776.xyz:35455/douyu/9837291
+牛叔说电影二台,http://3501776.xyz:35455/douyu/10010651
+胡椒粉的胡歌,http://3501776.xyz:35455/douyu/5448413
+甜漫妮666,http://3501776.xyz:35455/douyu/1569773
+电视剧僵尸约会,http://3501776.xyz:35455/douyu/8371123
+鯋鱼辰辰,http://3501776.xyz:35455/douyu/7623292
+很优美,http://3501776.xyz:35455/douyu/7528160
+gtfobae666,http://3501776.xyz:35455/douyu/3337730
+魔术师丶西索,http://3501776.xyz:35455/douyu/6610883
+三国颜老师,http://3501776.xyz:35455/douyu/12253936
+爱情公寓vip,http://3501776.xyz:35455/douyu/6863367
+moyu3390,http://3501776.xyz:35455/douyu/11922242
+小姐姐不记得,http://3501776.xyz:35455/douyu/3700024
+开心麻花经典小品,http://3501776.xyz:35455/douyu/10153463
+柱子Yang,http://3501776.xyz:35455/douyu/1783144
+好萌的企鹅393,http://3501776.xyz:35455/douyu/10198644
+史君说剧,http://3501776.xyz:35455/douyu/9419771
+彼岸零可星球,http://3501776.xyz:35455/douyu/40471
+蕃薯粥粥煮好了,http://3501776.xyz:35455/douyu/11878141
+v刺猬猪v,http://3501776.xyz:35455/douyu/2436390
+往事vs随风1,http://3501776.xyz:35455/douyu/3113309
+OneGuy丶,http://3501776.xyz:35455/douyu/9734098
+宋小宝小品,http://3501776.xyz:35455/douyu/9817729
+傲天皇妃sama,http://3501776.xyz:35455/douyu/2073
+是你的迷弟吖,http://3501776.xyz:35455/douyu/7039598
+奇兮兮悄陌,http://3501776.xyz:35455/douyu/953193
+多发几个思雨,http://3501776.xyz:35455/douyu/7256376
+女团社颜老师,http://3501776.xyz:35455/douyu/11327316
+过往1908,http://3501776.xyz:35455/douyu/8721095
+泼辣滴小弟弟,http://3501776.xyz:35455/douyu/8912325
+草帽丶海贼团,http://3501776.xyz:35455/douyu/997925
+北京影帝的分身,http://3501776.xyz:35455/douyu/9805480
+虫哥说电影,http://3501776.xyz:35455/douyu/8915074
+我砸晕了牛顿奥,http://3501776.xyz:35455/douyu/1218414
+篮球人物,http://3501776.xyz:35455/douyu/8434598
+武侠剧场,http://3501776.xyz:35455/douyu/9285904
+刘老师说电影,http://3501776.xyz:35455/douyu/8317926
+傲翔帝龙龙,http://3501776.xyz:35455/douyu/12337487
+游钓中国李大毛,http://3501776.xyz:35455/douyu/791411
+
 NHK総合 東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS291&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK教育,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 日本テレビ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
