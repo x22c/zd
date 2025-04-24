@@ -3719,7 +3719,16 @@ BTV国际频道
 睛彩广场舞
 
 🔆上海🔆,#genre#
-上海新闻综合,https://my5353.com/NsiQG$!
+上海新闻综合,http://218.1.217.21:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$!
+五星体育,http://218.1.217.21:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$!
+都市剧场,http://218.1.217.21:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$!
+上海纪实,http://218.1.217.21:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$!
+法制天地,http://218.1.217.21:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$!
+上海教育,http://218.1.217.21:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$!
+崇明综合,http://218.1.217.21:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$!
+上海电视剧,http://218.1.217.21:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$!
+都市频道,http://218.1.217.21:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$!
+上海新闻综合
 新闻综合
 上海五星体育
 五星体育
@@ -3763,6 +3772,12 @@ SiTV游戏风云
 广州法治,https://tencentplay.gztv.com/live/fazhi.m3u8?txSecret=040cda8ae37088f2b96bea7b68bd0eb5&txTime=1903e5b8abe$!
 广州南国都市,https://tencentplay.gztv.com/live/nanguodushi.m3u8?txSecret=550af55c0ea34ce492748481415b6dfa&txTime=1903e7b17de$!
 大湾区卫视,http://222.128.55.152:9080/live/dwq.m3u8$!
+广东珠江,http://cdn2.163189.xyz/live/gdzj/stream.m3u8$!
+广东珠江,http://cdn2.132.us.kg/live/gdzj/stream.m3u8$!
+广东珠江,https://tv.cdn.com.mp/live/gdzj/stream.m3u8$!
+广东体育,http://cdn2.163189.xyz/live/gdty/stream.m3u8$!
+广东体育,http://cdn2.132.us.kg/live/gdty/stream.m3u8$!
+广东体育,https://tv.cdn.com.mp/live/gdty/stream.m3u8$!
 广东珠江,http://222.128.55.152:9080/live/gdzj.m3u8$!
 广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj$!
 广东体育,http://222.128.55.152:9080/live/gdty.m3u8$!
