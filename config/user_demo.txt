@@ -814,24 +814,24 @@ TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp$!
 无线星河,http://php.jdshipin.com/smt.php?id=Xinhe$!
 无线娱乐,http://php.jdshipin.com/PLTV/iptv.php?id=tvbylxw$!
 无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment$!
-Now HK Premier Sports 1,http://doubleclicktv.live//70376812/52663544/715574$!
-Now HK Premier Sports 2,http://doubleclicktv.live//70376812/52663544/715573$!
-Now HK Premier Sports 3,http://doubleclicktv.live//70376812/52663544/715572$!
-Now HK Premier Sports 4,http://doubleclicktv.live//70376812/52663544/715571$!
-Now HK Premier Sports 5,http://doubleclicktv.live//70376812/52663544/715570$!
-Now HK Premier Sports 6,http://doubleclicktv.live//70376812/52663544/715569$!
-Now HK Premier Sports 7,http://doubleclicktv.live//70376812/52663544/715568$!
-Now HK Premier Sports 8,http://doubleclicktv.live//70376812/52663544/715567$!
-Now HK Now Sports 1,http://doubleclicktv.live//70376812/52663544/715566$!
-Now HK Now Sports 2,http://doubleclicktv.live//70376812/52663544/715565$!
-Now HK Now Sports 3,http://doubleclicktv.live//70376812/52663544/715564$!
-Now HK Now Sports 4,http://doubleclicktv.live//70376812/52663544/715563$!
-Now HK Now Sports 5,http://doubleclicktv.live//70376812/52663544/715562$!
-Now HK Now Sports 6,http://doubleclicktv.live//70376812/52663544/715561$!
-Now HK Now Sports 7,http://doubleclicktv.live//70376812/52663544/715560$!
-Now Sports PRIME,http://doubleclicktv.live//70376812/52663544/715559$!
-Now HK Now Sports 4K 616,http://doubleclicktv.live//70376812/52663544/715558$!
-Now HK Now Sports 4K 617,http://doubleclicktv.live//70376812/52663544/715557$!
+Now HK Premier Sports 1,http://66.siyba.cn/9X1OM$!
+Now HK Premier Sports 2,http://66.siyba.cn/aHEkf$!
+Now HK Premier Sports 3,http://66.siyba.cn/bsgPI$!
+Now HK Premier Sports 4,http://66.siyba.cn/bwVRf$!
+Now HK Premier Sports 5,http://66.siyba.cn/chymI$!
+Now HK Premier Sports 6,http://66.siyba.cn/d1IfZ$!
+Now HK Premier Sports 7,http://66.siyba.cn/70Kce$!
+Now HK Premier Sports 8,http://66.siyba.cn/7Lmrz$!
+Now HK Now Sports 1,http://66.siyba.cn/8vYX2$!
+Now HK Now Sports 2,http://66.siyba.cn/9gBsv$!
+Now HK Now Sports 3,http://66.siyba.cn/9X1OW$!
+Now HK Now Sports 4,http://66.siyba.cn/aHEkp$!
+Now HK Now Sports 5,http://66.siyba.cn/bsgPS$!
+Now HK Now Sports 6,http://66.siyba.cn/bwVT1$!
+Now HK Now Sports 7,http://66.siyba.cn/chyou$!
+Now Sports PRIME,http://66.siyba.cn/d1IhL$!
+Now HK Now Sports 4K 616,http://66.siyba.cn/70JXS$!
+Now HK Now Sports 4K 617,http://66.siyba.cn/7Lmtl$!
 
 
 🔆TW湾湾-①🔆,#genre#
