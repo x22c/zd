@@ -3,24 +3,24 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
-CCTV-1 综合,http://66.siyba.cn/7KJGE$!
-CCTV-2 财经,http://66.siyba.cn/8vmc7$!
-CCTV-3 综艺,http://66.siyba.cn/9fYHA$!
-CCTV-4 国际,http://66.siyba.cn/a0bc9$!
-CCTV-5 体育,http://66.siyba.cn/aKNG0$!
-CCTV-5+ 体育赛事,http://66.siyba.cn/bre2r$!
-CCTV-6 电影,http://66.siyba.cn/bvT5A$!
-CCTV-7 国防军事,http://66.siyba.cn/cgsZL$!
-CCTV-8 电视剧,http://66.siyba.cn/d15ve$!
-CCTV-9 纪录,http://66.siyba.cn/707rt$!
-CCTV-10 科教,http://66.siyba.cn/7KJGO$!
-CCTV-11 戏曲,http://66.siyba.cn/8vmch$!
-CCTV-12 社会与法,http://66.siyba.cn/9fYHK$!
-CCTV-13 新闻,http://66.siyba.cn/a0baH$!
-CCTV-14 少儿,http://66.siyba.cn/aKNGa$!
-CCTV-15 音乐,http://66.siyba.cn/bre2B$!
-CCTV-16 奥林匹克,http://66.siyba.cn/bvT5K$!
-CCTV-17 农业农村,http://66.siyba.cn/cgsZV$!
+CCTV1,http://66.siyba.cn/7KJGE$!
+CCTV2,http://66.siyba.cn/8vmc7$!
+CCTV3,http://66.siyba.cn/9fYHA$!
+CCTV4,http://66.siyba.cn/a0bc9$!
+CCTV5,http://66.siyba.cn/aKNG0$!
+CCTV5+,http://66.siyba.cn/bre2r$!
+CCTV6,http://66.siyba.cn/bvT5A$!
+CCTV7,http://66.siyba.cn/cgsZL$!
+CCTV8,http://66.siyba.cn/d15ve$!
+CCTV9,http://66.siyba.cn/707rt$!
+CCTV10,http://66.siyba.cn/7KJGO$!
+CCTV11,http://66.siyba.cn/8vmch$!
+CCTV12,http://66.siyba.cn/9fYHK$!
+CCTV13,http://66.siyba.cn/a0baH$!
+CCTV14,http://66.siyba.cn/aKNGa$!
+CCTV15,http://66.siyba.cn/bre2B$!
+CCTV16,http://66.siyba.cn/bvT5K$!
+CCTV17,http://66.siyba.cn/cgsZV$!
 北京卫视,http://66.siyba.cn/9fBXA$!
 湖南卫视,http://66.siyba.cn/a0et3$!
 浙江卫视,http://66.siyba.cn/aKQIo$!
