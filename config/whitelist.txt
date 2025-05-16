@@ -3,6 +3,27 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
+CCTV1,http://66.siyba.cn/d44tC$!
+CCTV2,http://66.siyba.cn/736of$!
+CCTV3,http://66.siyba.cn/7NIDA$!
+CCTV4,http://66.siyba.cn/8yl93$!
+CCTV4,http://66.siyba.cn/9ixDC$!
+CCTV4,http://66.siyba.cn/a3a95$!
+CCTV5,http://66.siyba.cn/aNMEy$!
+CCTV5+,http://66.siyba.cn/aSrHH$!
+CCTV6,http://66.siyba.cn/bD1BS$!
+CCTV7,http://66.siyba.cn/cnE7l$!
+CCTV8,http://66.siyba.cn/d44sa$!
+CCTV9,http://66.siyba.cn/736op$!
+CCTV10,http://66.siyba.cn/7NIDK$!
+CCTV11,http://66.siyba.cn/8yl9d$!
+CCTV12,http://66.siyba.cn/9ixDM$!
+CCTV13,http://66.siyba.cn/a3a9f$!
+CCTV14,http://66.siyba.cn/aNMEI$!
+CCTV15,http://66.siyba.cn/aSrHR$!
+CCTV16,http://66.siyba.cn/bvT5K$!
+CCTV17,http://66.siyba.cn/bD1C2$!
+
 CCTV1,http://66.siyba.cn/7KJGE$!
 CCTV2,http://66.siyba.cn/8vmc7$!
 CCTV3,http://66.siyba.cn/9fYHA$!
