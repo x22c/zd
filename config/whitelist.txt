@@ -7,8 +7,6 @@ CCTV-1,http://66.siyba.cn/d44tC$!
 CCTV-2,http://66.siyba.cn/736of$!
 CCTV-3,http://66.siyba.cn/7NIDA$!
 CCTV-4,http://66.siyba.cn/8yl93$!
-CCTV-4,http://66.siyba.cn/9ixDC$!
-CCTV-4,http://66.siyba.cn/a3a95$!
 CCTV-5,http://66.siyba.cn/aNMEy$!
 CCTV-5+,http://66.siyba.cn/aSrHH$!
 CCTV-6,http://66.siyba.cn/bD1BS$!
