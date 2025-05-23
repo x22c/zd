@@ -707,6 +707,8 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33$!
 广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty$!
 澳视澳门,http://php.jdshipin.com/TVOD/iptv.php?id=asam$!
 澳视卫星,http://php.jdshipin.com/TVOD/iptv.php?id=as$!
+陽光衛視,https://stream.chinasuntv.com/680k/mid_video_index.m3u8$!
+阳光卫视,
 RTHK31,http://php.jdshipin.com/TVOD/iptv.php?id=rthk31$!
 RTHK32,http://php.jdshipin.com/TVOD/iptv.php?id=rthk32$!
 RTHK33,https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream03/streamPlaylist.m3u8$!
