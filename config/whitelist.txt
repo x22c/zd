@@ -3,193 +3,47 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
-CCTV-1,http://66.siyba.cn/d44tC$!
-CCTV-2,http://66.siyba.cn/736of$!
-CCTV-3,http://66.siyba.cn/7NIDA$!
-CCTV-4,http://66.siyba.cn/8yl93$!
-CCTV-5,http://66.siyba.cn/aNMEy$!
-CCTV-5+,http://66.siyba.cn/aSrHH$!
-CCTV-6,http://66.siyba.cn/bD1BS$!
-CCTV-7,http://66.siyba.cn/cnE7l$!
-CCTV-8,http://66.siyba.cn/d44sa$!
-CCTV-9,http://66.siyba.cn/736op$!
-CCTV-10,http://66.siyba.cn/7NIDK$!
-CCTV-11,http://66.siyba.cn/8yl9d$!
-CCTV-12,http://66.siyba.cn/9ixDM$!
-CCTV-13,http://66.siyba.cn/a3a9f$!
-CCTV-14,http://66.siyba.cn/aNMEI$!
-CCTV-15,http://66.siyba.cn/aSrHR$!
-CCTV-16,http://66.siyba.cn/bvT5K$!
-CCTV-17,http://66.siyba.cn/bD1C2$!
-
-CCTV-1,http://66.siyba.cn/7KJGE$!
-CCTV-2,http://66.siyba.cn/8vmc7$!
-CCTV-3,http://66.siyba.cn/9fYHA$!
-CCTV-4,http://66.siyba.cn/a0bc9$!
-CCTV-5,http://66.siyba.cn/aKNG0$!
-CCTV-5+,http://66.siyba.cn/bre2r$!
-CCTV-6,http://66.siyba.cn/bvT5A$!
-CCTV-7,http://66.siyba.cn/cgsZL$!
-CCTV-8,http://66.siyba.cn/d15ve$!
-CCTV-9,http://66.siyba.cn/707rt$!
-CCTV-10,http://66.siyba.cn/7KJGO$!
-CCTV-11,http://66.siyba.cn/8vmch$!
-CCTV-12,http://66.siyba.cn/9fYHK$!
-CCTV-13,http://66.siyba.cn/a0baH$!
-CCTV-14,http://66.siyba.cn/aKNGa$!
-CCTV-15,http://66.siyba.cn/bre2B$!
-CCTV-16,http://66.siyba.cn/bvT5K$!
-CCTV-17,http://66.siyba.cn/cgsZV$!
-北京卫视,http://66.siyba.cn/9fBXA$!
-湖南卫视,http://66.siyba.cn/a0et3$!
-浙江卫视,http://66.siyba.cn/aKQIo$!
-江苏卫视,http://66.siyba.cn/bretx$!
-东方卫视,http://66.siyba.cn/bvTv4$!
-广东卫视,http://66.siyba.cn/cgw0x$!
-深圳卫视,http://66.siyba.cn/d18w0$!
-东南卫视,http://66.siyba.cn/70asf$!
-山东卫视,http://66.siyba.cn/7KMXI$!
-安徽卫视,http://66.siyba.cn/8vptb$!
-天津卫视,http://66.siyba.cn/9fBXK$!
-湖北卫视,http://66.siyba.cn/a0etd$!
-辽宁卫视,http://66.siyba.cn/aKQIy$!
-江西卫视,http://66.siyba.cn/bres5$!
-河北卫视,http://66.siyba.cn/bvTve$!
-黑龙江卫视,http://66.siyba.cn/d18wa$!
-重庆卫视,http://66.siyba.cn/9fBQE$!
-贵州卫视,http://66.siyba.cn/aKQRA$!
-吉林卫视,http://66.siyba.cn/breCJ$!
-四川卫视,http://66.siyba.cn/cgwbl$!
-海南卫视,http://66.siyba.cn/70alj$!
-河南卫视,http://66.siyba.cn/7KMQM$!
-广西卫视,http://66.siyba.cn/8vpmf$!
-山西卫视,http://66.siyba.cn/9fBQO$!
-云南卫视,http://66.siyba.cn/aKQRK$!
-陕西卫视,http://66.siyba.cn/breCT$!
-内蒙古卫视,http://66.siyba.cn/bvTG2$!
-甘肃卫视,http://66.siyba.cn/cgw9T$!
-宁夏卫视,http://66.siyba.cn/d18pe$!
-青海卫视,http://66.siyba.cn/70alt$!
-新疆卫视,http://66.siyba.cn/7KMQW$!
-西藏卫视,http://66.siyba.cn/8vpmp$!
-三沙卫视,http://66.siyba.cn/9fBQY$!
-兵团卫视,http://66.siyba.cn/a0emr$!
-厦门卫视,http://66.siyba.cn/breD3$!
-
-🔆虎牙轮播🔆,#genre#
- 悬疑放映厅,https://www.goodiptv.club/huya/26355797
- 微竞-小也baby,https://www.goodiptv.club/huya/20155
- 每日读书,https://www.goodiptv.club/huya/20985826
- 武林萌主唐小姐,https://www.goodiptv.club/huya/11336726
- 乐佰-虫虫,https://www.goodiptv.club/huya/23025
- 周星星,https://www.goodiptv.club/huya/11342412
- 蛮多的功夫,https://www.goodiptv.club/huya/23740156
- 回去拿马卡报,https://www.goodiptv.club/huya/30080238
- 小木子先生丶,https://www.goodiptv.club/huya/11342396
- 痞子帅叔叔,https://www.goodiptv.club/huya/11342433
- 微竞-笑笑大兔兔,https://www.goodiptv.club/huya/520016
- 球哥解说,https://www.goodiptv.club/huya/29465875
- 阿斗归来了,https://www.goodiptv.club/huya/13303478
- 埋堆堆官方影视狂热者,https://www.goodiptv.club/huya/29076690
- 斗破-萧炎,https://www.goodiptv.club/huya/29863394
- 婧婧丶,https://www.goodiptv.club/huya/618917
- 江爽【好运来】,https://www.goodiptv.club/huya/23796393
- 悠悠爱电影,https://www.goodiptv.club/huya/30611864
- 鯎爺,https://www.goodiptv.club/huya/11352944
- 超甜呦、,https://www.goodiptv.club/huya/30526458
- 口口甜,https://www.goodiptv.club/huya/25701671
- 不染ctal,https://www.goodiptv.club/huya/30595074
- 超级大幂幂,https://www.goodiptv.club/huya/30540279
- 婉晴ctde,https://www.goodiptv.club/huya/30595139
- 齐鲁影视,https://www.goodiptv.club/huya/29807061
- 提莫放映,https://www.goodiptv.club/huya/30684784
- 斗破-萧薰儿,https://www.goodiptv.club/huya/29862625
- 麻花糖,https://www.goodiptv.club/huya/26182091
- 偶lo,https://www.goodiptv.club/huya/30509122
- 小璐影视,https://www.goodiptv.club/huya/30655127
- 欣儿不爱吃香菜,https://www.goodiptv.club/huya/30621162
- 微微oi,https://www.goodiptv.club/huya/30308535
- 美美影视,https://www.goodiptv.club/huya/30548806
- 精彩小雨幕,https://www.goodiptv.club/huya/30080148
- 微竞-浪娅,https://www.goodiptv.club/huya/30280769
- 陈翔六点半,https://www.goodiptv.club/huya/11274154
- 微竞-絮絮,https://www.goodiptv.club/huya/126859
- 古镇小鹿,https://www.goodiptv.club/huya/30145009
- 吸门亲,https://www.goodiptv.club/huya/30629768
- 叁岁打死牛,https://www.goodiptv.club/huya/30515137
- 雪雪姐tu,https://www.goodiptv.club/huya/30585957
- 菲菲影视剧,https://www.goodiptv.club/huya/30671959
- 虎桥路关羽,https://www.goodiptv.club/huya/30613314
- 得志未断绝,https://www.goodiptv.club/huya/30523326
- 子宽放,https://www.goodiptv.club/huya/30362138
- 小虎牙影视厅,https://www.goodiptv.club/huya/30413280
- 新橙記Orange丶,https://www.goodiptv.club/huya/30590779
- 不吃兔兔子,https://www.goodiptv.club/huya/30512441
- 柯冉冉,https://www.goodiptv.club/huya/11352874
- 不吃香菜丫丫,https://www.goodiptv.club/huya/30612264
- 婧丶,https://www.goodiptv.club/huya/26298751
- SJ-小美,https://www.goodiptv.club/huya/30363727
- 小桃猪猪,https://www.goodiptv.club/huya/30527430
- 炒白果萝卜,https://www.goodiptv.club/huya/30440855
- 小麥,https://www.goodiptv.club/huya/10980725
- 知性美丽小公主,https://www.goodiptv.club/huya/30653684
- Stcop猫猫,https://www.goodiptv.club/huya/30488738
- 甜瓜不萌,https://www.goodiptv.club/huya/30158546
- 我是詹密,https://www.goodiptv.club/huya/11342439
- 沫宝儿吖,https://www.goodiptv.club/huya/30526426
- 贫困小张喜欢A锥,https://www.goodiptv.club/huya/30656608
- 锤子动画,https://www.goodiptv.club/huya/30649359
- winccab,https://www.goodiptv.club/huya/30650192
- 初一,https://www.goodiptv.club/huya/16567940
- 仙女鹿、,https://www.goodiptv.club/huya/29835716
- 我很忙,https://www.goodiptv.club/huya/11352950
- 7喜先生,https://www.goodiptv.club/huya/11342421
- 薇薇ol,https://www.goodiptv.club/huya/30712548
- 猴麻麻,https://www.goodiptv.club/huya/25692245
- 老问我东西南北,https://www.goodiptv.club/huya/30080244
- 梦梦影视,https://www.goodiptv.club/huya/25129377
- 薄情凉了城,https://www.goodiptv.club/huya/30156310
- 炎热夏阳柔和,https://www.goodiptv.club/huya/30252446
- 南风影视,https://www.goodiptv.club/huya/30424191
- 梦溪影视,https://www.goodiptv.club/huya/25742076
- 高贵优雅石榴裙,https://www.goodiptv.club/huya/30653672
- 海绵宝宝宝,https://www.goodiptv.club/huya/11352919
- 大雅唯白发,https://www.goodiptv.club/huya/30692769
- 爱笑的优米,https://www.goodiptv.club/huya/29820210
- 非凡武林,https://www.goodiptv.club/huya/21674665
- 静静影视,https://www.goodiptv.club/huya/30712558
- 佩琪不爱吃香菜,https://www.goodiptv.club/huya/30577385
- 可梦伊人,https://www.goodiptv.club/huya/29800791
- 晴儿影视,https://www.goodiptv.club/huya/30400559
- 一只大懒虫,https://www.goodiptv.club/huya/11279251
- 糖果小豆包,https://www.goodiptv.club/huya/30653660
- 小糯米丿,https://www.goodiptv.club/huya/128391
- 傍晚猴,https://www.goodiptv.club/huya/30080236
- 梦想观影社,https://www.goodiptv.club/huya/30667638
- 白菘无人省,https://www.goodiptv.club/huya/26355864
- 沐希兔子,https://www.goodiptv.club/huya/29835225
- 小猫影视,https://www.goodiptv.club/huya/30569079
- 全优少年,https://www.goodiptv.club/huya/11602081
- 虎牙观影厅,https://www.goodiptv.club/huya/30273533
- 會唱歌的小野貓,https://www.goodiptv.club/huya/11352871
- 心疼得抱住胖胖的自己,https://www.goodiptv.club/huya/11342425
- 红茶妹妹,https://www.goodiptv.club/huya/11336592
- 【炊烟大壮】,https://www.goodiptv.club/huya/24782284
- 裸奔的蜗牛╮,https://www.goodiptv.club/huya/11342418
- 影评专员,https://www.goodiptv.club/huya/30311494
- 美少女咸儿,https://www.goodiptv.club/huya/11336572
- 野原的一家,https://www.goodiptv.club/huya/11352970
- 傻妞,https://www.goodiptv.club/huya/11342426
- 领带哥,https://www.goodiptv.club/huya/11342430
- 马呜呜,https://www.goodiptv.club/huya/29982631
- 瞬间爆炸,https://www.goodiptv.club/huya/11352960
- 霜夜品书香,https://www.goodiptv.club/huya/30233965
- 大侠,https://www.goodiptv.club/huya/11602085
- 扁豆看电影,https://www.goodiptv.club/huya/16028551
- 天行豆豉,https://www.goodiptv.club/huya/29877837
- 彪哥的日常,https://www.goodiptv.club/huya/23650804
- 反方向的钟1874,https://www.goodiptv.club/huya/29465868
-
+CCTV-1,http://66.siyba.cn/8INfX$!
+CCTV-2,http://66.siyba.cn/9tpLq$!
+CCTV-3,http://66.siyba.cn/9tsED$!
+CCTV-4,http://66.siyba.cn/ae5a6$!
+CCTV-5,http://66.siyba.cn/aYF2F$!
+CCTV-5+,http://66.siyba.cn/bJhy8$!
+CCTV-6,http://66.siyba.cn/ctTNt$!
+CCTV-7,http://66.siyba.cn/dewiW$!
+CCTV-8,http://66.siyba.cn/7dyfb$!
+CCTV-9,http://66.siyba.cn/7YaKE$!
+CCTV-10,http://66.siyba.cn/9tpLA$!
+CCTV-11,http://66.siyba.cn/9tsEN$!
+CCTV-12,http://66.siyba.cn/ae58E$!
+CCTV-13,http://66.siyba.cn/aYF2P$!
+CCTV-14,http://66.siyba.cn/ctTND$!
+CCTV-15,http://66.siyba.cn/dewj6$!
+CCTV-16,http://66.siyba.cn/7dyfl$!
+CCTV-17,http://66.siyba.cn/7YaKO$!
+湖南卫视,http://66.siyba.cn/9tqG3$!
+湖南卫视,http://66.siyba.cn/ae3bw$!
+浙江卫视,http://66.siyba.cn/aYFFn$!
+北京卫视,http://66.siyba.cn/bJiaQ$!
+东方卫视,http://66.siyba.cn/dexbM$!
+江苏卫视,http://66.siyba.cn/7dz81$!
+广东卫视,http://66.siyba.cn/8IO8X$!
+江西卫视,http://66.siyba.cn/9tqGd$!
+河南卫视,http://66.siyba.cn/ae3a4$!
+陕西卫视,http://66.siyba.cn/aYFFx$!
+大湾区卫视,http://66.siyba.cn/bJib0$!
+湖北卫视,http://66.siyba.cn/ctUGt$!
+吉林卫视,http://66.siyba.cn/dexbW$!
+青海卫视,http://66.siyba.cn/7dz8b$!
+东南卫视,http://66.siyba.cn/7YbDE$!
+海南卫视,http://66.siyba.cn/8IO97$!
+海峡卫视,http://66.siyba.cn/9to3i$!
+江苏卫视,http://66.siyba.cn/bJifQ$!
+内蒙古卫视,http://66.siyba.cn/ctULj$!
+兵团卫视,http://66.siyba.cn/dexgM$!
+云南卫视,http://66.siyba.cn/7dzd1$!
+莲花卫视,http://66.siyba.cn/7Ybsm$!
+香港卫视,http://66.siyba.cn/8INXP$!
 
 🔆斗鱼轮播🔆,#genre#
  橙記Orange丶,http://3501776.xyz:35455/douyu/4549169
