@@ -242,19 +242,18 @@ Loupe「视觉」UHD,https://d2dw21aq0j0l5c.cloudfront.net/playlist_3840x2160.m3
 Fashion「时尚」UHD,https://fash2043.cloudycdn.services/slive/ftv_ftv_4k_hevc_73d_42080_default_466_hls.smil/playlist.m3u8$!
 Sky Sports Main Event UHD,https://7pal.short.gy/SSMEuhd$!
 Astro Sports UHD,https://7pal.short.gy/astrouhd$!
-beIN Sports UHD,https://7pal.short.gy/bein-uhd$!
-Now Sports 1 UHD,https://7pal.short.gy/nowsport4k$!
+beIN 4K,https://7pal.short.gy/bein-uhd$!
+Now Sports 1 4k,https://7pal.short.gy/nowsport4k$!
 Hub Premier 2 UHD,https://7pal.short.gy/HubP2uhd$!
-V Sport UHD,https://7pal.short.gy/VSportUHD$!
-TNT Sport UHD,https://7pal.short.gy/TNTUltimate$!
-Digi UHD,https://7pal.short.gy/digi4k$!
-ElevenSport1 UHD,https://7pal.short.gy/11sports1$!
-Prima UHD,https://7pal.short.gy/prima4k$!
+V Sport UltraHD,https://7pal.short.gy/VSportUHD$!
+TNT Sport Ultimate,https://7pal.short.gy/TNTUltimate$!
+ElevenSport1 4K,https://7pal.short.gy/11sports1$!
+Prima4K,https://7pal.short.gy/prima4k$!
 Sky Sports F1 UHD,https://7pal.short.gy/SSF1uhd$!
 Ziggo Sport UHD,https://7pal.short.gy/ZiggoSport$!
-Sport5_UHD,https://7pal.short.gy/5sport$!
-EuroSport UHD,https://7pal.short.gy/eusport4k$!
-M+LaLiga UHD,https://7pal.short.gy/mplusuhd$!
+Sport5_4k,https://7pal.short.gy/5sport$!
+EuroSport 4K ,https://7pal.short.gy/eusport4k$!
+M+LaLiga UHD ,https://7pal.short.gy/mplusuhd$!
 NESN UHD,https://7pal.short.gy/nesnuhd$!
 
 
