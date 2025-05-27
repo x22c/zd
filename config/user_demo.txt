@@ -378,6 +378,8 @@ NESN UHD,https://7pal.short.gy/nesnuhd$!
 🔆国际体育🔆,#genre#
 👉看哪个地区的台就用哪个地区的节点👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 👉看哪个地区的台就用哪个地区的节点👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
+TENNIS CHANNEL,http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
+TENNIS CHANNEL 2,http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
 Sky Sports Main Event UHD,https://7pal.short.gy/SSMEuhd
 Astro Sports UHD,https://7pal.short.gy/astrouhd
 beIN 4K,https://7pal.short.gy/bein-uhd
@@ -1494,6 +1496,8 @@ MOVIES: SKY GREATS,http://1tv41.icu:8080/30065823/63154294/35249
 👉扫码获取最新链接👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 👉需要用美国节点👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 👉需要用美国节点👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
+TENNIS CHANNEL,http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
+TENNIS CHANNEL 2,http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
 CNBC,http://1tv41.icu:8080/30065823/63154294/9815
 CNBC World,http://1tv41.icu:8080/30065823/63154294/20860
 CNN,http://1tv41.icu:8080/30065823/63154294/1817
