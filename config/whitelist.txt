@@ -22,25 +22,26 @@ CCTV-14 少儿,https://cutt.ly/LrbzRBgC
 CCTV-15 音乐,https://cutt.ly/srbzR89n
 CCTV-16 奥林匹克,https://cutt.ly/xrbzTkNM
 CCTV-17 农业农村,https://cutt.ly/UrbzTQQs
-东方卫视,https://rebrand.ly/c20156
-江苏卫视,https://rebrand.ly/e058f1
-广东卫视,https://rebrand.ly/1df56a
-大湾区卫视,https://rebrand.ly/bdea4a
-江西卫视,https://rebrand.ly/9ecdbb
-河南卫视,https://rebrand.ly/962a79
-陕西卫视,https://rebrand.ly/2e1f8f
-湖北卫视,https://rebrand.ly/81e172
-吉林卫视,https://rebrand.ly/d45785
-青海卫视,https://rebrand.ly/3d502c
-东南卫视,https://tinyurl.com/3dhvudru
-海南卫视,https://tinyurl.com/8an9vdp7
-海峡卫视,https://tinyurl.com/ytzxh837
-上海新闻综合,https://tinyurl.com/mh6vv56v
-上视东方影视,https://tinyurl.com/mrvjbyds
-上海第一财经,https://tinyurl.com/ypdy5xwy
-CHC影迷电影,https://tinyurl.com/m522dpwp
-CHC动作电影,https://tinyurl.com/b34n7crh
-CHC家庭影院,https://tinyurl.com/4zk6b8zv
+东方卫视,https://cutt.ly/Orbcy7Dv
+江苏卫视,https://cutt.ly/HrbcudC8
+广东卫视,https://cutt.ly/GrbcucNZ
+大湾区卫视,https://cutt.ly/srbciViY
+江西卫视,https://cutt.ly/arbci89Q
+河南卫视,https://cutt.ly/Mrbcof1n
+陕西卫视,https://cutt.ly/yrbcoHPQ
+湖北卫视,https://cutt.ly/Wrbco1jc
+吉林卫视,https://cutt.ly/wrbcpejy
+青海卫视,https://cutt.ly/Yrbcph02
+东南卫视,https://cutt.ly/grbcpZ31
+海南卫视,https://cutt.ly/Prbcp9T7
+海峡卫视,https://cutt.ly/arbcaW6i
+上海新闻综合,https://cutt.ly/4rbcaXU3
+上视东方影视,https://cutt.ly/9rbca9Rv
+上海第一财经,https://cutt.ly/KrbcsrT6
+CHC影迷电影,https://cutt.ly/7rbcsQgb
+CHC动作电影,https://cutt.ly/trbcsJJd
+CHC家庭影院,https://cutt.ly/Crbcs7RJ
+
 
 CCTV-1综合,http://125.118.21.66:4022/udp/233.50.200.130:5140
 CCTV-2财经,http://125.118.21.66:4022/udp/233.50.200.25:5140
