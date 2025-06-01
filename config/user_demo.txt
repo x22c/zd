@@ -3578,19 +3578,11 @@ BTV国际频道
 睛彩广场舞
 
 🔆上海🔆,#genre#
-上海新闻综合,http://218.1.217.21:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0$!
-五星体育,http://218.1.217.21:9901/tsfile/live/1010_1.m3u8?key=txiptv&playlive=1&authid=0$!
-都市剧场,http://218.1.217.21:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0$!
-上海纪实,http://218.1.217.21:9901/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0$!
-法制天地,http://218.1.217.21:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0$!
-上海教育,http://218.1.217.21:9901/tsfile/live/1007_1.m3u8?key=txiptv&playlive=1&authid=0$!
-崇明综合,http://218.1.217.21:9901/tsfile/live/1009_1.m3u8?key=txiptv&playlive=1&authid=0$!
-上海电视剧,http://218.1.217.21:9901/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0$!
-都市频道,http://218.1.217.21:9901/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0$!
 上海新闻综合
 新闻综合
 上海五星体育
 五星体育
+五星体育{F1专用},https://181166.xyz/wxty1$!
 上海第一财经
 上海东方财经
 上海东方影视
