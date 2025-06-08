@@ -3578,10 +3578,16 @@ BTV国际频道
 睛彩广场舞
 
 🔆上海🔆,#genre#
+上海新闻,webview://https://live.kankanews.com/huikan?id=2$!
+五星体育,webview://https://live.kankanews.com/huikan?id=10$!
+五星体育,video://https://live.kankanews.com/huikan?id=10$!
+第一财经,webview://https://live.kankanews.com/huikan?id=5$!
+上海都市,webview://https://live.kankanews.com/huikan?id=4$!
+哈哈炫动,webview://https://live.kankanews.com/huikan?id=9$!
+魔都眼,webview://https://live.kankanews.com/huikan?id=11$!
+新纪实,webview://https://live.kankanews.com/huikan?id=12$!
 上海新闻综合
-新闻综合
 上海五星体育
-五星体育
 五星体育{F1专用},https://181166.xyz/wxty1$!
 上海第一财经
 上海东方财经
