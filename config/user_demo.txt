@@ -3537,6 +3537,15 @@ MV,https://vd4.bdstatic.com/mda-kmbika46ppvf7nzc/v1-cae/1080p/mda-kmbika46ppvf7n
 
 
 🔆北京🔆,#genre#
+北京卫视,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?=bjws$!
+北京文艺,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjwy$!
+北京纪实,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjjs$!
+北京新闻,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjxw$!
+北京体育,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjty$!
+北京影视,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjys$!
+北京财经,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjcj$!
+北京生活,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjsh$!
+卡酷少儿,https://framagit.org/k-web/ku9/js/knnnn/n/-/raw/main/f/bjtime.js?id=bjkk$!
 BRTV体育休闲[超清]
 BRTV体育休闲
 北京体育
