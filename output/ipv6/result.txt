@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-06-23 18:54:36,https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
+2025-06-24 01:53:43,https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
 
 💎扫码联系售后💎,#genre#
 扫码联系售后,https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
@@ -2262,6 +2262,7 @@ CCTV-17 农业农村,http://[2409:8087:5e01:34::38]:6610/ZTE_CMS/000000010000000
 纪实科教,http://[2409:8087:8:21::18]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226434/1.m3u8?
 纪实科教,http://rrs01.hw.gmcc.net:8088/PLTV/81/224/3221226656/1.m3u8
 纪实科教,http://[2409:8087:2001:20:2800:0:df6e:eb0e]/wh7f454c46tw1542052607_1430934483/ott.mobaibox.com/PLTV/3/224/3221227699/index.m3u8?icpid=3&RTS=1669704438&from=40&popid=40&hms_devid=2111&prioritypopid=40&vqe=3
+纪实科教,https://hls-gateway.vpstv.net/streams/708837.m3u8
 黑莓电影,http://39.134.64.87:6610/PLTV/88888888/224/3221225743/index.m3u8?IASHttpSessionId=
 黑莓电影,http://php.jdshipin.com/TVOD/hnyd.php?id=200000001898/460000089800010073
 黑莓电影,https://cc05.tv12.xyz/111.m3u8
@@ -2660,6 +2661,7 @@ CCTV风云音乐,http://n1.gzbody.com:85/rtp/239.253.43.29:5146
 风云音乐,https://radio.0472.org/?id=641
 风云音乐,https://migu.tv12.xyz/98.m3u8
 风云音乐,http://ott.mobaibox.com/PLTV/3/224/3221228665/index.m3u8
+风云音乐,https://hls-gateway.vpstv.net/streams/708858.m3u8
 怀旧剧场,https://cc06.tv12.xyz/52.m3u8
 怀旧剧场,http://php.jdshipin.com/TVOD/iptv.php?id=hjjc
 怀旧剧场,https://migu.tv12.xyz/99.m3u8
@@ -2669,6 +2671,7 @@ CCTV风云音乐,http://n1.gzbody.com:85/rtp/239.253.43.29:5146
 高尔夫网球,http://php.jdshipin.com/TVOD/iptv.php?id=gefwq
 高尔夫网球,https://migu.tv12.xyz/77.m3u8
 高尔夫网球,http://ott.mobaibox.com/PLTV/3/224/3221228138/index.m3u8
+高尔夫网球,https://hls-gateway.vpstv.net/streams/708857.m3u8
 央视文化精品,http://php.jdshipin.com/TVOD/iptv.php?id=whjp
 央视文化精品,http://ott.mobaibox.com/PLTV/3/224/3221228677/index.m3u8
 世界地理,https://cc06.tv12.xyz/104.m3u8
@@ -2999,6 +3002,7 @@ NESN UHD,https://7pal.short.gy/nesnuhd
 👉看哪个地区的台就用哪个地区的节点👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 👉看哪个地区的台就用哪个地区的节点👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 TENNIS CHANNEL,http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
+TENNIS CHANNEL,https://hls-gateway.vpstv.net/streams/709442.m3u8
 TENNIS CHANNEL 2,http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
 Sky Sports Main Event UHD,https://7pal.short.gy/SSMEuhd
 Astro Sports UHD,https://7pal.short.gy/astrouhd
@@ -3073,20 +3077,28 @@ Fox Sports 507,https://7pal.short.gy/fox507au
 Fox Sports 507,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857470
 Sportsnet ONE,https://7pal.short.gy/sptsnet1
 Sportsnet ONE,https://tvpass.org/live/sportsnet-one/hd
+Sportsnet ONE,https://hls-gateway.vpstv.net/streams/709611.m3u8
 Sportsnet 360,https://7pal.short.gy/sptsnet360
 Sportsnet 360,https://tvpass.org/live/sportsnet-360/hd
+Sportsnet 360,https://hls-gateway.vpstv.net/streams/709609.m3u8
 Sportsnet Ontario,https://7pal.short.gy/sptsneton
 Sportsnet Ontario,https://tvpass.org/live/sportsnet-ontario/hd
+Sportsnet Ontario,https://hls-gateway.vpstv.net/streams/709610.m3u8
 TSN1,https://7pal.short.gy/tsn1ca
 TSN1,https://tvpass.org/live/tsn1/hd
+TSN1,https://hls-gateway.vpstv.net/streams/709602.m3u8
 TSN2,https://7pal.short.gy/tsn2ca
 TSN2,https://tvpass.org/live/tsn2/hd
+TSN2,https://hls-gateway.vpstv.net/streams/709603.m3u8
 TSN3,https://7pal.short.gy/tsn3ca
 TSN3,https://tvpass.org/live/tsn3/hd
+TSN3,https://hls-gateway.vpstv.net/streams/709604.m3u8
 TSN4,https://7pal.short.gy/tsn4ca
 TSN4,https://tvpass.org/live/tsn4/hd
+TSN4,https://hls-gateway.vpstv.net/streams/709605.m3u8
 TSN5,https://7pal.short.gy/tsn5ca
 TSN5,https://tvpass.org/live/tsn5/hd
+TSN5,https://hls-gateway.vpstv.net/streams/709606.m3u8
 CBS Sport Network,https://7pal.short.gy/cbssptnw
 MSG,https://7pal.short.gy/msgusa
 MSG+,https://7pal.short.gy/msgsn
@@ -3095,6 +3107,7 @@ NFL Network,https://tvpass.org/live/NFLNetwork/hd
 USA: NFL Redzone,https://7pal.short.gy/nflredz
 ESPN,https://7pal.short.gy/espnus
 ESPN,https://tvpass.org/live/ESPN/hd
+ESPN,https://hls-gateway.vpstv.net/streams/709282.m3u8
 WWE Network,https://7pal.short.gy/wwenw
 NBA TV,https://7pal.short.gy/nbatvus
 NBA TV,http://1tv41.icu:8080/30065823/63154294/20073
@@ -3102,16 +3115,21 @@ NBA TV,https://7pal.short.gy/nbatvus
 NBA TV,http://1tv41.icu:8080/30065823/63154294/20073
 NBA TV,http://smart.pendy.dpdns.org/Smart.php?id=Nba
 NBA TV,https://smart.pendy.dpdns.org/Smart.php?id=Nba
+NBA TV,https://hls-gateway.vpstv.net/streams/476673.m3u8
 MLB Network,https://7pal.short.gy/mlbnw
 MLB Network,https://tvpass.org/live/MLBNetwork/hd
+MLB Network,https://hls-gateway.vpstv.net/streams/499553.m3u8
 NHL Network,https://7pal.short.gy/nhlnw
 NHL Network,http://1tv41.icu:8080/30065823/63154294/20179
 NHL Network,https://7pal.short.gy/nhlnw
 NHL Network,http://1tv41.icu:8080/30065823/63154294/20179
+NHL Network,https://hls-gateway.vpstv.net/streams/476651.m3u8
 UFC 24/7,https://7pal.short.gy/ufc247
 Tennis Channel,https://7pal.short.gy/tennisc
+Tennis Channel,https://hls-gateway.vpstv.net/streams/709442.m3u8
 SEC Network,https://7pal.short.gy/secnw
 SEC Network,https://tvpass.org/live/SECN/hd
+SEC Network,https://hls-gateway.vpstv.net/streams/709470.m3u8
 YES Network,https://7pal.short.gy/yesnw
 YES Network,https://tvpass.org/live/yes-network/hd
 FS 1,https://7pal.short.gy/fs1us
@@ -3161,6 +3179,7 @@ ESPN 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857463
 ESPN 2,http://1tv41.icu:8080/30065823/63154294/2210
 ESPN 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857463
 ESPN 2,https://tvpass.org/live/ESPN2/hd
+ESPN 2,https://hls-gateway.vpstv.net/streams/709291.m3u8
 ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/14197
 ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/9802
 ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/14197
@@ -3168,14 +3187,18 @@ ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/9802
 ESPNU College Sports,http://1tv41.icu:8080/30065823/63154294/10255
 FOX Sports 1,http://1tv41.icu:8080/30065823/63154294/46792
 FOX Sports 1,https://tvpass.org/live/FoxSports1/hd
+FOX Sports 1,https://hls-gateway.vpstv.net/streams/477698.m3u8
 Golf Channel,http://1tv41.icu:8080/30065823/63154294/9806
 Golf Channel,http://1tv41.icu:8080/30065823/63154294/46728
 Golf Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856879
+Golf Channel,https://hls-gateway.vpstv.net/streams/487046.m3u8
 NESN,http://1tv41.icu:8080/30065823/63154294/46726
 NFL,http://1tv41.icu:8080/30065823/63154294/208896
 WWE NETWORK,http://1tv41.icu:8080/30065823/63154294/11645
 DAZN 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990083
+DAZN 1,https://hls-gateway.vpstv.net/streams/639643.m3u8
 DAZN 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990084
+DAZN 2,https://hls-gateway.vpstv.net/streams/476991.m3u8
 DAZN 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990085
 DAZN 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990086
 DAZN 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990087
@@ -3184,14 +3207,17 @@ DAZN 7,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990089
 ES: DAZN 1: F1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990008
 ES: DAZN 2: F1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990009
 beIN Sports 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855424
+beIN Sports 1,https://hls-gateway.vpstv.net/streams/709511.m3u8
 beIN Sports 1 English,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855425
 beIN Sports 1 French,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855426
 beIN Sports 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855427
 beIN Sports 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856846
+beIN Sports 2,https://hls-gateway.vpstv.net/streams/709101.m3u8
 beIN Sports 2 English,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855428
 beIN Sports 2 French,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855429
 beIN Sports 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855430
 beIN Sports 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856848
+beIN Sports 3,https://hls-gateway.vpstv.net/streams/709513.m3u8
 beIN Sports 3 English,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855431
 beIN Sports 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855432
 beIN Sports 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856850
@@ -3316,7 +3342,7 @@ DE: ZDFinfo (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/8567
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_xue
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
+翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://192.168.50.12:18000/stream/tvb/null-4/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7#http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,https://cc04.tv12.xyz/19.m3u8
@@ -3344,7 +3370,7 @@ DE: ZDFinfo (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/8567
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://148.135.93.213/phenix.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://cdn3.132.us.kg/live/fhzx/stream.m3u8#http://148.135.93.213:81/phenix.php?id=fhzx#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8#http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8#http://211.72.65.236:8577/.m3u8#http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
 凤凰资讯,https://cc04.tv12.xyz/23.m3u8
@@ -3360,7 +3386,7 @@ DE: ZDFinfo (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/8567
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://148.135.93.213/phenix.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://148.135.93.213:81/phenix.php?id=fhzw#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#http://211.72.65.236:8576/.m3u8#http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
@@ -3380,7 +3406,7 @@ DE: ZDFinfo (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/8567
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://148.135.93.213/phenix.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-凤凰香港,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,https://cc04.tv12.xyz/24.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
@@ -3394,6 +3420,7 @@ DE: ZDFinfo (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/8567
 凤凰香港,http://jxiptv.dpdns.org/stream/4gtv/null-5/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 凤凰香港,http://k.061899.xyz/k.php?id=fhhk
 凤凰香港,https://live.cdn.com.mp/live/fhhk/stream.m3u8
+重温经典,http://148.135.93.213/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 重温经典,http://cdn3.163189.xyz/live/cwjd/stream.m3u8
 重温经典,http://148.135.93.213/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
@@ -3422,6 +3449,7 @@ TVB J1,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2
 TVB J1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 TVB J1,http://cdn5.1678520.xyz/live/?id=j1
 TVB J1,https://cdn3.163189.xyz/live/j1/stream.m3u8#http://cdn5.1678520.xyz/live/?id=j1#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2#http://cdn3.132.us.kg/live/j1/stream.m3u8
+TVB J1,https://hls-gateway.vpstv.net/streams/709591.m3u8
 HOY TV,http://cdn.132.us.kg/live/hoy/stream.m3u8
 HOY TV,http://cdn.163189.xyz/live/hoy/stream.m3u8
 HOY TV,http://php.jdshipin.com/TVOD/iptv.php?id=hoytv2
@@ -3491,6 +3519,7 @@ RTHK32,https://vx65267199.18cn.dpdns.org/19.m3u8
 天映频道,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映频道,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
 天映频道,https://ling.uus10000.top/1.m3u8
+天映频道,https://hls-gateway.vpstv.net/streams/636710.m3u8
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
 天映经典,http://php.jdshipin.com/smt.php?id=Celestial2
 天映经典,http://go1.bkpcp.top/tl/null-1
@@ -3507,6 +3536,7 @@ Astro AOD,http://php.jdshipin.com/TVOD/iptv.php?id=aod
 Astro AOD,http://cdn9.163189.xyz/smt1.1.php?id=Aodhd
 Astro AEC,http://php.jdshipin.com:8880/smt.php?id=AEC
 Astro AEC,http://php.jdshipin.com/smt.php?id=AEC
+Astro AEC,https://hls-gateway.vpstv.net/streams/709009.m3u8
 爱奇艺,http://php.jdshipin.com:8880/smt.php?id=Qiyi
 爱奇艺,http://php.jdshipin.com/smt.php?id=Qiyi
 Astro QJ,http://php.jdshipin.com:8880/smt.php?id=Quanjia
@@ -3531,14 +3561,17 @@ Discovery,https://hls-gateway.vpstv.net/streams/476277.m3u8
 东森电影,https://smart.pendy.dpdns.org/Smart.php?id=ettvmovie
 东森电影,https://ling.uus10000.top/1021.m3u8
 东森电影,https://guangdongcmcc.tv12.xyz/14.m3u8
+东森电影,https://hls-gateway.vpstv.net/streams/476995.m3u8
 好莱坞电影,http://mytv.cdn.com.mp/live/hlwdy/stream.m3u8
 好莱坞电影,https://ling.uus10000.top/71.m3u8
 龙祥时代,http://mytv.cdn.com.mp/live/lxsd/stream.m3u8
 龙祥时代,https://ling.uus10000.top/54.m3u8
 龙祥时代,https://guangdongcmcc.tv12.xyz/12.m3u8
+龙祥时代,https://hls-gateway.vpstv.net/streams/476295.m3u8
 纬来电影,http://mytv.cdn.com.mp/live/wldy/stream.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://ling.uus10000.top/50.m3u8
+纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 SKY SPORT 英超,https://feiyang.wangdu.site/decrypt.php?url=RVQwMTZYSzlIVkowQkdnSTJvNWxDa3hOYkVyVm92ZU1MWUozL2RxZy9UK2pjcERqU1BlZW4yMFFnaGZQWll2bQ%3D%3D
 迪拜体育 2,https://svs.itworkscdn.net/smc4sportslive/smc4.smil/playlist.m3u8
 明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
@@ -3566,8 +3599,9 @@ SKY SPORT 英超,https://feiyang.wangdu.site/decrypt.php?url=RVQwMTZYSzlIVkowQkd
 翡翠台(北美版),http://jxiptv.dpdns.org/stream/4gtv/null/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 翡翠台(北美版),https://guangdongcmcc.tv12.xyz/4.m3u8
 翡翠台(北美版),https://smt.1789.dpdns.org/smt3.2.1.php?id=Wlt
+翡翠台(北美版),https://nb666.tv12.xyz/4.m3u8
 TVB Plus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVB Plus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVB Plus,https://cc04.tv12.xyz/4.m3u8
 TVB Plus,http://cdn5.1678520.xyz/live/?id=tvbp
 TVB Plus,https://video.mytvsuper.xyz/live/1517e06b57598d4bb26eb0f6ad682d9fe2aabf3ca5e4cd85b5e81c6b9c3ae96a.m3u8?token=825716213175186
@@ -3577,7 +3611,7 @@ TVB Plus,https://live.tvfix.org/live/tvbplus/2/v4000000/index.m3u8
 TVB Plus,http://jxiptv.dpdns.org/stream/4gtv/tvbplus/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+无线新闻,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://ali.hlspull.yximgs.com/live/5t6y7u8i9o0p1q2w3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5.flv#http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=2&hq#http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
@@ -3593,8 +3627,10 @@ TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 无线新闻,http://tl.061833.xyz/tl/null-11
 无线新闻,https://guangdongcmcc.tv12.xyz/5.m3u8
 无线新闻,https://vx65267199.18cn.dpdns.org/7.m3u8
+无线新闻,https://nb666.tv12.xyz/5.m3u8
+无线新闻,https://hls-gateway.vpstv.net/streams/476926.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-VIUTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,http://cdn5.1678520.xyz/live/live2.1.php?id=viu
 VIUTV,https://video.mytvsuper.xyz/live/1176eec99a3e53dee53a40dbb6a031b1d67a23b91f0a42ab3d792576f96e2929.m3u8?token=825716213141897
 VIUTV,http://cdn12.1678520.xyz/live/?id=viu
@@ -3672,6 +3708,8 @@ CCTV1港澳版,http://php.jdshipin.com/TVOD/iptv.php?id=rthk33
 无线新闻台,http://tl.061833.xyz/tl/null-11
 无线新闻台,https://guangdongcmcc.tv12.xyz/5.m3u8
 无线新闻台,https://vx65267199.18cn.dpdns.org/7.m3u8
+无线新闻台,https://nb666.tv12.xyz/5.m3u8
+无线新闻台,https://hls-gateway.vpstv.net/streams/476926.m3u8
 TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe#http://cdn9.1689.us.kg/smt1.1.php?id=Xinhe#http://php.jdshipin.com/TVOD/iptv.php?id=xinghe#http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe#https://tv.mytvsuper.xyz/tvb/xinghe/xinghe.m3u8#http://php.jdshipin.com/smt.php?id=Xinhe#http://php.jdshipin.com/PLTV/iptv.php?id=tvbxh#http://php.jdshipin.com/PLTV/iptv.php?id=xinghe#http://1b6467f415.iok.la:9931/tsfile/live/1008_1.m3u8#http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe#http://tl.061833.xyz/tl/null-7#http://aktv_stream.m16tv.cfd/stream/astro_a1/tvbxinghe/AKTV.m3u8#http://aktv.top/AKTV/live/aktv2/tvb/AKTV.m3u8#http://cdn9.163189.xyz/smt1.1.php?id=Xinhe#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=153506&extension=ts&play_token=miEIuxsBcN#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=7099&tk=e503191f8e20#http://php.jdshipin.com/TVOD/iptv.php?id=tvbxh#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0063&tk=e640d0a1bf70#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=5511&tk=e640d0a1bf70#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=571186&extension=ts&play_token=HnxccIWiNo#http://185.243.7.13:80/play/live.php?mac=00:1A:79:45:5E:9A&stream=941620&extension=ts&play_token=TBgeJuh42H#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2946&tk=e640d0a1bf70#http://65.108.74.147:49366/iptv.php?key=gat2&id=13
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8###HLS\\n
 TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
@@ -3712,6 +3750,7 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 龙华经典,https://video.mytvsuper.xyz/live/52c407895568856df6bd78667578cfa3127a423d448897cffa75e0cca9a9ef63.m3u8?token=825716213141897
 龙华经典,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 龙华经典,https://ling.uus10000.top/59.m3u8
+龙华经典,https://hls-gateway.vpstv.net/streams/476294.m3u8
 龙华卡通,https://cdn8.163189.xyz/live/lhkt/stream.m3u8
 龙华卡通,https://cdn3.132.us.kg/live/lhkt/stream.m3u8
 龙华卡通,https://tv.iill.top/litv/litv-longturn01
@@ -3726,6 +3765,7 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 龙华日韩,https://tv.iill.top/litv/litv-longturn11
 龙华日韩,http://cdn3.1678520.xyz/live/?id=lhrh
 龙华日韩,https://video.mytvsuper.xyz/live/175153697a998c029f89507342821af2efa27f68a3908cf041fb9684a2bdeb7a.m3u8?token=825716213141897
+龙华日韩,https://hls-gateway.vpstv.net/streams/476231.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8#http://61.163.58.168:2005/play/forward/5?tvid=ltvdramahd&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5n4#https://tv.iill.top/litv/litv-longturn18#http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb#https://cdn3.132.us.kg/live/lhxj/stream.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2683&tk=e640d0a1bf70#http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8#http://122.117.71.103:8533/http/61.222.53.250:8081/hls/75/817/ch59.m3u8#http://122.117.71.103:8533/龙华戏剧.m3u8#https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaxiju_twn#http://211.72.65.236:8534/.m3u8#https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
 龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8
 龙华戏剧,https://tv.iill.top/litv/litv-longturn18
@@ -3736,6 +3776,7 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华洋片,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
 龙华洋片,https://ling.uus10000.top/53.m3u8
+龙华洋片,https://hls-gateway.vpstv.net/streams/477076.m3u8
 
 🔆HK香港-②🔆,#genre#
 👉以下频道需要魔法👈,https://wp.23zo.cn/f/YP9fx/6h.mp4
@@ -3748,7 +3789,7 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw
 凤凰中文,http://148.135.93.213/phenix.php?id=fhzw
 凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
-凤凰中文,http://php.jdshipin.com/TVOD/iptv.php?id=fhzw#http://148.135.93.213:81/phenix.php?id=fhzw#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pcc72.m3u8#http://211.72.65.236:8576/.m3u8#http://www.terrykang.cn:5678/sxg.php?id=test1_4000
+凤凰中文,http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
 凤凰中文,https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 凤凰中文,http://iptv.huuc.edu.cn/hls/fhzw.m3u8
 凤凰中文,https://cdn.163189.xyz/live/fhzw/stream.m3u8
@@ -3766,7 +3807,7 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://148.135.93.213/phenix.php?id=fhzx
 凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
-凤凰资讯,http://php.jdshipin.com/TVOD/iptv.php?id=fhzx#http://cdn3.132.us.kg/live/fhzx/stream.m3u8#http://148.135.93.213:81/phenix.php?id=fhzx#http://124.95.180.107:6718/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8#http://124.95.180.107:80/1.v.smtcdns.net/qitv.fengshows.cn/live/0701pin72.m3u8#http://211.72.65.236:8577/.m3u8#http://www.terrykang.cn:5678/sxg.php?id=test2_4000
+凤凰资讯,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
 凤凰资讯,http://php.17186.eu.org/phtv/fhzx.m3u8
 凤凰资讯,http://iptv.huuc.edu.cn/hls/fhzx.m3u8
 凤凰资讯,https://cc04.tv12.xyz/23.m3u8
@@ -3788,7 +3829,7 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk
 凤凰香港,http://148.135.93.213/phenix.php?id=fhhk
 凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
-凤凰香港,http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
+凤凰香港,http://php.jdshipin.com:8880/smt.php?id=hkphoenix_twn
 凤凰香港,https://cc04.tv12.xyz/24.m3u8
 凤凰香港,http://cdn3.132.us.kg/live/fhhk/stream.m3u8
 凤凰香港,https://cdn6.163189.xyz/live/fhhk/stream.m3u8
@@ -3809,7 +3850,7 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct3
 翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=fct4
 翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_xue
-翡翠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
+翡翠台,http://php.jdshipin.com:8880/smt.php?id=jade_twn
 翡翠台,http://cdn9.163189.xyz/smt1.1.php?id=jade_twn
 翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w100.m3u8#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3#http://192.168.50.12:18000/stream/tvb/null-4/master.m3u8?u=cubs&p=2be21ab3862fd0611c202589d61d4256ab90198329c0ba67ece0fc4c0d9489f7#http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
 翡翠台,https://cc04.tv12.xyz/19.m3u8
@@ -3836,6 +3877,7 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 翡翠台(北美版),http://jxiptv.dpdns.org/stream/4gtv/null/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 翡翠台(北美版),https://guangdongcmcc.tv12.xyz/4.m3u8
 翡翠台(北美版),https://smt.1789.dpdns.org/smt3.2.1.php?id=Wlt
+翡翠台(北美版),https://nb666.tv12.xyz/4.m3u8
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali2
 华丽翡翠台,http://php.jdshipin.com/TVOD/iptv.php?id=huali
 华丽翡翠台,http://php.jdshipin.com:8880/smt.php?id=Tvbjade
@@ -3844,7 +3886,7 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 华丽翡翠台,http://v2h.jdshipin.com/jade2/jade.stream/chunklist_w108.m3u8
 无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 无线新闻台,http://php.jdshipin.com/smt.php?id=inews_twn
-无线新闻台,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+无线新闻台,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻台,http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 无线新闻台,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻台,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://ali.hlspull.yximgs.com/live/5t6y7u8i9o0p1q2w3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5.flv#http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=2&hq#http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
@@ -3860,6 +3902,8 @@ CHU,https://cdn6.163189.xyz/live/chu/stream.m3u8
 无线新闻台,http://tl.061833.xyz/tl/null-11
 无线新闻台,https://guangdongcmcc.tv12.xyz/5.m3u8
 无线新闻台,https://vx65267199.18cn.dpdns.org/7.m3u8
+无线新闻台,https://nb666.tv12.xyz/5.m3u8
+无线新闻台,https://hls-gateway.vpstv.net/streams/476926.m3u8
 TVB Plus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp###HLS\\n
 TVB Plus,https://cc04.tv12.xyz/8.m3u8
 TVB Plus,http://cdn5.1678520.xyz/live/?id=tvbp
@@ -3871,7 +3915,7 @@ TVB Plus,http://jxiptv.dpdns.org/stream/4gtv/tvbplus/master.m3u8?u=test&p=9f86d0
 TVB Plus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 TVB千禧经典,http://php.jdshipin.com/TVOD/iptv.php?id=tvbc
 TVB千禧经典,http://php.jdshipin.com/smt.php?id=Tvbclassic
-TVB千禧经典,http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
+TVB千禧经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbc
 TVB千禧经典,https://ling.uus10000.top/23.m3u8
 TVB亚洲武侠,http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 TVB亚洲武侠,http://v2hcdn.jdshipin.com/asia_action1/1asia_action.stream/chunklist_w101.m3u8
@@ -3883,7 +3927,7 @@ TVB娱乐新闻台,http://jxiptv.dpdns.org/stream/tvb/null-6/master.m3u8
 TVB娱乐新闻台,https://hls-gateway.vpstv.net/streams/708904.m3u8
 TVB明珠台,https://cdn5.163189.xyz/live/mzt/stream.m3u8
 TVB明珠台,http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
-TVB明珠台,http://php.jdshipin.com:8880/TVOD/iptv.php?id=mzt2
+TVB明珠台,http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
 TVB明珠台,https://345iptv.com/?act=play&token=5a592ca5f9a4e277577d75c5ed9a2a0f&tid=gt&id=9&p=0###WEB\\n
 TVB明珠台,https://live.tvfix.org/live/pearl/1/v4000000/index.m3u8
 TVB明珠台,http://j.s.bkpcp.top/jj/zzt
@@ -3896,7 +3940,7 @@ TVB明珠台,https://011v4.pendy.dpdns.org/stream/tvb/pearl/master.m3u8?u=judy&p
 TVB明珠台,http://cdn9.163189.xyz/smt1.1.php?id=pearl_twn
 TVB明珠台,https://hls-gateway.vpstv.net/streams/476936.m3u8
 TVB星河,http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
-TVB星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+TVB星河,http://php.jdshipin.com:8880/smt.php?id=Xinhe###HLS\\n
 TVB星河,http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8###HLS\\n
 TVB星河,http://v2hcdn.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w1006.m3u8
 TVB星河,https://v2h.jdshipin.com/xinghe/xinghe.stream/chunklist.m3u8
@@ -3906,7 +3950,7 @@ TVB星河,http://cdn9.163189.xyz/smt1.1.php?id=Xinhe
 TVB星河,https://ling.uus10000.top/8.m3u8
 TVB星河,https://hls-gateway.vpstv.net/streams/709489.m3u8
 VIUTV,http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
-VIUTV,http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
+VIUTV,http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
 VIUTV,https://cc04.tv12.xyz/84.m3u8
 VIUTV,http://cdn5.1678520.xyz/live/live2.1.php?id=viu
 VIUTV,https://video.mytvsuper.xyz/live/1176eec99a3e53dee53a40dbb6a031b1d67a23b91f0a42ab3d792576f96e2929.m3u8?token=825716213141897
@@ -3932,6 +3976,7 @@ HOY TV,https://345iptv.com/?act=play&token=e14264b740c71d5d8fea15a2771cb4d2&tid=
 美亚电影,http://j.s.bkpcp.top/js/mydy5
 美亚电影,http://jxiptv.dpdns.org/stream/4gtv/null-10/master.m3u8?u=test&p=9f86d081884c7d659a2feaa0c55ad015a3bf4f1b2b0b822cd15d6c15b0f00a08
 美亚电影,https://hls-gateway.vpstv.net/streams/708901.m3u8
+重温经典,http://148.135.93.213/live.php?id=%E9%87%8D%E6%B8%A9%E7%BB%8F%E5%85%B8
 重温经典,http://php.jdshipin.com:8880/TVOD/iptv.php?id=cwjd
 重温经典,http://cdn3.132.us.kg/live/cwjd/stream.m3u8
 重温经典,https://cc06.tv12.xyz/35.m3u8
@@ -4051,8 +4096,9 @@ TVBJ1,http://cdn5.1678520.xyz/live/?id=j1
 TVBJ1,https://bcovlive-a.akamaihd.net/e360e3f9895c4fae99b133ec8dc20f01/us-west-2/5324042807001/4a3bca5b047b4564b18bb12dfa26ba62/playlist_ssaiM.m3u8
 TVBJ1,http://cdn3.132.us.kg/live/j1/stream.m3u8
 TVBJ1,https://cdn3.163189.xyz/live/j1/stream.m3u8#http://cdn5.1678520.xyz/live/?id=j1#http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct2#http://cdn3.132.us.kg/live/j1/stream.m3u8
+TVBJ1,https://hls-gateway.vpstv.net/streams/709591.m3u8
 TVBPlus,http://php.jdshipin.com/TVOD/iptv.php?id=tvbp
-TVBPlus,http://php.jdshipin.com:8880/PLTV/iptv.php?id=j2
+TVBPlus,http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbp
 TVBPlus,https://cc04.tv12.xyz/4.m3u8
 TVBPlus,http://cdn5.1678520.xyz/live/?id=tvbp
 TVBPlus,https://video.mytvsuper.xyz/live/1517e06b57598d4bb26eb0f6ad682d9fe2aabf3ca5e4cd85b5e81c6b9c3ae96a.m3u8?token=825716213175186
@@ -4076,6 +4122,7 @@ TVBPlus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 天映,http://php.jdshipin.com:8880/smt.php?id=Celestial
 天映,https://smart.pendy.dpdns.org/Smart.php?id=Celestial
 天映,https://ling.uus10000.top/1.m3u8
+天映,https://hls-gateway.vpstv.net/streams/636710.m3u8
 天映经典,http://php.jdshipin.com:8880/smt.php?id=Celestial2
 天映经典,http://go1.bkpcp.top/tl/null-1
 天映经典,http://tl.061833.xyz/tl/null-1
@@ -4084,7 +4131,7 @@ TVBPlus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 天映经典,https://guangdongcmcc.tv12.xyz/11.m3u8
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 无线翡翠,http://php.jdshipin.com/PLTV/iptv.php?id=fct3
-无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
+无线翡翠,http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
 无线翡翠,http://cdn3.132.us.kg/live/fct/stream.m3u8
 无线翡翠,https://cdn3.163189.xyz/live/live2.1.php?id.m3u8
 无线翡翠,https://smart.pendy.dpdns.org/Smart.php?id=jade_twn
@@ -4105,7 +4152,7 @@ TVBPlus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 无线千禧,http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
-无线新闻,http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw#https://edge6a.v2h-cdn.com/enew/enew.stream/chunklist.m3u8
+无线新闻,http://php.jdshipin.com:8880/smt.php?id=inews_twn
 无线新闻,https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 无线新闻,http://cdn9.163189.xyz/smt1.1.php?id=inews_twn#https://ali.hlspull.yximgs.com/live/5t6y7u8i9o0p1q2w3edc4rfv5tgb6yhn7ujm8ik9ol0p1qaz2wsx3edc4rfv5.flv#http://live.cooltv.top/tv/tvb.php?id=0&hq#http://live.cooltv.top/tv/tvb.php?id=2&hq#http://aktv-stream.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 无线新闻,https://v2hcdn.jdshipin.com/news/news.stream/chunklist_w105.m3u8
@@ -4121,6 +4168,8 @@ TVBPlus,http://cdn.132.us.kg/live/tvbp/stream.m3u8
 无线新闻,http://tl.061833.xyz/tl/null-11
 无线新闻,https://guangdongcmcc.tv12.xyz/5.m3u8
 无线新闻,https://vx65267199.18cn.dpdns.org/7.m3u8
+无线新闻,https://nb666.tv12.xyz/5.m3u8
+无线新闻,https://hls-gateway.vpstv.net/streams/476926.m3u8
 无线星河,http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
 无线星河,http://go1.bkpcp.top/tl/null7
 无线娱乐,http://php.jdshipin.com/smt.php?id=Tvbentertainment
@@ -4280,6 +4329,7 @@ ROCK Entertainment,https://smart.pendy.dpdns.org/Smart.php?id=Rockentertain
 HITS,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live620/index.m3u8
 HITS,http://smart.pendy.dpdns.org/Smart.php?id=Hits
 HITS,https://smart.pendy.dpdns.org/Smart.php?id=Hits
+HITS,https://hls-gateway.vpstv.net/streams/709508.m3u8
 霹靂布袋戲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live145/index.m3u8
 靖天戲劇,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv058/index.m3u8
 靖天戲劇,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv058/index.m3u8
@@ -4288,6 +4338,7 @@ HITS,https://smart.pendy.dpdns.org/Smart.php?id=Hits
 靖洋戲劇,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv045/index.m3u8
 靖洋戲劇,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv045/index.m3u8
 靖洋戲劇,https://ling.uus10000.top/59.m3u8
+靖洋戲劇,https://hls-gateway.vpstv.net/streams/476285.m3u8
 金光布袋戲,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live144/index.m3u8
 ROCK Action,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live138/index.m3u8
 ROCK Action,https://cc04.tv12.xyz/8.m3u8
@@ -4295,6 +4346,7 @@ ROCK Action,https://video.mytvsuper.xyz/live/ec72ef2176feae9bd3c8273ce3b8a8e25ad
 ROCK Action,https://tv.iill.top/4gtv/180
 ROCK Action,https://live.tvfix.org/live/rockac/index.m3u8
 ROCK Action,http://jxiptv.dpdns.org/stream/tvb/rockaction/master.m3u8
+ROCK Action,https://hls-gateway.vpstv.net/streams/709551.m3u8
 采昌影劇,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv049/index.m3u8
 采昌影劇,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv049/index.m3u8
 靖天映畫,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv055/index.m3u8
@@ -4315,6 +4367,7 @@ amc 電影台,https://video.mytvsuper.xyz/live/f12903bc3f78e88706f4769030290c415
 amc 電影台,https://tv.iill.top/litv/4gtv-4gtv017
 amc 電影台,https://ling.uus10000.top/72.m3u8
 Cinema World,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live069/index.m3u8
+Cinema World,https://hls-gateway.vpstv.net/streams/709421.m3u8
 歐洲光影,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live157/index.m3u8
 TVBS台劇台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8
 經典電影台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live021/index.m3u8
@@ -4329,6 +4382,7 @@ TVBS台劇台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8
 龍華洋片,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
 龍華洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龍華洋片,https://ling.uus10000.top/53.m3u8
+龍華洋片,https://hls-gateway.vpstv.net/streams/477076.m3u8
 龍華電影,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn03/index.m3u8
 龍華電影,https://cdn8.163189.xyz/live/lhdy/stream.m3u8
 龍華電影,https://cdn3.132.us.kg/live/lhdy/stream.m3u8
@@ -4345,6 +4399,7 @@ TVBS台劇台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8
 龍華日韓,https://tv.iill.top/litv/litv-longturn11
 龍華日韓,http://cdn3.1678520.xyz/live/?id=lhrh
 龍華日韓,https://video.mytvsuper.xyz/live/175153697a998c029f89507342821af2efa27f68a3908cf041fb9684a2bdeb7a.m3u8?token=825716213141897
+龍華日韓,https://hls-gateway.vpstv.net/streams/476231.m3u8
 龍華偶像,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn12/index.m3u8
 龍華偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
 龍華偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
@@ -4366,6 +4421,7 @@ TVBS台劇台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live088/index.m3u8
 龍華經典,https://video.mytvsuper.xyz/live/52c407895568856df6bd78667578cfa3127a423d448897cffa75e0cca9a9ef63.m3u8?token=825716213141897
 龍華經典,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 龍華經典,https://ling.uus10000.top/59.m3u8
+龍華經典,https://hls-gateway.vpstv.net/streams/476294.m3u8
 台灣戲劇台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn22/index.m3u8
 台灣戲劇台,http://kr2.13430067.xyz/proxy?url=http%3A//172.17.0.2%3A80/litv.php%3Ftoken%3Ddante%26id%3Dlitv-longturn22
 八大綜藝,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv039/index.m3u8
@@ -4396,6 +4452,7 @@ TVBS歡樂台,https://hls-gateway.vpstv.net/streams/477068.m3u8
 Trace Urban,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv082/index.m3u8
 Trace Urban,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv082/index.m3u8
 MTV Live,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live025/index.m3u8
+MTV Live,https://hls-gateway.vpstv.net/streams/709109.m3u8
 MEZZO LIVE HD,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv083/index.m3u8
 MEZZO LIVE HD,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv083/index.m3u8
 CLASSICA 古典樂,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv059/index.m3u8
@@ -4410,6 +4467,7 @@ Lifetime,http://1tv41.icu:8080/30065823/63154294/46714
 Lifetime,http://1tv41.icu:8080/30065823/63154294/9275
 Lifetime,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856892
 Lifetime,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live029/index.m3u8
+Lifetime,https://hls-gateway.vpstv.net/streams/476666.m3u8
 INULTRA,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live096/index.m3u8
 Pet Club TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live110/index.m3u8
 民視旅遊,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv07/index.m3u8
@@ -4422,9 +4480,12 @@ Pet Club TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live110/index.m3u8
 亞洲旅遊,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv076/index.m3u8
 亞洲旅遊,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv076/index.m3u8
 亞洲旅遊,https://smart.pendy.dpdns.org/Smart.php?id=asiatravel_twn
+亞洲旅遊,https://hls-gateway.vpstv.net/streams/476274.m3u8
 FUN 4K探索娛樂,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live011/index.m3u8
 幸福空間居家台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live206/index.m3u8
+幸福空間居家台,https://hls-gateway.vpstv.net/streams/488986.m3u8
 LOVE NATURE,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live208/index.m3u8
+LOVE NATURE,https://hls-gateway.vpstv.net/streams/709639.m3u8
 ELTA生活旅遊,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live120/index.m3u8
 LUXE TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live121/index.m3u8
 TV5MONDE Style,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live122/index.m3u8
@@ -4434,6 +4495,7 @@ Smart知識台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn19/index.m3u8
 LiveABC 互動英語台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live030/index.m3u8
 達文西,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv018/index.m3u8
 達文西,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv018/index.m3u8
+達文西,https://hls-gateway.vpstv.net/streams/493134.m3u8
 ELTV生活英語台,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn20/index.m3u8
 ELTV生活英語台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn20/index.m3u8
 ELTV生活英語台,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn20/index.m3u8
@@ -4445,15 +4507,20 @@ Nickelodeon,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856897
 Nickelodeon,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live105/index.m3u8
 Nickelodeon,http://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
 Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+Nickelodeon,https://hls-gateway.vpstv.net/streams/605054.m3u8
 DreamWorks,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live017/index.m3u8
 DreamWorks,http://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
 DreamWorks,https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
+DreamWorks,https://hls-gateway.vpstv.net/streams/602239.m3u8
 靖天卡通台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv044/index.m3u8
 靖天卡通台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv044/index.m3u8
 靖天卡通台,https://smart.pendy.dpdns.org/Smart.php?id=jingtiancartoon_twn
+靖天卡通台,https://hls-gateway.vpstv.net/streams/476249.m3u8
 靖洋卡通,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv057/index.m3u8
 靖洋卡通,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv057/index.m3u8
+靖洋卡通,https://hls-gateway.vpstv.net/streams/476248.m3u8
 MOMO親子,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live107/index.m3u8
+MOMO親子,https://hls-gateway.vpstv.net/streams/477060.m3u8
 經典卡通台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live022/index.m3u8
 精選動漫台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live024/index.m3u8
 龍華卡通,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn01/index.m3u8
@@ -4475,11 +4542,13 @@ MOMO親子,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live107/index.m3u8
 東森新聞,https://live.iill.top/youtube/E0zhe2gkXBs
 東森新聞,https://guangdongcmcc.tv12.xyz/4.m3u8
 東森新聞,https://vx65267199.18cn.dpdns.org/21.m3u8
+東森新聞,https://hls-gateway.vpstv.net/streams/476998.m3u8
 華視新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv052/index.m3u8
 華視新聞台,https://www.youtube.com/watch?v=wM0g8EoUZ_E
 華視新聞台,https://live.iill.top/youtube/wM0g8EoUZ_E
 華視新聞台,https://tv.iill.top/litv/4gtv-4gtv052
 華視新聞台,https://vx65267199.18cn.dpdns.org/28.m3u8
+華視新聞台,https://hls-gateway.vpstv.net/streams/476266.m3u8
 民視新聞,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
 民視新聞,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv13/index.m3u8
 民視新聞,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -4506,6 +4575,7 @@ MOMO親子,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live107/index.m3u8
 中視新聞台,https://smart.pendy.dpdns.org/Smart.php?id=zhongshinews_twn
 中視新聞台,https://ling.uus10000.top/74.m3u8
 中視新聞台,https://vx65267199.18cn.dpdns.org/27.m3u8
+中視新聞台,https://hls-gateway.vpstv.net/streams/476269.m3u8
 中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8
 中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv009/index.m3u8
 中天新聞台,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv009/index.m3u8
@@ -4525,6 +4595,7 @@ MOMO親子,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live107/index.m3u8
 BLOOMBERG TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live059/index.m3u8
 BLOOMBERG TV,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/c2270dd8b41c6356dc14fae747a32c29.m3u8
 BLOOMBERG TV,https://tv.iill.top/4gtv/283
+BLOOMBERG TV,https://hls-gateway.vpstv.net/streams/477810.m3u8
 寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn14/index.m3u8
 寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn14/index.m3u8
 寰宇新聞,http://xn--elt51t.azip.dpdns.org:5008/of-litv-longturn14/index.m3u8
@@ -4547,10 +4618,12 @@ BLOOMBERG TV,https://tv.iill.top/4gtv/283
 寰宇新聞台灣台,https://live.iill.top/youtube/w87VGpgd90U
 SBN 全球財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live060/index.m3u8
 SBN 全球財經台,https://live.iill.top/youtube/BGV_iWT8tug
+SBN 全球財經台,https://hls-gateway.vpstv.net/streams/708894.m3u8
 寰宇財經,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv158/index.m3u8
 寰宇財經,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv158/index.m3u8
 寰宇財經,http://xn--elt51t.azip.dpdns.org:5008/of-4gtv-4gtv158/index.m3u8
 寰宇財經,https://smart.pendy.dpdns.org/Smart.php?id=huanyutaiwan_twn
+寰宇財經,https://hls-gateway.vpstv.net/streams/488994.m3u8
 FRANCE24 英文台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live146/index.m3u8
 半島國際新聞台,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv10/index.m3u8
 半島國際新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv10/index.m3u8
@@ -4571,6 +4644,7 @@ DW德國之聲,https://live.iill.top/youtube/pqabxBKzZ6M
 非凡新聞,https://hls-gateway.vpstv.net/streams/477083.m3u8
 非凡商業,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv048/index.m3u8
 台視財經台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv056/index.m3u8
+台視財經台,https://hls-gateway.vpstv.net/streams/476271.m3u8
 TVBS新聞台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 TVBS新聞台,https://cc04.tv12.xyz/19.m3u8
 TVBS新聞台,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -4594,6 +4668,7 @@ TVBS新聞台,https://hls-gateway.vpstv.net/streams/708927.m3u8
 台視新聞台,https://ling.uus10000.top/77.m3u8
 台視新聞台,https://guangdongcmcc.tv12.xyz/8.m3u8
 台視新聞台,https://vx65267199.18cn.dpdns.org/29.m3u8
+台視新聞台,https://hls-gateway.vpstv.net/streams/476268.m3u8
 第1商業台,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv104/index.m3u8
 第1商業台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv104/index.m3u8
 倪珍播新聞,http://xn--elt51t.azip.dpdns.org:5008/nnews-zh/index.m3u8
@@ -4604,6 +4679,7 @@ TRACE Sport Stars,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv077/index.m3
 智林體育,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv101/index.m3u8
 智林體育,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv101/index.m3u8
 智林體育,https://ling.uus10000.top/2012.m3u8
+智林體育,https://hls-gateway.vpstv.net/streams/488984.m3u8
 時尚運動X,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv014/index.m3u8
 時尚運動X,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv014/index.m3u8
 車迷 TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live201/index.m3u8
@@ -4611,6 +4687,7 @@ GINX Esports TV,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv053/index.m3u8
 GINX Esports TV,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv053/index.m3u8
 博斯魅力,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn04/index.m3u8
 博斯魅力,https://ling.uus10000.top/2004.m3u8
+博斯魅力,https://hls-gateway.vpstv.net/streams/477598.m3u8
 博斯高球I,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn05/index.m3u8
 博斯高球II,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn06/index.m3u8
 博斯運動I,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn07/index.m3u8
@@ -4618,6 +4695,7 @@ GINX Esports TV,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv053/index.m3u8
 博斯網球,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn09/index.m3u8
 博斯網球,https://smart.pendy.dpdns.org/Smart.php?id=bositennis_twn
 博斯網球,https://ling.uus10000.top/2011.m3u8
+博斯網球,https://hls-gateway.vpstv.net/streams/477602.m3u8
 博斯無限I,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn10/index.m3u8
 博斯無限II,http://xn--elt51t.azip.dpdns.org:5008/litv-longturn13/index.m3u8
 歷史頻道,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live026/index.m3u8
@@ -4625,6 +4703,7 @@ CI 罪案偵查頻道,http://xn--elt51t.azip.dpdns.org:5008/4gtv-live027/index.m
 視納華仁紀實頻道,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv013/index.m3u8
 視納華仁紀實頻道,http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv013/index.m3u8
 視納華仁紀實頻道,http://kr2.13430067.xyz/proxy?url=http%3A//172.17.0.2%3A80/litv.php%3Ftoken%3Ddante%26id%3D4gtv-4gtv013
+視納華仁紀實頻道,https://hls-gateway.vpstv.net/streams/493137.m3u8
 影迷數位紀實台,http://xn--elt51t.azip.dpdns.org:5008/litv-ftv15/index.m3u8
 影迷數位紀實台,http://xn--elt51t.azip.dpdns.org:5008/li-litv-ftv15/index.m3u8
 公視金獎台,http://xn--elt51t.azip.dpdns.org:5008/ofiii13/index.m3u8
@@ -4660,6 +4739,7 @@ TVBS食尚玩家,http://xn--elt51t.azip.dpdns.org:5008/ofiii31/index.m3u8
 东森新闻,https://live.iill.top/youtube/E0zhe2gkXBs
 东森新闻,https://guangdongcmcc.tv12.xyz/4.m3u8
 东森新闻,https://vx65267199.18cn.dpdns.org/21.m3u8
+东森新闻,https://hls-gateway.vpstv.net/streams/476998.m3u8
 寰宇新闻,https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 寰宇新闻,http://live.iill.top/youtube/@globalnewstw/live
 寰宇新闻,https://www.youtube.com/watch?v=6IquAgfvYmc
@@ -4714,6 +4794,7 @@ TVBS食尚玩家,http://xn--elt51t.azip.dpdns.org:5008/ofiii31/index.m3u8
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://ling.uus10000.top/51.m3u8
 纬来体育,https://vx65267199.18cn.dpdns.org/49.m3u8
+纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 纬来育乐,http://122.117.71.103:8563/纬来育乐.m3u8
 纬来育乐,https://smart.pendy.dpdns.org/Smart.php?id=videolandyule
 纬来育乐,https://guangdongcmcc.tv12.xyz/17.m3u8
@@ -4724,7 +4805,9 @@ MOMO综合,rtmp://f13h.mine.nu/sat/tv761
 DAZN体育1,rtmp://f13h.mine.nu/sat/tv731
 DAZN体育2,rtmp://f13h.mine.nu/sat/tv741
 ELTA体育3,rtmp://9hv9.mine.nu/sat/md011
+ELTA体育3,https://hls-gateway.vpstv.net/streams/483407.m3u8
 ELTA体育4,rtmp://9hv9.mine.nu/sat/md021
+ELTA体育4,https://hls-gateway.vpstv.net/streams/708875.m3u8
 TVBS新闻,http://122.117.71.103:8538/http/61.222.53.250:8081/hls/75/817/ch59.m3u8
 TVBS新闻,https://cc04.tv12.xyz/19.m3u8
 TVBS新闻,https://www.youtube.com/watch?v=m_dhMSvUCIc
@@ -4787,6 +4870,7 @@ tvbs新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8
 三立新闻,https://ling.uus10000.top/55.m3u8
 三立新闻,https://guangdongcmcc.tv12.xyz/7.m3u8
 三立新闻,https://vx65267199.18cn.dpdns.org/23.m3u8
+三立新闻,https://hls-gateway.vpstv.net/streams/492922.m3u8
 闽壹新闻,http://122.117.71.103:8579/闽壹新闻.m3u8
 民视新闻,http://122.117.71.103:8535/民视新闻.m3u8
 民视新闻,https://www.youtube.com/watch?v=ylYJSBUgaMA
@@ -4829,6 +4913,7 @@ tvbs新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8
 东森戏剧,https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0770&tk=e640d0a1bf70#http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8#http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/803/ch13.m3u8#http://162.19.247.76:22222/live/dsxj/index.m3u8#https://pixman.mytvsuper.com.mp/Smart.php?id=ettvdrama#http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc#http://122.117.71.103:8529/东森戏剧.m3u8#http://211.72.65.236:8530/.m3u8
 东森戏剧,https://ling.uus10000.top/47.m3u8
 东森戏剧,https://guangdongcmcc.tv12.xyz/16.m3u8
+东森戏剧,https://hls-gateway.vpstv.net/streams/476994.m3u8
 龙华戏剧,https://cdn8.163189.xyz/live/lhxj/stream.m3u8#http://61.163.58.168:2005/play/forward/5?tvid=ltvdramahd&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5n4#https://tv.iill.top/litv/litv-longturn18#http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb#https://cdn3.132.us.kg/live/lhxj/stream.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2683&tk=e640d0a1bf70#http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8#http://122.117.71.103:8533/http/61.222.53.250:8081/hls/75/817/ch59.m3u8#http://122.117.71.103:8533/龙华戏剧.m3u8#https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaxiju_twn#http://211.72.65.236:8534/.m3u8#https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
 龙华戏剧,https://cdn3.132.us.kg/live/lhxj/stream.m3u8
 龙华戏剧,https://tv.iill.top/litv/litv-longturn18
@@ -4846,13 +4931,17 @@ tvbs新闻,https://hls-gateway.vpstv.net/streams/708927.m3u8
 龙华电影,https://hls-gateway.vpstv.net/streams/476300.m3u8
 纬来电影,https://smart.pendy.dpdns.org/Smart.php?id=videolandmovie
 纬来电影,https://ling.uus10000.top/50.m3u8
+纬来电影,https://hls-gateway.vpstv.net/streams/477063.m3u8
 纬来戏剧,https://ling.uus10000.top/53.m3u8
+纬来戏剧,https://hls-gateway.vpstv.net/streams/477067.m3u8
 八大戏剧,https://smart.pendy.dpdns.org/Smart.php?id=badadrama#https://pixman.mytvsuper.com.mp/Smart.php?id=badadrama
 八大戏剧,https://ling.uus10000.top/62.m3u8
+八大戏剧,https://hls-gateway.vpstv.net/streams/488934.m3u8
 年代综合,http://122.117.71.103:8565/年代综合.m3u8
 东风卫视,http://122.117.71.103:8527/东风卫视.m3u8
 CInemax,https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
 CInemax,http://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+CInemax,https://hls-gateway.vpstv.net/streams/476283.m3u8
 Amc电影,https://video.mytvsuper.xyz/live/f12903bc3f78e88706f4769030290c4150d4a2e851c130cb3be0500c0752a1f5.m3u8?token=825716213175186
 Amc电影,https://tv.iill.top/litv/4gtv-4gtv017
 Amc电影,https://ling.uus10000.top/72.m3u8
@@ -4866,6 +4955,7 @@ MoMo亲子国,http://122.117.71.103:8514/MoMo亲子.m3u8
 緯來體育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 緯來體育,https://ling.uus10000.top/51.m3u8
 緯來體育,https://vx65267199.18cn.dpdns.org/49.m3u8
+緯來體育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
 三立台灣,http://125.227.210.55:8160/VideoInput/play.ts
 三立台灣,https://video.mytvsuper.xyz/live/b44650231f95ab836b2ed7441d7029f4274073600361945982873635e4363514.m3u8?token=825716213175186
@@ -4875,6 +4965,7 @@ Bloomberg,http://125.227.210.55:8161/VideoInput/play.ts
 Bloomberg,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8#https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 Bloomberg,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+Bloomberg,https://hls-gateway.vpstv.net/streams/476638.m3u8
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,http://125.227.210.55:8167/VideoInput/play.ts
 CN卡通,https://hls-gateway.vpstv.net/streams/476247.m3u8
@@ -4907,6 +4998,7 @@ TVBS新聞,https://hls-gateway.vpstv.net/streams/708927.m3u8
 三立新聞,https://ling.uus10000.top/55.m3u8
 三立新聞,https://guangdongcmcc.tv12.xyz/7.m3u8
 三立新聞,https://vx65267199.18cn.dpdns.org/23.m3u8
+三立新聞,https://hls-gateway.vpstv.net/streams/492922.m3u8
 BBC new,http://125.227.210.55:8165/VideoInput/play.ts
 CNN new,http://125.227.210.55:8166/VideoInput/play.ts
 Obcyoyo,http://122.117.71.103:8515/Obcyoyo.m3u8
@@ -4916,6 +5008,7 @@ BloomBerg,http://122.117.71.103:8581/BloomBerg.m3u8
 BloomBerg,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8#https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 BloomBerg,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 BloomBerg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+BloomBerg,https://hls-gateway.vpstv.net/streams/476638.m3u8
 中天新聞,https://zt.dracwoundshop.eu.org/live/stream.m3u8
 中天新聞,https://cc04.tv12.xyz/21.m3u8
 中天新聞,https://live.iill.top/youtube/vr3XyVCR4T0
@@ -4935,6 +5028,7 @@ BloomBerg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-
 龙华经典,https://video.mytvsuper.xyz/live/52c407895568856df6bd78667578cfa3127a423d448897cffa75e0cca9a9ef63.m3u8?token=825716213141897
 龙华经典,https://smart.pendy.dpdns.org/Smart.php?id=lunghuajingdian_twn
 龙华经典,https://ling.uus10000.top/59.m3u8
+龙华经典,https://hls-gateway.vpstv.net/streams/476294.m3u8
 龙华偶像,https://cdn8.163189.xyz/live/lhox/stream.m3u8
 龙华偶像,https://cdn3.132.us.kg/live/lhox/stream.m3u8
 龙华偶像,https://smart.pendy.dpdns.org/Smart.php?id=lunghuaidol_twn
@@ -4945,9 +5039,11 @@ BloomBerg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-
 龙华日韩,https://tv.iill.top/litv/litv-longturn11
 龙华日韩,http://cdn3.1678520.xyz/live/?id=lhrh
 龙华日韩,https://video.mytvsuper.xyz/live/175153697a998c029f89507342821af2efa27f68a3908cf041fb9684a2bdeb7a.m3u8?token=825716213141897
+龙华日韩,https://hls-gateway.vpstv.net/streams/476231.m3u8
 龙华洋片,https://cdn8.163189.xyz/live/lhyp/stream.m3u8
 龙华洋片,https://smart.pendy.dpdns.org/Smart.php?id=lunghuawestern_twn
 龙华洋片,https://ling.uus10000.top/53.m3u8
+龙华洋片,https://hls-gateway.vpstv.net/streams/477076.m3u8
 CNA亚洲新闻,http://v4h.xiepeiru.top:1123/iptv/ga/CNAYaZhouXinWen
 CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 台视新闻,https://cc04.tv12.xyz/62.m3u8
@@ -4960,6 +5056,7 @@ CNA亚洲新闻,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f
 台视新闻,https://ling.uus10000.top/77.m3u8
 台视新闻,https://guangdongcmcc.tv12.xyz/8.m3u8
 台视新闻,https://vx65267199.18cn.dpdns.org/29.m3u8
+台视新闻,https://hls-gateway.vpstv.net/streams/476268.m3u8
 TVBS欢乐,http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 TVBS欢乐,https://tv.iill.top/litv/4gtv-4gtv068
 TVBS欢乐,http://kr2.13430067.xyz/proxy?url=http%3A//172.17.0.2%3A80/litv.php%3Ftoken%3Ddante%26id%3D4gtv-4gtv068
@@ -4981,6 +5078,7 @@ Diso综合,http://61.221.215.25:8800/hls/1/index.m3u8
 纬来精彩,https://smart.pendy.dpdns.org/Smart.php?id=videolandspecial_twn
 探索亚洲,http://61.221.215.25:8800/hls/50/index.m3u8
 探索亚洲,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+探索亚洲,https://hls-gateway.vpstv.net/streams/476978.m3u8
 NHK-WORLD,http://61.221.215.25:8800/hls/51/index.m3u8
 NHK-WORLD,https://live.iill.top/youtube/f0lYkdA-Gtw
 NHK-WORLD,http://smart.pendy.dpdns.org/Smart.php?id=nhkworld_japan
@@ -4990,10 +5088,12 @@ BLOOMBERG,http://125.227.210.55:8161/VideoInput/play.ts
 BLOOMBERG,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8#https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 BLOOMBERG,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 BLOOMBERG,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+BLOOMBERG,https://hls-gateway.vpstv.net/streams/476638.m3u8
 BBCNEW,http://125.227.210.55:8165/VideoInput/play.ts
 CNNNEW,http://125.227.210.55:8166/VideoInput/play.ts
 汉天HTTV,http://38.64.72.148/hls/modn/list/4025/chunklist0.m3u8
 KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8
+KTSF26,https://hls-gateway.vpstv.net/streams/709630.m3u8
 
 🔆日本频道🔆,#genre#
 👉以下频道需要魔法👈,https://wp.23zo.cn/f/YP9fx/6h.mp4
@@ -5038,6 +5138,7 @@ KTSF26,http://38.64.72.148/hls/modn/list/4026/chunklist0.m3u8
 テレビ東京,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS297&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 テレビ東京,https://vnpt.nekocdn.xyz/202bea4f-c55a-4dbc-a5f3-66343cc98b0b.m3u8
 テレビ東京,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd07&isp=10&bind=0&uin=159413&playseek=0
+テレビ東京,https://hls-gateway.vpstv.net/streams/709222.m3u8
 NHK BS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
 NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11
@@ -5045,6 +5146,7 @@ NHK BS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP
 NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
 NHK BS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK BS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs11&isp=10&bind=0&uin=159413&playseek=0
+NHK BS,https://hls-gateway.vpstv.net/streams/709223.m3u8
 NHK BSP4K,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
 NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01
@@ -5052,6 +5154,7 @@ NHK BSP4K,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode
 NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
 NHK BSP4K,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS103&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 NHK BSP4K,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs01&isp=10&bind=0&uin=159413&playseek=0
+NHK BSP4K,https://hls-gateway.vpstv.net/streams/709224.m3u8
 BS日テレ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS141&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
 BS日テレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs02&isp=10&bind=0&uin=159413&playseek=0
@@ -5066,6 +5169,7 @@ BS朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=
 BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
 BS朝日,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS151&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BS朝日,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs03&isp=10&bind=0&uin=159413&playseek=0
+BS朝日,https://hls-gateway.vpstv.net/streams/709229.m3u8
 BS-TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
 BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
@@ -5078,6 +5182,7 @@ BS-TBS,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS161&r=FHD&ccode=JP
 BS-TBS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs04&isp=10&bind=0&uin=159413&playseek=0
 BS-TBS,http://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
 BS-TBS,https://smart.pendy.dpdns.org/Smart.php?id=bstbs_japan
+BS-TBS,https://hls-gateway.vpstv.net/streams/709230.m3u8
 BSテレ東,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS171&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
 BSテレ東,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs05&isp=10&bind=0&uin=159413&playseek=0
@@ -5099,6 +5204,7 @@ WOWOWプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=F
 WOWOWプライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
 WOWOWプライム,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS191&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 WOWOWプライム,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs12&isp=10&bind=0&uin=159413&playseek=0
+WOWOWプライム,https://hls-gateway.vpstv.net/streams/709250.m3u8
 WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
 WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
@@ -5106,6 +5212,7 @@ WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&
 WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
 WOWOWライブ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS192&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 WOWOWライブ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20&isp=10&bind=0&uin=159413&playseek=0
+WOWOWライブ,https://hls-gateway.vpstv.net/streams/709251.m3u8
 WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 WOWOWシネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
 WOWOWシネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
@@ -5113,6 +5220,7 @@ WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&
 WOWOWシネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
 WOWOWシネマ,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS193&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 WOWOWシネマ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs07&isp=10&bind=0&uin=159413&playseek=0
+WOWOWシネマ,https://hls-gateway.vpstv.net/streams/709252.m3u8
 BSアニマックス,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS236&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
 BSアニマックス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15&isp=10&bind=0&uin=159413&playseek=0
@@ -5125,11 +5233,13 @@ JSPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs1
 JSPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
 JSPORTS 1,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS242&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS 1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 1,https://hls-gateway.vpstv.net/streams/709246.m3u8
 JSPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
 JSPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
 JSPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
 JSPORTS 2,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS243&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS 2,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 2,https://hls-gateway.vpstv.net/streams/709247.m3u8
 JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
 JSPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
@@ -5137,6 +5247,7 @@ JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode
 JSPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
 JSPORTS 3,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS244&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS 3,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 3,https://hls-gateway.vpstv.net/streams/709248.m3u8
 JSPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 JSPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
@@ -5144,6 +5255,7 @@ JSPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode
 JSPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
 JSPORTS 4,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS245&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 JSPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&isp=10&bind=0&uin=159413&playseek=0
+JSPORTS 4,https://hls-gateway.vpstv.net/streams/709249.m3u8
 ゴルフネットワーク,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS262&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
 ゴルフネットワーク,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs03&isp=10&bind=0&uin=159413&playseek=0
@@ -5158,6 +5270,7 @@ JSPORTS 4,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs2
 ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
 ホームドラマチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ホームドラマチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs05&isp=10&bind=0&uin=159413&playseek=0
+ホームドラマチャンネル,https://hls-gateway.vpstv.net/streams/709245.m3u8
 LaLaTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS314&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 LaLaTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19&isp=10&bind=0&uin=159413&playseek=0
 LaLaTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs19
@@ -5215,15 +5328,18 @@ TOKYO MX1,https://vnpt.nekocdn.xyz/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
 TOKYO MX1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
 TOKYO MX1,https://vnpt.nekocdn.xyz/b9925493-fc55-40fe-b813-07ead8974f3f.m3u8
 TOKYO MX1,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gd08&isp=10&bind=0&uin=159413&playseek=
+TOKYO MX1,https://hls-gateway.vpstv.net/streams/709231.m3u8
 千葉テレビ,http://r3jx.djtmewibu.com/chibatv/index.m3u8
 テレビ神奈川,http://r3jx.djtmewibu.com/tvk/index.m3u8
 テレビ新広島,http://r3jx.djtmewibu.com/tss/index.m3u8
 NHK総合 大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx06&isp=10&bind=0&uin=159413&playseek=0
 MBS毎日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx01&isp=10&bind=0&uin=159413&playseek=0
+MBS毎日放送,https://hls-gateway.vpstv.net/streams/709225.m3u8
 ABC朝日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx02&isp=10&bind=0&uin=159413&playseek=0
 カンテレ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx03&isp=10&bind=0&uin=159413&playseek=0
 読売テレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx04&isp=10&bind=0&uin=159413&playseek=0
 テレビ大阪,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx05&isp=10&bind=0&uin=159413&playseek=0
+テレビ大阪,https://hls-gateway.vpstv.net/streams/709228.m3u8
 サンテレビ,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=gx07&isp=10&bind=0&uin=159413&playseek=0
 スターチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS200&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スターチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs08&isp=10&bind=0&uin=159413&playseek=0
@@ -5234,6 +5350,7 @@ ABC朝日放送,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?c
 釣りビジョン,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS251&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 釣りビジョン,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs25&isp=10&bind=0&uin=159413&playseek=0
 Mnet,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS241&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
+Mnet,https://hls-gateway.vpstv.net/streams/709132.m3u8
 日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 日本映画専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs23&isp=10&bind=0&uin=159413&playseek=0
 日本映画専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=BS255&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -5248,15 +5365,18 @@ Dlife,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS312&r=FHD&ccode=JP&
 チャンネル銀河,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
 チャンネル銀河,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS305&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 チャンネル銀河,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs29&isp=10&bind=0&uin=159413&playseek=0
+チャンネル銀河,https://hls-gateway.vpstv.net/streams/709241.m3u8
 ファミリー劇場,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ファミリー劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=10&bind=0&uin=159413&playseek=0
 ファミリー劇場,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS293&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ファミリー劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs20&isp=10&bind=0&uin=159413&playseek=0
+ファミリー劇場,https://hls-gateway.vpstv.net/streams/709237.m3u8
 GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 歌謡ポップスチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=0
 歌謡ポップスチャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS329&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 歌謡ポップスチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs13&isp=10&bind=0&uin=159413&playseek=0
+歌謡ポップスチャンネル,https://hls-gateway.vpstv.net/streams/709259.m3u8
 キッズステーション,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 キッズステーション,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs07&isp=10&bind=0&uin=159413&playseek=0
 キッズステーション,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS330&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -5270,6 +5390,7 @@ GAORA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS254&r=FHD&ccode=JP&
 ムービープラス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
 ムービープラス,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS240&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 ムービープラス,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs14&isp=10&bind=0&uin=159413&playseek=0
+ムービープラス,https://hls-gateway.vpstv.net/streams/709263.m3u8
 Music ON TV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS218&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 東映チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs27&isp=10&bind=0&uin=159413&playseek=0
@@ -5280,6 +5401,7 @@ Music ON TV!,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS325&r=FHD&cc
 時代劇専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
 時代劇専門チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS292&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 時代劇専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs04&isp=10&bind=0&uin=159413&playseek=0
+時代劇専門チャンネル,https://hls-gateway.vpstv.net/streams/709235.m3u8
 囲碁・将棋チャンネル,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS363&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スーパー!ドラマTV,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS310&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 スカイA,https://stream01.willfonk.com/live_playlist.m3u8?cid=CS250&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
@@ -5290,8 +5412,10 @@ AT-X 1,https://vnpt.nekocdn.xyz/9113e313-5c50-41dd-a4a0-fda78b64580f.m3u8
 AT-X 2,https://neetball.net/live/neet3.m3u8
 AT-X 3,http://r3jx.djtmewibu.com/at-x/index.m3u8
 旅チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs12&isp=10&bind=0&uin=159413&playseek=0
+旅チャンネル,https://hls-gateway.vpstv.net/streams/709254.m3u8
 Music JapanTV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs06&isp=10&bind=0&uin=159413&playseek=0
 衛星劇場,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs22&isp=10&bind=0&uin=159413&playseek=0
+衛星劇場,https://hls-gateway.vpstv.net/streams/709238.m3u8
 GAORA SPORTS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs17&isp=10&bind=0&uin=159413&playseek=0
 宝塚歌劇専門チャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs28&isp=10&bind=0&uin=159413&playseek=0
 MONDO TV,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs21&isp=10&bind=0&uin=159413&playseek=0
@@ -5305,6 +5429,7 @@ Cartoon Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778115
 Cartoon Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778116
 Cartoon Network,http://smart.pendy.dpdns.org/Smart.php?id=Cn
 Cartoon Network,https://smart.pendy.dpdns.org/Smart.php?id=Cn
+Cartoon Network,https://hls-gateway.vpstv.net/streams/709541.m3u8
 ディズニージュニア,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23&isp=10&bind=0&uin=159413&playseek=0
 アニマルプラネット,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs24&isp=10&bind=0&uin=159413&playseek=0
 ヒストリーチャンネル,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs09&isp=10&bind=0&uin=159413&playseek=0
@@ -5314,6 +5439,7 @@ BBC NEWS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 BBC NEWS,http://1tv41.icu:8080/30065823/63154294/53757
 BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8#http://125.227.210.55:8165/VideoInput/play.ts
 BBC NEWS,https://b638a299.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/d1ee66fb-71e5-408d-945a-31ae598fd476/2.m3u8
+BBC NEWS,https://hls-gateway.vpstv.net/streams/709559.m3u8
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch02/index.m3u8
 日テレNEWS24,https://n24-cdn-live.ntv.co.jp/ch01/index.m3u8
@@ -5350,7 +5476,9 @@ tvN 멜랑꼴리아,https://d25mdvvpht3395.cloudfront.net/v1/master/3722c60a815c
 tvN 철인왕후,https://dmnsygceaez9z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kugwkm0rtsyfv-ssai-prd/89a2b732_7d4e_4098_9b82_f8e829ab07f0/hls/playlist.m3u8
 tvN THE K2,https://d32khooduen8y3.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-p170vbjf0s68a-ssai-prd/2e874342_9a2c_48e9_9066_7ab3a3284a80/hls/playlist.m3u8
 KBS 1,http://mytv.dothome.co.kr/ch/public/1.php
+KBS 1,https://hls-gateway.vpstv.net/streams/709115.m3u8
 KBS 2,http://mytv.dothome.co.kr/ch/public/3.php
+KBS 2,https://hls-gateway.vpstv.net/streams/709116.m3u8
 BBS 불교 방송,http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist.m3u8
 CJ OnStyle,https://live-ch1.cjonstyle.net/cjmalllive/stream2/playlist.m3u8
 CJ OnStyle Plus,https://live-ch2.cjonstyle.net/cjosplus/live2/playlist.m3u8
@@ -5359,14 +5487,17 @@ EBS+ 2,http://ebsonairios.ebs.co.kr/plus2tablet500k/tablet500k/plus2tablet500k.i
 EBS 1,http://ebsonairios.ebs.co.kr/groundwavetablet500k/tablet500k/playlist.m3u8?zshijd
 EBS 1,http://smart.pendy.dpdns.org/Smart.php?id=ebs1_korea
 EBS 1,https://smart.pendy.dpdns.org/Smart.php?id=ebs1_korea
+EBS 1,https://hls-gateway.vpstv.net/streams/709122.m3u8
 EBS 2,http://ebsonairios.ebs.co.kr/ebs2tablet500k/tablet500k/ebs2tablet500k.index.m3u8?zshijd
 EBS 2,http://smart.pendy.dpdns.org/Smart.php?id=ebs2_korea
 EBS 2,https://smart.pendy.dpdns.org/Smart.php?id=ebs2_korea
+EBS 2,https://hls-gateway.vpstv.net/streams/709123.m3u8
 EBS 키즈,http://ebsonairios.ebs.co.kr/ebsutablet500k/_definst_/tablet500k/chunklist_w1965791004.m3u8?zshijd
 Gugak TV,http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 KBC SBS 综艺,http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 KBS Drama,http://mytv.dothome.co.kr/ch/catv/2.php
 KBS Joy,http://mytv.dothome.co.kr/ch/catv/3.php
+KBS Joy,https://hls-gateway.vpstv.net/streams/709133.m3u8
 KBS Kids,http://mytv.dothome.co.kr/ch/catv/6.php
 KBS LIFE,http://mytv.dothome.co.kr/ch/catv/5.php
 KBS LiveCam DokDo,http://kbs-dokdo.gscdn.com/dokdo_300/dokdo_300.stream/playlist.m3u8
@@ -5375,10 +5506,13 @@ KBS World,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856890
 KBS World,http://mytv.dothome.co.kr/ch/catv/7.php
 KBS World,http://smart.pendy.dpdns.org/Smart.php?id=KBS
 KBS World,https://smart.pendy.dpdns.org/Smart.php?id=KBS
+KBS World,https://hls-gateway.vpstv.net/streams/709019.m3u8
 KCTV 광주,http://119.77.96.184:1935/chn05/chn05/chunklist_w1306745753.m3u8
 Korea TV,https://mlive.ktv.go.kr/live/klive_m.stream/playlist.m3u8
 MBC,http://vod.mpmbc.co.kr:1935/live/encoder-tv/playlist.m3u8
+MBC,https://hls-gateway.vpstv.net/streams/709125.m3u8
 SBS,http://1.222.207.80:1935/live/cjbtv/chunklist_w1357270949.m3u8
+SBS,https://hls-gateway.vpstv.net/streams/709124.m3u8
 TBS Seoul,https://cdntv.tbs.seoul.kr/tbs/tbs_tv_web.smil/playlist.m3u8
 국방国防TV,http://mediaworks.dema.mil.kr:1935/live_edge/cudo.sdp/playlist.m3u8
 
@@ -5390,6 +5524,7 @@ BBC NEWS,http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs15
 BBC NEWS,http://1tv41.icu:8080/30065823/63154294/53757
 BBC NEWS,https://b638a299.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/Vml6aW9fQkJDTmV3c19ITFM/d1ee66fb-71e5-408d-945a-31ae598fd476/2.m3u8
 BBC NEWS,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8#http://125.227.210.55:8165/VideoInput/play.ts
+BBC NEWS,https://hls-gateway.vpstv.net/streams/709559.m3u8
 BBC One,http://1tv41.icu:8080/30065823/63154294/53649
 BBC One Scotland,http://1tv41.icu:8080/30065823/63154294/53755
 BBC Two,http://doubleclicktv.live//70376812/52663544/276752
@@ -5402,6 +5537,7 @@ RTE NEWS,http://1tv41.icu:8080/30065823/63154294/79108
 Discovery Channel,http://1tv41.icu:8080/30065823/63154294/53684
 Discovery Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973362
 Discovery Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856869
+Discovery Channel,https://hls-gateway.vpstv.net/streams/605100.m3u8
 Discovery History,http://1tv41.icu:8080/30065823/63154294/53694
 Discovery Science,http://1tv41.icu:8080/30065823/63154294/53695
 Discovery Science,http://1tv41.icu:8080/30065823/63154294/20866
@@ -5413,6 +5549,7 @@ SKY NEWS,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 SKY NEWS,https://d25w9q07b2mtmw.cloudfront.net/live/master_6.m3u8
 SKY NEWS,http://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 SKY NEWS,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
+SKY NEWS,https://hls-gateway.vpstv.net/streams/709106.m3u8
 Sky Sports News,http://1tv41.icu:8080/30065823/63154294/35241
 Sky Sports News,http://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
 Sky Sports News,https://smart.pendy.dpdns.org/Smart.php?id=tiankongnews
@@ -5450,6 +5587,7 @@ Cartoon Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778115
 Cartoon Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778116
 Cartoon Network,http://smart.pendy.dpdns.org/Smart.php?id=Cn
 Cartoon Network,https://smart.pendy.dpdns.org/Smart.php?id=Cn
+Cartoon Network,https://hls-gateway.vpstv.net/streams/709541.m3u8
 CBBC,http://1tv41.icu:8080/30065823/63154294/53720
 CBBC,http://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
 CBBC,https://smart.pendy.dpdns.org/Smart.php?id=cbbc_antik
@@ -5458,6 +5596,7 @@ Channel 5,http://1tv41.icu:8080/30065823/63154294/53653
 Channel 5,https://video.mytvsuper.xyz/live/bc56f3e50937dc8a2ab51170ba955eae9bc4af608dd6f7c31354fdda818b4658.m3u8?token=825716213175186
 Channel 5,http://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
 Channel 5,https://smart.pendy.dpdns.org/Smart.php?id=Channel5HD
+Channel 5,https://hls-gateway.vpstv.net/streams/476325.m3u8
 Comedy Central,http://1tv41.icu:8080/30065823/63154294/53660
 Comedy Central,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778119
 Comedy Central,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973355
@@ -5486,10 +5625,12 @@ Nat Geo Wild,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973393
 Nat Geo Wild,https://live.iill.top/youtube/BJ3Yv572V1A
 Nat Geo Wild,http://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
 Nat Geo Wild,https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+Nat Geo Wild,https://hls-gateway.vpstv.net/streams/476874.m3u8
 NICKELODEON,http://1tv41.icu:8080/30065823/63154294/53728
 NICKELODEON,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971702
 NICKELODEON,http://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
 NICKELODEON,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+NICKELODEON,https://hls-gateway.vpstv.net/streams/605054.m3u8
 Quest,http://1tv41.icu:8080/30065823/63154294/53682
 RACING UK,http://1tv41.icu:8080/30065823/63154294/53741
 Pop,http://1tv41.icu:8080/30065823/63154294/53730
@@ -5498,6 +5639,7 @@ TLC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971736
 TLC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856914
 TLC,http://smart.pendy.dpdns.org/Smart.php?id=Tlc
 TLC,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+TLC,https://hls-gateway.vpstv.net/streams/709549.m3u8
 Channel 4,http://1tv41.icu:8080/30065823/63154294/99138
 Channel 4,http://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
 Channel 4,https://smart.pendy.dpdns.org/Smart.php?id=channel4_antik
@@ -5514,6 +5656,7 @@ MOVIES: SKY GREATS,http://1tv41.icu:8080/30065823/63154294/35249
 👉需要用美国节点👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 👉需要用美国节点👈,https://cccimg.com/down.php/f1ce75f4dcb3d1bf4d24eb3be8801da2.mp4
 TENNIS CHANNEL,http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
+TENNIS CHANNEL,https://hls-gateway.vpstv.net/streams/709442.m3u8
 TENNIS CHANNEL 2,http://exm3u.extraott.com:80//ZUL96376/UG4VTW4E/181415
 CNBC,http://1tv41.icu:8080/30065823/63154294/9815
 CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971580
@@ -5521,6 +5664,7 @@ CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973353
 CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856863
 CNBC,http://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
+CNBC,https://hls-gateway.vpstv.net/streams/709561.m3u8
 CNBC World,http://1tv41.icu:8080/30065823/63154294/20860
 CNN,http://1tv41.icu:8080/30065823/63154294/1817
 CNN,http://1tv41.icu:8080/30065823/63154294/104884
@@ -5535,23 +5679,28 @@ Bloomberg,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973337
 Bloomberg,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 Bloomberg,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+Bloomberg,https://hls-gateway.vpstv.net/streams/476638.m3u8
 BBC America,http://1tv41.icu:8080/30065823/63154294/20194
 BBC America,https://d2vnbkvjbims7j.cloudfront.net/containerA/LTN/playlist.m3u8
+BBC America,https://hls-gateway.vpstv.net/streams/709293.m3u8
 NBA TV,https://7pal.short.gy/nbatvus
 NBA TV,http://1tv41.icu:8080/30065823/63154294/20073
 NBA TV,https://7pal.short.gy/nbatvus
 NBA TV,http://1tv41.icu:8080/30065823/63154294/20073
 NBA TV,http://smart.pendy.dpdns.org/Smart.php?id=Nba
 NBA TV,https://smart.pendy.dpdns.org/Smart.php?id=Nba
+NBA TV,https://hls-gateway.vpstv.net/streams/476673.m3u8
 USA | NFL,http://1tv41.icu:8080/30065823/63154294/208896
 WWE NETWORK,http://1tv41.icu:8080/30065823/63154294/11645
 ESPN NEWS,http://1tv41.icu:8080/30065823/63154294/17707
 ESPN NEWS,https://tvpass.org/live/ESPNews/hd
+ESPN NEWS,https://hls-gateway.vpstv.net/streams/709401.m3u8
 ESPN 2,http://1tv41.icu:8080/30065823/63154294/2210
 ESPN 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857463
 ESPN 2,http://1tv41.icu:8080/30065823/63154294/2210
 ESPN 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857463
 ESPN 2,https://tvpass.org/live/ESPN2/hd
+ESPN 2,https://hls-gateway.vpstv.net/streams/709291.m3u8
 ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/14197
 ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/9802
 ESPN 1 (HD),http://1tv41.icu:8080/30065823/63154294/14197
@@ -5565,6 +5714,7 @@ ESPNU College Sports,http://1tv41.icu:8080/30065823/63154294/10255
 CBSN New York (D),http://1tv41.icu:8080/30065823/63154294/46754
 FOX Sports 1,http://1tv41.icu:8080/30065823/63154294/46792
 FOX Sports 1,https://tvpass.org/live/FoxSports1/hd
+FOX Sports 1,https://hls-gateway.vpstv.net/streams/477698.m3u8
 A&E (A),http://1tv41.icu:8080/30065823/63154294/2201
 ABC,http://1tv41.icu:8080/30065823/63154294/22990
 ACC Network (A),http://1tv41.icu:8080/30065823/63154294/9273
@@ -5574,12 +5724,14 @@ CA Adult Swim (R),http://1tv41.icu:8080/30065823/63154294/11644
 Altitude Sports HD,http://1tv41.icu:8080/30065823/63154294/79545
 AMC,http://1tv41.icu:8080/30065823/63154294/18925
 AMC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973325
+AMC,https://hls-gateway.vpstv.net/streams/477058.m3u8
 American Heroes Channel,http://1tv41.icu:8080/30065823/63154294/10456
 American Heroes Channel,https://tvpass.org/live/AmericanHeroesChannel/hd
 Animal Planet,http://1tv41.icu:8080/30065823/63154294/17870
 Animal Planet,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856805
 Animal Planet,http://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
 Animal Planet,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
+Animal Planet,https://hls-gateway.vpstv.net/streams/477749.m3u8
 Antenna TV,http://1tv41.icu:8080/30065823/63154294/20180
 Aspire (A),http://1tv41.icu:8080/30065823/63154294/21927
 AXS TV,http://1tv41.icu:8080/30065823/63154294/48324
@@ -5606,21 +5758,25 @@ Cartoon Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778115
 Cartoon Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778116
 Cartoon Network,http://smart.pendy.dpdns.org/Smart.php?id=Cn
 Cartoon Network,https://smart.pendy.dpdns.org/Smart.php?id=Cn
+Cartoon Network,https://hls-gateway.vpstv.net/streams/709541.m3u8
 CBS Sports Network HD,http://1tv41.icu:8080/30065823/63154294/10454
 CBS News,http://1tv41.icu:8080/30065823/63154294/21259
 Cinemax (East),http://1tv41.icu:8080/30065823/63154294/13380
 Cinemax (East),https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
 Cinemax (East),http://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+Cinemax (East),https://hls-gateway.vpstv.net/streams/476283.m3u8
 CMT,http://1tv41.icu:8080/30065823/63154294/46706
 CMT HD,http://1tv41.icu:8080/30065823/63154294/10476
 Comedy Central (East),http://1tv41.icu:8080/30065823/63154294/7466
 Comet (S),http://1tv41.icu:8080/30065823/63154294/66244
 Cooking Channel,http://1tv41.icu:8080/30065823/63154294/9229
+Cooking Channel,https://hls-gateway.vpstv.net/streams/476637.m3u8
 Cozi,http://1tv41.icu:8080/30065823/63154294/11868
 Decades,http://1tv41.icu:8080/30065823/63154294/20189
 Destination America (A),http://1tv41.icu:8080/30065823/63154294/14222
 Destination America (A),https://tvpass.org/live/DestinationAmerica/hd
 Discovery Channel (East),http://1tv41.icu:8080/30065823/63154294/46720
+Discovery Channel (East),https://hls-gateway.vpstv.net/streams/605100.m3u8
 Discovery Channel East,http://1tv41.icu:8080/30065823/63154294/9811
 DISCOVERY FAMILY,http://1tv41.icu:8080/30065823/63154294/10538
 Discovery Life HD,http://1tv41.icu:8080/30065823/63154294/9861
@@ -5633,25 +5789,33 @@ Epix Drive IN (S),http://1tv41.icu:8080/30065823/63154294/14193
 Epix Hits,http://1tv41.icu:8080/30065823/63154294/12744
 EPIX2 (East),http://1tv41.icu:8080/30065823/63154294/12730
 Food Network HD,http://1tv41.icu:8080/30065823/63154294/7323
+Food Network HD,https://hls-gateway.vpstv.net/streams/709548.m3u8
 Fox Business Network,http://1tv41.icu:8080/30065823/63154294/17639
+Fox Business Network,https://hls-gateway.vpstv.net/streams/476621.m3u8
 Fox News,http://1tv41.icu:8080/30065823/63154294/1818
 Fox News,https://tvpass.org/live/FoxNewsChannel/hd
 Fox News,http://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
 Fox News,https://smart.pendy.dpdns.org/Smart.php?id=foxnews_twn
+Fox News,https://hls-gateway.vpstv.net/streams/709279.m3u8
 Fox Sports 1,http://1tv41.icu:8080/30065823/63154294/1846
 Fox Sports 1,https://tvpass.org/live/FoxSports1/hd
+Fox Sports 1,https://hls-gateway.vpstv.net/streams/477698.m3u8
 Fox Sports 2 (A),http://1tv41.icu:8080/30065823/63154294/1847
 Fox Sports 2 (A),https://tvpass.org/live/FoxSports2/hd
+Fox Sports 2 (A),https://hls-gateway.vpstv.net/streams/477700.m3u8
 Bally Sports North (A),http://1tv41.icu:8080/30065823/63154294/20928
 Bally Sports Carolinas (A),http://1tv41.icu:8080/30065823/63154294/20929
 Bally Sports South,http://1tv41.icu:8080/30065823/63154294/20931
 FanDuel Sports South (A),http://1tv41.icu:8080/30065823/63154294/20922
 Freeform East,http://1tv41.icu:8080/30065823/63154294/13370
 Fuse,http://1tv41.icu:8080/30065823/63154294/46701
+Fuse,https://hls-gateway.vpstv.net/streams/709629.m3u8
 FX East,http://1tv41.icu:8080/30065823/63154294/46690
 FXM,http://1tv41.icu:8080/30065823/63154294/10260
+FXM,https://hls-gateway.vpstv.net/streams/709475.m3u8
 FXX (East),http://1tv41.icu:8080/30065823/63154294/46699
 FYI,http://1tv41.icu:8080/30065823/63154294/9240
+FYI,https://hls-gateway.vpstv.net/streams/709634.m3u8
 Latin Galavision,http://1tv41.icu:8080/30065823/63154294/58770
 GetTV,http://1tv41.icu:8080/30065823/63154294/18366
 Great American Country,http://1tv41.icu:8080/30065823/63154294/17640
@@ -5660,19 +5824,25 @@ Hallmark Channel,http://1tv41.icu:8080/30065823/63154294/46719
 Hallmark Drama,http://1tv41.icu:8080/30065823/63154294/9307
 Hallmark Movies & Mysteries,http://1tv41.icu:8080/30065823/63154294/10289
 HBO East HD,http://1tv41.icu:8080/30065823/63154294/46713
+HBO East HD,https://hls-gateway.vpstv.net/streams/476633.m3u8
 HBO,http://1tv41.icu:8080/30065823/63154294/9264
 HBO,https://smart.pendy.dpdns.org/Smart.php?id=hbohd_twn
 HBO,https://z88.ubtvfans.com/live/rx1/332/e5efbdc49c26d46e0559df52a8a03d19/index.m3u8
 HBO,http://smart.pendy.dpdns.org/Smart.php?id=Hbo
 HBO,https://vx65267199.18cn.dpdns.org/56.m3u8
+HBO,https://hls-gateway.vpstv.net/streams/476278.m3u8
 HBO 2 (A),http://1tv41.icu:8080/30065823/63154294/9816
+HBO 2 (A),https://hls-gateway.vpstv.net/streams/477732.m3u8
 HBO Comedy (East),http://1tv41.icu:8080/30065823/63154294/17773
+HBO Comedy (East),https://hls-gateway.vpstv.net/streams/477733.m3u8
 HBO Family (East),http://1tv41.icu:8080/30065823/63154294/17772
 HBO Family (East),http://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
 HBO Family (East),https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
+HBO Family (East),https://hls-gateway.vpstv.net/streams/709079.m3u8
 HBO SIGNATURE (East),http://1tv41.icu:8080/30065823/63154294/9266
 HBO SIGNATURE (East),http://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
 HBO SIGNATURE (East),https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
+HBO SIGNATURE (East),https://hls-gateway.vpstv.net/streams/476634.m3u8
 HBO Zone (East),http://1tv41.icu:8080/30065823/63154294/9265
 HDNET MOVIES,http://1tv41.icu:8080/30065823/63154294/16265
 Heroes & Icons (Los Angeles),http://1tv41.icu:8080/30065823/63154294/66087
@@ -5680,13 +5850,16 @@ HGTV (East),http://1tv41.icu:8080/30065823/63154294/46717
 HGTV (East),https://live.iill.top/youtube/38AgCP7jEww
 HGTV (East),http://smart.pendy.dpdns.org/Smart.php?id=HGTV
 HGTV (East),https://smart.pendy.dpdns.org/Smart.php?id=HGTV
+HGTV (East),https://hls-gateway.vpstv.net/streams/709546.m3u8
 HISTORY,http://1tv41.icu:8080/30065823/63154294/46724
 HISTORY,http://smart.pendy.dpdns.org/Smart.php?id=History
 HISTORY,https://smart.pendy.dpdns.org/Smart.php?id=History
+HISTORY,https://hls-gateway.vpstv.net/streams/477648.m3u8
 History Channel,http://1tv41.icu:8080/30065823/63154294/15017
 HLN,http://1tv41.icu:8080/30065823/63154294/17748
 HLN,https://tvpass.org/live/HLN/hd
 IFC,http://1tv41.icu:8080/30065823/63154294/9272
+IFC,https://hls-gateway.vpstv.net/streams/709623.m3u8
 insp,http://1tv41.icu:8080/30065823/63154294/16262
 ID Investigation Discovery,http://1tv41.icu:8080/30065823/63154294/46810
 ION,http://1tv41.icu:8080/30065823/63154294/9297
@@ -5698,6 +5871,7 @@ Lifetime,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856892
 Lifetime,http://1tv41.icu:8080/30065823/63154294/46714
 Lifetime,http://1tv41.icu:8080/30065823/63154294/9275
 Lifetime,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856892
+Lifetime,https://hls-gateway.vpstv.net/streams/476666.m3u8
 Lifetime Movie,http://1tv41.icu:8080/30065823/63154294/2208
 LOGO TV,http://1tv41.icu:8080/30065823/63154294/20862
 Marquee Sports Network (HD) (A),http://1tv41.icu:8080/30065823/63154294/13379
@@ -5716,12 +5890,14 @@ MSNBC,http://1tv41.icu:8080/30065823/63154294/21376
 MSNBC,http://1tv41.icu:8080/30065823/63154294/9296
 MSNBC,http://1tv41.icu:8080/30065823/63154294/21376
 MSNBC,http://1tv41.icu:8080/30065823/63154294/9296
+MSNBC,https://hls-gateway.vpstv.net/streams/709281.m3u8
 MTV,http://1tv41.icu:8080/30065823/63154294/9818
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971696
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778163
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778164
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856895
 MTV,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
+MTV,https://hls-gateway.vpstv.net/streams/709243.m3u8
 MTV2,http://1tv41.icu:8080/30065823/63154294/9308
 Nat Geo Wild East (A),http://1tv41.icu:8080/30065823/63154294/11664
 National Geographic,http://1tv41.icu:8080/30065823/63154294/46722
@@ -5736,19 +5912,23 @@ Golf Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856879
 Golf Channel,http://1tv41.icu:8080/30065823/63154294/9806
 Golf Channel,http://1tv41.icu:8080/30065823/63154294/46728
 Golf Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856879
+Golf Channel,https://hls-gateway.vpstv.net/streams/487046.m3u8
 NESN,http://1tv41.icu:8080/30065823/63154294/46726
 Newsmax TV,http://1tv41.icu:8080/30065823/63154294/18939
 Newsmax TV,https://tvpass.org/live/NewsmaxTV/hd
 NHL Network,https://7pal.short.gy/nhlnw
 NHL Network,http://1tv41.icu:8080/30065823/63154294/20179
+NHL Network,https://hls-gateway.vpstv.net/streams/476651.m3u8
 Nick Jr,http://1tv41.icu:8080/30065823/63154294/46710
 Nick Jr,https://live.tvfix.org/live/nickjr/index.m3u8
 Nick Jr,http://smart.pendy.dpdns.org/Smart.php?id=Nickjr
 Nick Jr,https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
+Nick Jr,https://hls-gateway.vpstv.net/streams/605086.m3u8
 Nick JR East (A),http://1tv41.icu:8080/30065823/63154294/9807
 NTD NEWS.,http://1tv41.icu:8080/30065823/63154294/53527
 One America News,http://1tv41.icu:8080/30065823/63154294/21752
 Outdoor Channel,http://1tv41.icu:8080/30065823/63154294/9244
+Outdoor Channel,https://hls-gateway.vpstv.net/streams/709320.m3u8
 Cinemax Outermax (X),http://1tv41.icu:8080/30065823/63154294/21012
 OUTSIDE TV,http://1tv41.icu:8080/30065823/63154294/20865
 OWN,http://1tv41.icu:8080/30065823/63154294/46698
@@ -5793,8 +5973,10 @@ Starz in Black (East),http://1tv41.icu:8080/30065823/63154294/17779
 Starz West (S),http://1tv41.icu:8080/30065823/63154294/21091
 SUNDANCE,http://1tv41.icu:8080/30065823/63154294/46712
 Syfy (East),http://1tv41.icu:8080/30065823/63154294/46685
+Syfy (East),https://hls-gateway.vpstv.net/streams/709296.m3u8
 TBN,http://1tv41.icu:8080/30065823/63154294/21895
 TBS,http://1tv41.icu:8080/30065823/63154294/20867
+TBS,https://hls-gateway.vpstv.net/streams/709219.m3u8
 The Weather Channel,http://1tv41.icu:8080/30065823/63154294/18926
 The Weather Channel,https://db691j6te7mt4.cloudfront.net/out/v1/f65bdb9d5ac1498ba700027b5ca8a383/index_5.m3u8
 The Weather Channel,https://tvpass.org/live/TheWeatherChannel/hd
@@ -5802,10 +5984,12 @@ ThrillerMax (East),http://1tv41.icu:8080/30065823/63154294/17774
 TLC (East),http://1tv41.icu:8080/30065823/63154294/46691
 TLC (East),http://smart.pendy.dpdns.org/Smart.php?id=Tlc
 TLC (East),https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+TLC (East),https://hls-gateway.vpstv.net/streams/709549.m3u8
 TLC East,http://1tv41.icu:8080/30065823/63154294/12734
 TLC (east),http://1tv41.icu:8080/30065823/63154294/47703
 TLC (east),http://smart.pendy.dpdns.org/Smart.php?id=Tlc
 TLC (east),https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+TLC (east),https://hls-gateway.vpstv.net/streams/709549.m3u8
 TNT (West),http://1tv41.icu:8080/30065823/63154294/46688
 TNT East,http://1tv41.icu:8080/30065823/63154294/10455
 Travel Channel East,http://1tv41.icu:8080/30065823/63154294/9315
@@ -5819,6 +6003,7 @@ TV One,https://live.iill.top/youtube/yNKvkPJl-tg
 TV One,https://tvpass.org/live/TVOne/hd
 TV One,http://smart.pendy.dpdns.org/Smart.php?id=Tvone
 TV One,https://smart.pendy.dpdns.org/Smart.php?id=Tvone
+TV One,https://hls-gateway.vpstv.net/streams/476860.m3u8
 TVG Network,http://1tv41.icu:8080/30065823/63154294/10259
 TVG2 Network,http://1tv41.icu:8080/30065823/63154294/18940
 Universal Kids (A),http://1tv41.icu:8080/30065823/63154294/9235
@@ -5826,12 +6011,16 @@ Universal Kids (A),https://tvpass.org/live/UniversalKidsEast/hd
 Univision (East) (SP),http://1tv41.icu:8080/30065823/63154294/46692
 Up TV,http://1tv41.icu:8080/30065823/63154294/10525
 USA Network (East),http://1tv41.icu:8080/30065823/63154294/10252
+USA Network (East),https://hls-gateway.vpstv.net/streams/709289.m3u8
 VH1 (East),http://1tv41.icu:8080/30065823/63154294/46705
+VH1 (East),https://hls-gateway.vpstv.net/streams/476650.m3u8
 VH1,http://1tv41.icu:8080/30065823/63154294/7404
+VH1,https://hls-gateway.vpstv.net/streams/476650.m3u8
 VICELAND,http://1tv41.icu:8080/30065823/63154294/46697
 VSiN (F),http://1tv41.icu:8080/30065823/63154294/18941
 WAPA America,http://1tv41.icu:8080/30065823/63154294/76481
 WE tv,http://1tv41.icu:8080/30065823/63154294/9237
+WE tv,https://hls-gateway.vpstv.net/streams/709624.m3u8
 World Fishing Network (F),http://1tv41.icu:8080/30065823/63154294/10477
 
 🔆法国频道🔆,#genre#
@@ -5865,9 +6054,13 @@ AUTOMOTO LA CHAINE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971
 BBC WORLD NEWS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971509
 BBC WORLD NEWS,http://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
 BBC WORLD NEWS,https://smart.pendy.dpdns.org/Smart.php?id=bbcworldnews_antik
+BBC WORLD NEWS,https://hls-gateway.vpstv.net/streams/709032.m3u8
 BEIN SPORTS 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971510
+BEIN SPORTS 1,https://hls-gateway.vpstv.net/streams/709511.m3u8
 BEIN SPORTS 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971511
+BEIN SPORTS 2,https://hls-gateway.vpstv.net/streams/709101.m3u8
 BEIN SPORTS 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971512
+BEIN SPORTS 3,https://hls-gateway.vpstv.net/streams/709513.m3u8
 BEIN SPORTS MAX 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971514
 BEIN SPORTS MAX 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971515
 BEIN SPORTS MAX 6,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971516
@@ -5908,6 +6101,7 @@ CANAL+LIVE 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971564
 CARTOON NETWORK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971569
 CARTOON NETWORK,http://smart.pendy.dpdns.org/Smart.php?id=Cn
 CARTOON NETWORK,https://smart.pendy.dpdns.org/Smart.php?id=Cn
+CARTOON NETWORK,https://hls-gateway.vpstv.net/streams/709541.m3u8
 CARTOONITO,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971570
 CHAINE EVENEMENT,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971571
 CHERIE 25,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971572
@@ -5924,22 +6118,28 @@ CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973353
 CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856863
 CNBC,http://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
+CNBC,https://hls-gateway.vpstv.net/streams/709561.m3u8
 CNEWS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971581
 COMEDIE+,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971582
 COMEDY CENTRAL,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971583
 CSTAR,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971584
 CSTAR HITS FRANCE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971585
 Dazn 1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971586
+Dazn 1 (FHD),https://hls-gateway.vpstv.net/streams/639643.m3u8
 Dazn 2 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971588
+Dazn 2 (FHD),https://hls-gateway.vpstv.net/streams/476991.m3u8
 Dazn 3 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971591
 Dazn 4 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971594
 Dazn 5 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971597
 DISCOVERY CHANNEL,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971600
+DISCOVERY CHANNEL,https://hls-gateway.vpstv.net/streams/605100.m3u8
 DISCOVERY INVESTIGATION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971601
 DISNEY CHANNEL,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971602
+DISNEY CHANNEL,https://hls-gateway.vpstv.net/streams/477729.m3u8
 DISNEY CHANNEL +1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971603
 DISNEY JUNIOR,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971604
 DISNEY JUNIOR,https://live.iill.top/youtube/Dkkp4KfdGPY
+DISNEY JUNIOR,https://hls-gateway.vpstv.net/streams/477719.m3u8
 EQUIDIA,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971605
 EUROSPORT 360 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971608
 EUROSPORT 360 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971619
@@ -5980,6 +6180,7 @@ FRANCE 24,https://live.iill.top/youtube/l8PMl7tUDIE
 FRANCE 24,https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/1080p/index.m3u8
 FRANCE 24,http://smart.pendy.dpdns.org/Smart.php?id=france24_twn
 FRANCE 24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
+FRANCE 24,https://hls-gateway.vpstv.net/streams/709499.m3u8
 FRANCE 24 ENG,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971669
 FRANCE TV SERIES,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971673
 FRANCEINFO,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971674
@@ -6010,6 +6211,7 @@ MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778163
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778164
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856895
 MTV,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
+MTV,https://hls-gateway.vpstv.net/streams/709243.m3u8
 MUSEUM,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971697
 NAT GEO,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971698
 NAT GEO,http://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
@@ -6018,6 +6220,7 @@ NAT GEO WILD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971699
 NAT GEO WILD,https://live.iill.top/youtube/BJ3Yv572V1A
 NAT GEO WILD,http://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
 NAT GEO WILD,https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+NAT GEO WILD,https://hls-gateway.vpstv.net/streams/476874.m3u8
 NFOSPORT+,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971700
 NHK WORLD-JAPAN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971701
 NHK WORLD-JAPAN,https://nhkwlive-ojp.nhkworld.jp/hls/live/2003459/nhkwlive-ojp-en/index_600k.m3u8
@@ -6025,6 +6228,7 @@ NICKELODEON,http://1tv41.icu:8080/30065823/63154294/53728
 NICKELODEON,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971702
 NICKELODEON,http://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
 NICKELODEON,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+NICKELODEON,https://hls-gateway.vpstv.net/streams/605054.m3u8
 NICKELODEON JUNIOR,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971703
 NICKELODEON TEEN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971704
 NICKELODEON+1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971705
@@ -6057,7 +6261,9 @@ TLC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971736
 TLC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856914
 TLC,http://smart.pendy.dpdns.org/Smart.php?id=Tlc
 TLC,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+TLC,https://hls-gateway.vpstv.net/streams/709549.m3u8
 TMC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971737
+TMC,https://hls-gateway.vpstv.net/streams/709214.m3u8
 TOUTE L'HISTOIRE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971738
 TRACE LATINA,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971739
 TRACE URBAN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971740
@@ -6069,6 +6275,7 @@ W9,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971745
 WARNER TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971746
 WARNER TV,http://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
 WARNER TV,https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
+WARNER TV,https://hls-gateway.vpstv.net/streams/708986.m3u8
 WARNER TV NEXT,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971747
 
 🔆德国频道🔆,#genre#
@@ -6085,6 +6292,7 @@ Bloomberg (HQ),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856487
 Bloomberg (HQ),https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 Bloomberg (HQ),https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 Bloomberg (HQ),https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+Bloomberg (HQ),https://hls-gateway.vpstv.net/streams/476638.m3u8
 Boomerang (HQ),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856490
 Boomerang (HQ),https://tvpass.org/live/Boomerang/hd
 BR Fernsehen Nord (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856491
@@ -6095,9 +6303,11 @@ CARAC 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856496
 Cartoon Network (HQ),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856499
 Cartoon Network (HQ),http://smart.pendy.dpdns.org/Smart.php?id=Cn
 Cartoon Network (HQ),https://smart.pendy.dpdns.org/Smart.php?id=Cn
+Cartoon Network (HQ),https://hls-gateway.vpstv.net/streams/709541.m3u8
 CNBC (HQ),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856500
 CNBC (HQ),http://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 CNBC (HQ),https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
+CNBC (HQ),https://hls-gateway.vpstv.net/streams/709561.m3u8
 Comedy Central (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856501
 Crime + Investigation (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856502
 Das Erste (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856503
@@ -6105,6 +6315,7 @@ Daserste (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856504
 Deluxemusic (HQ),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856505
 Deluxemusic (HQ),https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 Discovery Channel (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856506
+Discovery Channel (FHD),https://hls-gateway.vpstv.net/streams/605100.m3u8
 Esports1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856507
 Eurosport 1 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856508
 Sky Sport F1 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856683
@@ -6145,6 +6356,7 @@ Hessischerrundfunk (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9P
 History (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856513
 History (FHD),http://smart.pendy.dpdns.org/Smart.php?id=History
 History (FHD),https://smart.pendy.dpdns.org/Smart.php?id=History
+History (FHD),https://hls-gateway.vpstv.net/streams/477648.m3u8
 hr-fernsehen (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856514
 Jukebox (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856515
 Kabeleins (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856516
@@ -6161,6 +6373,7 @@ Mdrsachsenanhalt (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/
 Motorvision TV (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856527
 MTV (HQ),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856528
 MTV (HQ),https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
+MTV (HQ),https://hls-gateway.vpstv.net/streams/709243.m3u8
 N24 Doku (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856550
 Nat Geo (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856551
 Nat Geo (FHD),http://smart.pendy.dpdns.org/Smart.php?id=natgeohd_twn
@@ -6169,6 +6382,7 @@ Nat Geo Wild (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856
 Nat Geo Wild (FHD),https://live.iill.top/youtube/BJ3Yv572V1A
 Nat Geo Wild (FHD),http://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
 Nat Geo Wild (FHD),https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+Nat Geo Wild (FHD),https://hls-gateway.vpstv.net/streams/476874.m3u8
 NDR FS HH (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856553
 NDR FS MV (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856554
 NDR FS NDS (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856555
@@ -6324,7 +6538,9 @@ SWR BW (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856705
 SWR RP (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856706
 Swrbadenwürttemberg (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856707
 Syfy (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856708
+Syfy (FHD),https://hls-gateway.vpstv.net/streams/709296.m3u8
 Syfy (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856709
+Syfy (HD),https://hls-gateway.vpstv.net/streams/709296.m3u8
 Tagesschau24 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856710
 Tagesschau24 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856711
 Tele 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856713
@@ -6388,6 +6604,7 @@ Cartoon Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778115
 Cartoon Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778116
 Cartoon Network,http://smart.pendy.dpdns.org/Smart.php?id=Cn
 Cartoon Network,https://smart.pendy.dpdns.org/Smart.php?id=Cn
+Cartoon Network,https://hls-gateway.vpstv.net/streams/709541.m3u8
 Cine34,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778117
 Cine34,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778118
 Cine34,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778117
@@ -6409,6 +6626,7 @@ DMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973367
 DMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778127
 DMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778128
 DMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973367
+DMAX,https://hls-gateway.vpstv.net/streams/709076.m3u8
 Sky Sport Arena,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778242
 Sky Sport Arena,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778243
 Sky Sport Arena,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778242
@@ -6453,6 +6671,7 @@ Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778129
 Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778130
 Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856875
 Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856876
+Eurosport,https://hls-gateway.vpstv.net/streams/709567.m3u8
 Eurosport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778131
 Eurosport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778132
 Eurosport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973377
@@ -6469,6 +6688,7 @@ Food Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856877
 Food Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778135
 Food Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778136
 Food Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856877
+Food Network,https://hls-gateway.vpstv.net/streams/709548.m3u8
 Frisbee,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778137
 Giallo,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778138
 Giallo,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778139
@@ -6481,6 +6701,7 @@ HGTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778141
 HGTV,https://live.iill.top/youtube/38AgCP7jEww
 HGTV,http://smart.pendy.dpdns.org/Smart.php?id=HGTV
 HGTV,https://smart.pendy.dpdns.org/Smart.php?id=HGTV
+HGTV,https://hls-gateway.vpstv.net/streams/709546.m3u8
 History,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778142
 History,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778143
 History,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856884
@@ -6489,6 +6710,7 @@ History,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778143
 History,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856884
 History,http://smart.pendy.dpdns.org/Smart.php?id=History
 History,https://smart.pendy.dpdns.org/Smart.php?id=History
+History,https://hls-gateway.vpstv.net/streams/477648.m3u8
 INTER MILAN TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778144
 Iris,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778145
 Iris,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778146
@@ -6536,16 +6758,19 @@ MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778163
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778164
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856895
 MTV,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
+MTV,https://hls-gateway.vpstv.net/streams/709243.m3u8
 Nickelodeon,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778165
 Nickelodeon,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973398
 Nickelodeon,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856897
 Nickelodeon,http://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
 Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+Nickelodeon,https://hls-gateway.vpstv.net/streams/605054.m3u8
 Nick JR,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778166
 Nick JR,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856896
 Nick JR,https://live.tvfix.org/live/nickjr/index.m3u8
 Nick JR,http://smart.pendy.dpdns.org/Smart.php?id=Nickjr
 Nick JR,https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
+Nick JR,https://hls-gateway.vpstv.net/streams/605086.m3u8
 NOVE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778167
 NOVE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778168
 NOVE,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778167
@@ -6716,8 +6941,10 @@ Al Jazeera,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973324
 Al Jazeera,https://live.iill.top/youtube/gCNeDWCI0vo
 Al Jazeera,http://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
 Al Jazeera,https://smart.pendy.dpdns.org/Smart.php?id=aljazeera_twn
+Al Jazeera,https://hls-gateway.vpstv.net/streams/709095.m3u8
 AMC,http://1tv41.icu:8080/30065823/63154294/18925
 AMC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973325
+AMC,https://hls-gateway.vpstv.net/streams/477058.m3u8
 AMC Break,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973326
 AMC Crime,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973327
 Antena 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973328
@@ -6727,12 +6954,14 @@ AXN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856843
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 AXN,http://smart.pendy.dpdns.org/Smart.php?id=Axn
 AXN,https://smart.pendy.dpdns.org/Smart.php?id=Axn
+AXN,https://hls-gateway.vpstv.net/streams/477730.m3u8
 AXN Movies,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973331
 AZ Corazón,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973332
 Baby TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973333
 Baby TV,https://live.iill.top/youtube/T4mEvdOBvcA
 Baby TV,http://smart.pendy.dpdns.org/Smart.php?id=babytv_twn
 Baby TV,https://smart.pendy.dpdns.org/Smart.php?id=babytv_twn
+Baby TV,https://hls-gateway.vpstv.net/streams/709633.m3u8
 BBC World,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973334
 BE MAD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973335
 Betis TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973336
@@ -6741,6 +6970,7 @@ Bloomberg,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973337
 Bloomberg,https://bloomberg-bloombergtv-3-nl.samsung.wurl.tv/playlist.m3u8
 Bloomberg,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/3ea2c48ba0034cc276591c94a5b439c0.m3u8
 Bloomberg,https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
+Bloomberg,https://hls-gateway.vpstv.net/streams/476638.m3u8
 Boing,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973338
 BOM Cine,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973339
 ¡Buenviaje!,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973340
@@ -6762,6 +6992,7 @@ CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973353
 CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856863
 CNBC,http://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
+CNBC,https://hls-gateway.vpstv.net/streams/709561.m3u8
 CNN International,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973354
 CNN International,http://smart.pendy.dpdns.org/Smart.php?id=Cnn
 CNN International,https://smart.pendy.dpdns.org/Smart.php?id=Cnn
@@ -6777,18 +7008,23 @@ Deutsche Welle,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973361
 Discovery Channel,http://1tv41.icu:8080/30065823/63154294/53684
 Discovery Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973362
 Discovery Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856869
+Discovery Channel,https://hls-gateway.vpstv.net/streams/605100.m3u8
 Disney Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973363
+Disney Channel,https://hls-gateway.vpstv.net/streams/477729.m3u8
 Disney Junior,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973364
 Disney Junior,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856871
 Disney Junior,https://live.iill.top/youtube/Dkkp4KfdGPY
+Disney Junior,https://hls-gateway.vpstv.net/streams/477719.m3u8
 Divinity,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973365
 DKISS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973366
 DMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778127
 DMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778128
 DMAX,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973367
+DMAX,https://hls-gateway.vpstv.net/streams/709076.m3u8
 Dreamworks,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973368
 Dreamworks,http://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
 Dreamworks,https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
+Dreamworks,https://hls-gateway.vpstv.net/streams/602239.m3u8
 EITB Basque,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973369
 El Toro TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973370
 El Trece Internacional,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973371
@@ -6800,6 +7036,7 @@ Euronews,https://aegis-cloudfront-1.tubi.video/91f019ef-08a3-4379-9bc3-5080ef538
 Euronews,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
 Euronews,http://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
 Euronews,https://smart.pendy.dpdns.org/Smart.php?id=euronews_antik
+Euronews,https://hls-gateway.vpstv.net/streams/476329.m3u8
 Eurosport 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973376
 Eurosport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778131
 Eurosport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778132
@@ -6815,6 +7052,7 @@ France 24,https://live.iill.top/youtube/l8PMl7tUDIE
 France 24,https://amg00106-france24-amg00106c1-plex-us-6491.playouts.now.amagi.tv/1080p/index.m3u8
 France 24,http://smart.pendy.dpdns.org/Smart.php?id=france24_twn
 France 24,https://smart.pendy.dpdns.org/Smart.php?id=france24_twn
+France 24,https://hls-gateway.vpstv.net/streams/709499.m3u8
 Gol Play,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973383
 Mega,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973390
 MTV España,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973391
@@ -6824,6 +7062,7 @@ Nat Geo Wild,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973393
 Nat Geo Wild,https://live.iill.top/youtube/BJ3Yv572V1A
 Nat Geo Wild,http://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
 Nat Geo Wild,https://smart.pendy.dpdns.org/Smart.php?id=natgeowild_twn
+Nat Geo Wild,https://hls-gateway.vpstv.net/streams/476874.m3u8
 National Geographic,http://1tv41.icu:8080/30065823/63154294/46722
 National Geographic,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973394
 National Geographic,https://live.iill.top/youtube/O6Qdxrf-6CM
@@ -6835,6 +7074,7 @@ Nickelodeon,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973398
 Nickelodeon,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856897
 Nickelodeon,http://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
 Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+Nickelodeon,https://hls-gateway.vpstv.net/streams/605054.m3u8
 Nova,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973399
 Odisea,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973400
 Onetoro TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973401
@@ -6853,6 +7093,7 @@ STAR Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973409
 Sundance TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973410
 Surf Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973411
 Syfy,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973412
+Syfy,https://hls-gateway.vpstv.net/streams/709296.m3u8
 TCM,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973413
 Telecinco,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973414
 Teledeporte,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973415
@@ -6867,13 +7108,16 @@ Warner TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973423
 Warner TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856930
 Warner TV,http://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
 Warner TV,https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
+Warner TV,https://hls-gateway.vpstv.net/streams/708986.m3u8
 XTRM,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973424
 
 🔆马来西亚🔆,#genre#
 👉以下频道需要魔法👈,https://wp.23zo.cn/f/YP9fx/6h.mp4
 8TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856801
+8TV,https://hls-gateway.vpstv.net/streams/476322.m3u8
 ABC Australia,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856802
 ABC Australia,https://abc-iview-mediapackagestreams-2.akamaized.net/out/v1/6e1cc6d25ec0480ea099a5399d73bc4b/index.m3u8
+ABC Australia,https://hls-gateway.vpstv.net/streams/709547.m3u8
 Adithya,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856803
 Adithya,http://smart.pendy.dpdns.org/Smart.php?id=Adithya
 Adithya,https://smart.pendy.dpdns.org/Smart.php?id=Adithya
@@ -6882,25 +7126,32 @@ Animal Planet,http://1tv41.icu:8080/30065823/63154294/17870
 Animal Planet,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856805
 Animal Planet,http://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
 Animal Planet,https://smart.pendy.dpdns.org/Smart.php?id=animalplanet_twn
+Animal Planet,https://hls-gateway.vpstv.net/streams/477749.m3u8
 ARENA_HD_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856806
 Astro AOD 351,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856807
 Astro AOD 353,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856808
 Astro Arena,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856810
+Astro Arena,https://hls-gateway.vpstv.net/streams/649334.m3u8
 Astro Arena 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856811
 Astro Aura,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856812
+Astro Aura,https://hls-gateway.vpstv.net/streams/605044.m3u8
 Astro Awani,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856813
 Astro Awani,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856814
 Astro Awani,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856813
 Astro Awani,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856814
 Astro Awani,https://live.iill.top/youtube/txxOwpdp58Q
+Astro Awani,https://hls-gateway.vpstv.net/streams/708972.m3u8
 Astro Cricket,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856815
 Astro Cricket,http://smart.pendy.dpdns.org/Smart.php?id=Acricket
 Astro Cricket,https://smart.pendy.dpdns.org/Smart.php?id=Acricket
+Astro Cricket,https://hls-gateway.vpstv.net/streams/476314.m3u8
 Astro Hua Hee Dai,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856816
 Astro Oasis,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856817
+Astro Oasis,https://hls-gateway.vpstv.net/streams/708963.m3u8
 Astro Premier 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856818
 Astro Premier 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856819
 Astro Rania,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856820
+Astro Rania,https://hls-gateway.vpstv.net/streams/708964.m3u8
 Astro Supersport 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856821
 Astro Supersport 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856822
 Astro Supersport 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856821
@@ -6933,18 +7184,24 @@ ASTRO_CRICKET_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/85
 Awesome TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856842
 Awesome TV,http://smart.pendy.dpdns.org/Smart.php?id=Dsangat
 Awesome TV,https://smart.pendy.dpdns.org/Smart.php?id=Dsangat
+Awesome TV,https://hls-gateway.vpstv.net/streams/709000.m3u8
 AXN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973330
 AXN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856843
 AXN,https://live.tvfix.org/live/axn/index.m3u8
 AXN,http://smart.pendy.dpdns.org/Smart.php?id=Axn
 AXN,https://smart.pendy.dpdns.org/Smart.php?id=Axn
+AXN,https://hls-gateway.vpstv.net/streams/477730.m3u8
 BBC CBeebies,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856844
+BBC CBeebies,https://hls-gateway.vpstv.net/streams/709102.m3u8
 beIN Sports,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856845
+beIN Sports,https://hls-gateway.vpstv.net/streams/709096.m3u8
 beIN Sports 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855427
 beIN Sports 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856846
+beIN Sports 2,https://hls-gateway.vpstv.net/streams/709101.m3u8
 beIN Sports 2 50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856847
 beIN Sports 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855430
 beIN Sports 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856848
+beIN Sports 3,https://hls-gateway.vpstv.net/streams/709513.m3u8
 beIN Sports 3 50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856849
 beIN Sports 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855432
 beIN Sports 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856850
@@ -6958,6 +7215,7 @@ Bisnet Adventure,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/85685
 Bloomberg TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856855
 Bloomberg TV,https://bloomberg-bloombergtv-5-eu.plex.wurl.tv/c2270dd8b41c6356dc14fae747a32c29.m3u8
 Bloomberg TV,https://tv.iill.top/4gtv/283
+Bloomberg TV,https://hls-gateway.vpstv.net/streams/477810.m3u8
 BOO,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856856
 BOO,http://smart.pendy.dpdns.org/Smart.php?id=Boo
 BOO,https://smart.pendy.dpdns.org/Smart.php?id=Boo
@@ -6982,6 +7240,7 @@ CCTV4,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225621/2/
 CCTV4,http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8?#http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226007/index.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8#http://[2409:8087:5e00:24::1e]:6060/200000001898/460000089800010017/1.m3u8?#http://112.123.206.32:808/hls/4/index.m3u8#http://121.24.98.134:8090/hls/12/index.m3u8#http://121.24.99.163:8090/hls/12/index.m3u8#http://123.184.28.33/hlslive-tx-cdn.ysp.cctv.cn/232/2024078303.m3u8#http://gslbservzqhsw.itv.cmvideo.cn/0000000000001000/5000000011000031102/index.m3u8?livemode=1&stbId=10&channel-id=bestzb&Contentid=5000000011000031102#http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/1500/index.m3u8?&encrypt=#http://hlsbkmgsplive.miguvideo.com/wd_r2/cctv/cctv4hd/3000/01.m3u8?&HlsSubType=&encrypt=#rtp://239.3.1.105:8092
 CCTV4,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?AuthInfo=9kOOdBn7MFF%2F2bWjKgahUSpr1AVNI633ampcuzdN%2BfH0ZQXwaiVktPr6ILPKXqwOUC2ZXft7ZULN6h9qLQPFOTSlVTfophiKaMb8h1kPV74
 Celestial,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856858
+Celestial,https://hls-gateway.vpstv.net/streams/709496.m3u8
 Celestial Classic Movies,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856859
 CGTN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856860
 CGTN,https://0472.org/hls/cgtn.m3u8#http://111.48.34.237/PLTV/88888888/224/3221229681/1.m3u8#http://111.48.34.237/PLTV/88888888/224/3221230396/1.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227350/index.m3u8#http://[2409:8087:1a0a:df::4031]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225604/index.m3u8#http://a21709.tv.netsite.cc/proxy/1162774257/1162774257.m3u8#http://39.134.67.108/PLTV/88888888/224/3221225510/1.m3u8
@@ -7000,43 +7259,55 @@ CGTN,http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224
 CGTN,https://guangdongcmcc.tv12.xyz/23.m3u8
 CGTN,http://goo.bkpcp.top/mg/cgtn
 CGTN,http://n1.gzbody.com:85/rtp/239.77.0.199:5146
+CGTN,https://hls-gateway.vpstv.net/streams/709501.m3u8
 Cinemax,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856861
 Cinemax,https://smart.pendy.dpdns.org/Smart.php?id=cinemax_twn
 Cinemax,http://smart.pendy.dpdns.org/Smart.php?id=Cinemax
+Cinemax,https://hls-gateway.vpstv.net/streams/476283.m3u8
 CNA,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856862
 CNA,https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
 CNA,http://smart.pendy.dpdns.org/Smart.php?id=cna
 CNA,https://smart.pendy.dpdns.org/Smart.php?id=cna
+CNA,https://hls-gateway.vpstv.net/streams/476307.m3u8
 CNBC,http://1tv41.icu:8080/30065823/63154294/9815
 CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971580
 CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973353
 CNBC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856863
 CNBC,http://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
 CNBC,https://smart.pendy.dpdns.org/Smart.php?id=cnbc_twn
+CNBC,https://hls-gateway.vpstv.net/streams/709561.m3u8
 Colors Tamil,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856864
 Colors Tamil,http://smart.pendy.dpdns.org/Smart.php?id=Colorstam
 Colors Tamil,https://smart.pendy.dpdns.org/Smart.php?id=Colorstam
+Colors Tamil,https://hls-gateway.vpstv.net/streams/709531.m3u8
 Crime Investigation,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856865
 CTI Asia,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856866
+CTI Asia,https://hls-gateway.vpstv.net/streams/709543.m3u8
 DISCOVERY ASIA,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856867
 DISCOVERY ASIA,http://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 DISCOVERY ASIA,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+DISCOVERY ASIA,https://hls-gateway.vpstv.net/streams/708899.m3u8
 Discovery Asia,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856868
 Discovery Asia,http://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
 Discovery Asia,https://smart.pendy.dpdns.org/Smart.php?id=discoverytwn_twn
+Discovery Asia,https://hls-gateway.vpstv.net/streams/708899.m3u8
 Discovery Channel,http://1tv41.icu:8080/30065823/63154294/53684
 Discovery Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973362
 Discovery Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856869
+Discovery Channel,https://hls-gateway.vpstv.net/streams/605100.m3u8
 Discovery Science,http://1tv41.icu:8080/30065823/63154294/53695
 Discovery Science,http://1tv41.icu:8080/30065823/63154294/20866
 Discovery Science,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856870
 Disney Junior,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973364
 Disney Junior,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856871
 Disney Junior,https://live.iill.top/youtube/Dkkp4KfdGPY
+Disney Junior,https://hls-gateway.vpstv.net/streams/477719.m3u8
 Dmax,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856872
+Dmax,https://hls-gateway.vpstv.net/streams/709076.m3u8
 Dream Works,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856873
 Dream Works,http://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
 Dream Works,https://smart.pendy.dpdns.org/Smart.php?id=Dreamworks
+Dream Works,https://hls-gateway.vpstv.net/streams/602239.m3u8
 DW,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856874
 DW,http://smart.pendy.dpdns.org/Smart.php?id=dw_twn
 DW,https://smart.pendy.dpdns.org/Smart.php?id=dw_twn
@@ -7048,65 +7319,83 @@ Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778129
 Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778130
 Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856875
 Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856876
+Eurosport,https://hls-gateway.vpstv.net/streams/709567.m3u8
 Food Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778135
 Food Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778136
 Food Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856877
+Food Network,https://hls-gateway.vpstv.net/streams/709548.m3u8
 Global Trekker,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856878
 Golf Channel,http://1tv41.icu:8080/30065823/63154294/9806
 Golf Channel,http://1tv41.icu:8080/30065823/63154294/46728
 Golf Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856879
+Golf Channel,https://hls-gateway.vpstv.net/streams/487046.m3u8
 GOLF_CHANNEL_HD_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856880
 HBO Family,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856881
 HBO Family,http://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
 HBO Family,https://smart.pendy.dpdns.org/Smart.php?id=Hbofamily
+HBO Family,https://hls-gateway.vpstv.net/streams/709079.m3u8
 HBO Hits,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856882
 HBO Hits,http://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
 HBO Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hbohitshd
+HBO Hits,https://hls-gateway.vpstv.net/streams/709080.m3u8
 HBO Signature,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856883
 HBO Signature,http://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
 HBO Signature,https://smart.pendy.dpdns.org/Smart.php?id=Hbosignature
+HBO Signature,https://hls-gateway.vpstv.net/streams/476634.m3u8
 History,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778142
 History,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778143
 History,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856884
 History,http://smart.pendy.dpdns.org/Smart.php?id=History
 History,https://smart.pendy.dpdns.org/Smart.php?id=History
+History,https://hls-gateway.vpstv.net/streams/477648.m3u8
 Hits,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856885
 Hits,http://smart.pendy.dpdns.org/Smart.php?id=Hits
 Hits,https://smart.pendy.dpdns.org/Smart.php?id=Hits
+Hits,https://hls-gateway.vpstv.net/streams/709508.m3u8
 Hits Movies,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856886
 iQIYI,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856887
+iQIYI,https://hls-gateway.vpstv.net/streams/477808.m3u8
 K+,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856888
 K+,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856889
 K+,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856888
 K+,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856889
+K+,https://hls-gateway.vpstv.net/streams/605079.m3u8
 KBS World,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856890
 KBS World,http://smart.pendy.dpdns.org/Smart.php?id=KBS
 KBS World,https://smart.pendy.dpdns.org/Smart.php?id=KBS
+KBS World,https://hls-gateway.vpstv.net/streams/709019.m3u8
 KTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856891
 Lifetime,http://1tv41.icu:8080/30065823/63154294/46714
 Lifetime,http://1tv41.icu:8080/30065823/63154294/9275
 Lifetime,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856892
+Lifetime,https://hls-gateway.vpstv.net/streams/476666.m3u8
 Love Nature,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856893
+Love Nature,https://hls-gateway.vpstv.net/streams/709639.m3u8
 Moonbug Kids,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856894
+Moonbug Kids,https://hls-gateway.vpstv.net/streams/605087.m3u8
 MTV,http://1tv41.icu:8080/30065823/63154294/9818
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971696
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778163
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778164
 MTV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856895
 MTV,https://smart.pendy.dpdns.org/Smart.php?id=mtvhd_twn
+MTV,https://hls-gateway.vpstv.net/streams/709243.m3u8
 Nick JR,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778166
 Nick JR,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856896
 Nick JR,https://live.tvfix.org/live/nickjr/index.m3u8
 Nick JR,http://smart.pendy.dpdns.org/Smart.php?id=Nickjr
 Nick JR,https://smart.pendy.dpdns.org/Smart.php?id=Nickjr
+Nick JR,https://hls-gateway.vpstv.net/streams/605086.m3u8
 Nickelodeon,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778165
 Nickelodeon,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973398
 Nickelodeon,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856897
 Nickelodeon,http://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
 Nickelodeon,https://smart.pendy.dpdns.org/Smart.php?id=Nickelodeon
+Nickelodeon,https://hls-gateway.vpstv.net/streams/605054.m3u8
 NTV7,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856898
 NTV7,http://smart.pendy.dpdns.org/Smart.php?id=NTV7
 NTV7,https://smart.pendy.dpdns.org/Smart.php?id=NTV7
+NTV7,https://hls-gateway.vpstv.net/streams/476323.m3u8
 One,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856899
 One,http://smart.pendy.dpdns.org/Smart.php?id=One
 One,https://smart.pendy.dpdns.org/Smart.php?id=One
@@ -7121,63 +7410,85 @@ Sky News,https://i.mjh.nz/SamsungTVPlus/USBB52000022Q.m3u8
 Sky News,https://d25w9q07b2mtmw.cloudfront.net/live/master_6.m3u8
 Sky News,http://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
 Sky News,https://smart.pendy.dpdns.org/Smart.php?id=skynews_twn
+Sky News,https://hls-gateway.vpstv.net/streams/709106.m3u8
 Sports SPO TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856907
 SPOTV2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856908
 SPOTV2,http://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
 SPOTV2,https://smart.pendy.dpdns.org/Smart.php?id=go_spotv2
+SPOTV2,https://hls-gateway.vpstv.net/streams/709057.m3u8
 Star Vijay,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856909
 Star Vijay,http://smart.pendy.dpdns.org/Smart.php?id=Starvijay
 Star Vijay,https://smart.pendy.dpdns.org/Smart.php?id=Starvijay
+Star Vijay,https://hls-gateway.vpstv.net/streams/708993.m3u8
 Sun Life,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856910
+Sun Life,https://hls-gateway.vpstv.net/streams/709058.m3u8
 SUN Music,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856911
 SUN Music,http://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
 SUN Music,https://smart.pendy.dpdns.org/Smart.php?id=Sunmusic
+SUN Music,https://hls-gateway.vpstv.net/streams/709532.m3u8
 Sun News,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856912
+Sun News,https://hls-gateway.vpstv.net/streams/476606.m3u8
 SUN TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856913
 SUN TV,http://smart.pendy.dpdns.org/Smart.php?id=Suntv
 SUN TV,https://smart.pendy.dpdns.org/Smart.php?id=Suntv
+SUN TV,https://hls-gateway.vpstv.net/streams/709530.m3u8
 TLC,http://1tv41.icu:8080/30065823/63154294/53681
 TLC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971736
 TLC,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856914
 TLC,http://smart.pendy.dpdns.org/Smart.php?id=Tlc
 TLC,https://smart.pendy.dpdns.org/Smart.php?id=Tlc
+TLC,https://hls-gateway.vpstv.net/streams/709549.m3u8
 TV Alhijrah,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856915
 TV Okey,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856916
+TV Okey,https://hls-gateway.vpstv.net/streams/486107.m3u8
 TV2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856917
 TV2,http://d25tgymtnqzu8s.cloudfront.net/smil:tv2/chunklist_b4596000_slENG.m3u8?id=1
 TV2,http://smart.pendy.dpdns.org/Smart.php?id=TV2
 TV2,https://smart.pendy.dpdns.org/Smart.php?id=TV2
+TV2,https://hls-gateway.vpstv.net/streams/709021.m3u8
 TV3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856918
 TV3,http://smart.pendy.dpdns.org/Smart.php?id=TV3
 TV3,https://smart.pendy.dpdns.org/Smart.php?id=TV3
+TV3,https://hls-gateway.vpstv.net/streams/476324.m3u8
 TV9,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856919
 TV9,http://smart.pendy.dpdns.org/Smart.php?id=TV9
 TV9,https://smart.pendy.dpdns.org/Smart.php?id=TV9
+TV9,https://hls-gateway.vpstv.net/streams/476321.m3u8
 TVB Classic,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856920
 TVB Classic,http://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 TVB Classic,https://smart.pendy.dpdns.org/Smart.php?id=Tvbclassic
 TVB E News,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856921
+TVB E News,https://hls-gateway.vpstv.net/streams/709113.m3u8
 TVB Jade,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856922
 TVB Jade,http://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
 TVB Jade,https://smart.pendy.dpdns.org/Smart.php?id=Tvbjade
+TVB Jade,https://hls-gateway.vpstv.net/streams/709525.m3u8
 TVB News,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856923
+TVB News,https://hls-gateway.vpstv.net/streams/709112.m3u8
 TVB Xing He,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856924
+TVB Xing He,https://hls-gateway.vpstv.net/streams/709526.m3u8
 TVBS Asia,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856925
+TVBS Asia,https://hls-gateway.vpstv.net/streams/709524.m3u8
 TVBS News,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856926
 TVBS News,http://live.iill.top/youtube/@TVBSNEWS01/live
+TVBS News,https://hls-gateway.vpstv.net/streams/708927.m3u8
 tvN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856927
 tvN,https://video.mytvsuper.xyz/live/a28c7b09f9b6228f74daac0fe5c548908a7806b225a906f13a55b6dec0ded835.m3u8?token=825716213175186
 tvN,http://smart.pendy.dpdns.org/Smart.php?id=TVN
 tvN,https://smart.pendy.dpdns.org/Smart.php?id=TVN
+tvN,https://hls-gateway.vpstv.net/streams/709507.m3u8
 tvN Movies,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856928
+tvN Movies,https://hls-gateway.vpstv.net/streams/605080.m3u8
 TVS,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856929
 Warner TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973423
 Warner TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856930
 Warner TV,http://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
 Warner TV,https://smart.pendy.dpdns.org/Smart.php?id=WarnerTV
+Warner TV,https://hls-gateway.vpstv.net/streams/708986.m3u8
 ZEE Tamil,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856933
 ZEE Tamil,http://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
 ZEE Tamil,https://smart.pendy.dpdns.org/Smart.php?id=Zeetamil
+ZEE Tamil,https://hls-gateway.vpstv.net/streams/709534.m3u8
 
 🔆国内体育🔆,#genre#
 CCTV-5,https://www.freetv.top/migu/641886683.m3u8?migutoken=e81b62c9a59cfc35924052cd6081bd5635e726604b5e1a12a9ebf352c74951d3d9d3e6c6c1bfed528a9287e0b6c873ef6bc6c1d7651f14bc1687a58a136bb5a647b6bebed7cd999f07302554e2#https://www.freetv.top/migu/641886683.m3u8?migutoken=f4028150ccebb24672bb134ff9263dc2fa555f760bd7f0624f98a260402d38ab91417925cf800517a7c1b877a15425e85b65b6a16be7fe88d145c2cb2d42af684846c5a89a5c22eb739e0e52cf#http://116.9.204.242:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://218.29.168.146:352/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://dms.yryyj.site:8188/udp/239.76.246.168:1234#https://www.freetv.top/migu/641886683.m3u8?migutoken=2394bc3ac567cd8270631b1f612f28f996719523d72453a2d116e0f33d6e35016d1954f50d7ae0eae4743d3557d85b85dc048a8c45ac3d96c528fce533ceeb7febaa06283ebe688a04fa57379a#http://222.169.85.8:9901/tsfile/live/0005_1.m3u8#http://119.36.148.115:59901/tsfile/live/1001_1.m3u8#http://omnix.cn:4000/udp/225.1.8.89:8000#http://111.9.163.109:9901/tsfile/live/0005_1.m3u8#http://125.89.163.44:8888/udp/239.77.0.170:5146#http://221.2.148.205:8154/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://123.138.22.30:9901/tsfile/live/0005_1.m3u8#http://221.226.4.10:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://221.226.4.10:9901/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0#http://124.128.73.58:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://120.76.248.139/live/bfgd/4200000064.m3u8#http://119.32.12.17:2901/udp/224.1.100.82:11111#http://116.9.204.242:9901/tsfile/live/0005_1.m3u8#http://60.29.124.66:6080/hls/16/index.m3u8#http://dms.yryyj.site:8188/udp/239.76.246.155:1234#https://www.freetv.top/migu/641886683.m3u8?migutoken=b9a1e6cdadb5b8fc55cd05842ff680e9431a4d403454162995bd1139d26f292521c72615e8117abc8d74479b46c5736b1db94eab7f190d661693f5f67f407d9aa7785ca59ef24515a844393c4e#http://nas.hssvm.com:8888/udp/225.1.1.170:5002#https://www.freetv.top/migu/641886683.m3u8?migutoken=5419f38d020fc6c0f4160940012d9c60af8160fe26d1afc244d3171a5fb0eca4a95711596173fa41db6d1c1e8e14ed17b4612f21192afa5f3e8867b00bd25545464e545fd9abf66d5acdfe1313#http://wouu.net:9977/udp/239.93.1.36:8004#https://www.freetv.top/migu/641886683.m3u8?migutoken=2bece701b98f5c84ec8d9ea06069bd63dad2f968685a0779662a836d3b8378d260f903a5c31c63829fa75e4e249929827442d37f115a4dce2e072de50dfce8d01528143fc8d22033301a6b4432#https://www.freetv.top/migu/641886683.m3u8?migutoken=13cc5084dacec107984b1a7783716f0b4d6205d02eda857fd393403d7db53274097bd692c96c6659920f5a71a931792d21535bdc3cfcfc05b2cf171f006a834f370f0e50d3727a799c636657c8#https://www.freetv.top/migu/641886683.m3u8?migutoken=07b0c4931b9605a1f5d919c04b761491cc8441c89de4ef653300b0fca459d6285df7d91ed33cd27d0d9f37734d8857e83c5b8fa379272c30c6fa2e0af7f64aba625f148d2e4fad1d65a839e723#http://61.156.228.12:8154/tsfile/live/0005_1.m3u8#http://123.138.22.30:9901/tsfile/live/0005_1.m3u8?key=txiptv&playlive=1&authid=0#http://wouu.net:9977/udp/239.93.42.37:5140
@@ -7238,6 +7549,7 @@ CCTV-5+,http://lu.wqwqwq.sbs/itv/1000000005000265016.m3u8?cdn=ystenlive
 纬来体育,https://smart.pendy.dpdns.org/Smart.php?id=videolandsport
 纬来体育,https://ling.uus10000.top/51.m3u8
 纬来体育,https://vx65267199.18cn.dpdns.org/49.m3u8
+纬来体育,https://hls-gateway.vpstv.net/streams/477026.m3u8
 五星体育,http://148.135.93.213/live.php?id=%E4%BA%94%E6%98%9F%E4%BD%93%E8%82%B2
 五星体育,http://php.jdshipin.com/itv6s.php?cid=hnbblive&id=2000000002000000007
 五星体育,http://home.dzlove.top:35455/itv/5000000010000017540.m3u8?cdn=bestzb
@@ -9543,31 +9855,31 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 湖南经视,http://php.jdshipin.com/TVOD/iptv.php?id=hnjs
 湖南经视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
 湖南经视,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7766420291569067385
-湖南经视,http://php.jdshipin.com:8880/iptv.php?id=hnjs#http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6306119848317438256&livemode=1&stbId=toShengfen&mode=1&
+湖南经视,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6306119848317438256
 湖南经视,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-2.m3u8
 湖南都市,http://php.jdshipin.com/TVOD/iptv.php?id=hnds
 湖南都市,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407
-湖南都市,http://php.jdshipin.com:8880/iptv.php?id=hnds#http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=4682579636905393407&livemode=1&stbId=toShengfen&mode=1&
+湖南都市,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=4682579636905393407
 湖南都市,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8
 湖南国际,http://php.jdshipin.com/TVOD/iptv.php?id=hngj
 湖南国际,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
-湖南国际,http://php.jdshipin.com:8880/iptv.php?id=hngj#http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=5015828848322021526&livemode=1&stbId=toShengfen&mode=1&
+湖南国际,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=5015828848322021526
 湖南国际,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-4.m3u8
 湖南娱乐,http://php.jdshipin.com/TVOD/iptv.php?id=hnyl
 湖南娱乐,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
-湖南娱乐,http://php.jdshipin.com:8880/iptv.php?id=hnyl#http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=6427893650335440392&livemode=1&stbId=toShengfen&mode=1&
+湖南娱乐,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6427893650335440392
 湖南娱乐,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-13.m3u8
 湖南爱晚,http://php.jdshipin.com/TVOD/iptv.php?id=hngg
 湖南爱晚,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6307875884530512195
 湖南爱晚,http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngg
 湖南爱晚,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-9.m3u8
 湖南电影,http://php.jdshipin.com/TVOD/iptv.php?id=hndy
-湖南电影,http://php.jdshipin.com:8880/iptv.php?id=hndy#http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=toShengfen&mode=1&
+湖南电影,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
 湖南电影,http://[2409:8087:5e08:24::11]:6610/000000001000/7884242846753128038/1.m3u8?channel-id=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=3
 湖南电影,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-film.m3u8
 湖南电视剧,http://php.jdshipin.com/TVOD/iptv.php?id=hndsj
 湖南电视剧,http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867
-湖南电视剧,http://php.jdshipin.com:8880/iptv.php?id=hndsj#http://gslbserv.itv.cmvideo.cn:80/5000000011000265001/1.m3u8?channel-id=hnbblive&Contentid=8765482907954673867&livemode=1&stbId=toShengfen&mode=1&
+湖南电视剧,http://php.jdshipin.com/itv6.php?cid=hnbblive&id=8765482907954673867
 湖南电视剧,http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-10.m3u8
 湘潭综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 湘潭新闻综合,http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
@@ -9668,7 +9980,7 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 丽水云和综合,http://l.cztvcloud.com/channels/lantian/SXyunhe1/720p.m3u8
 普陀新闻综合,http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?zzhed#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=348194&tk=6949f8ce7202#http://l.cztvcloud.com/channels/lantian/SXputuo1/720p.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=3c4cd4&tk=6949f8ce7202
 文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
-文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?fbl=#http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed#http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8
+文成综合,http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8#http://l.cztvcloud.com/channels/lantian/SXwencheng1/720p.m3u8?zzhed
 文成二套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8
 文成二套,http://l.cztvcloud.com/channels/lantian/SXwencheng2/720p.m3u8?zzhed
 舟山嵊泗综合,http://l.cztvcloud.com/channels/lantian/SXshengsi1/720p.m3u8
@@ -9861,6 +10173,7 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 荆门公共,http://stream.jmtv.com.cn/ngpd/sd/live.m3u8
 荆门教育,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
 荆门科教,http://stream.jmtv.com.cn/ggsh/sd/live.m3u8
+十堰新闻,http://p8.vzan.com/slowlive/034028687228317362/live.m3u8
 十堰经济,https://p8.vzan.com/slowlive/701367497774448672/live.m3u8
 恩施综合,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1812.m3u8?auth_key=4857760445-0-0-48b20fcc677c9c453aade4127fb60836&extra_key=GstcZaunflMNLGu8_neZZDSebP_vdaZpjgvDNh0oFxowejqLIrS9a1EoZExxdRI2S9Y2xkAXOOpuGxK1RXBwE9Pxgs64YJr12xMoUq8C0CDA-bYdaRFKaVVL_9eb5cvcS93rOcGOJVmGyvmgI8egJounqzsBrsfAbiojm3VtXXo
 恩施文旅,https://46240.hlsplay.aodianyun.com/tv_radio_46240/tv_channel_1811.m3u8?auth_key=4857760464-0-0-ecabcbf26d39dc20cde584db2fa2a053&extra_key=D1dJezG95YTkYytoe8tr2Qhf-jhFFJmJpij9JNzLnfjYgxE5Q69rjZT1b2VrOxeb2zvhRo107e0Ze_h5agVjcLhNxl4RzjBShtdz-pQKUqaNbHnJMUJaS637QCoHNkKlJAb5i0lkR8MlxmIB6LIGojFm8kqvpZp_pI7SG10olDg
@@ -9910,7 +10223,7 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 滁州新闻综合,http://live.cztv.cc:85/live/xwpd.m3u8#http://live.cztv.cc:85/live/xwpd.m3u8?zanhd#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=8556fd&tk=6949f8ce7202
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8
 滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8
-滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8
+滁州公共,http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8#http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 固镇影视,http://www.guzhenm.com:7004/hls/hd-live.m3u8
 六安公共,http://ls.qingting.fm/live/1794199.m3u8#http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8#http://pili-live-rtmp.luan2.hfmt.net/luan2/ggpd.m3u8?zanhd
@@ -9984,8 +10297,10 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 江西移动电视高清,http://113.195.172.192:808/hls/146/index.m3u8
 
 🔆河南🔆,#genre#
+河南都市,http://v4d.xiepeiru.top:1123/iptv/hm/HeNanDuShi
 河南都市,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227241/index.m3u8
 河南都市,https://live.lalifeier.eu.org/hntv/hnds.m3u8?t=1733713753&key=cd1853a9dd9cea79297497d67649c601
+河南民生,http://v4d.xiepeiru.top:1123/iptv/hm/HeNanMinSheng
 河南民生,http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221227268/index.m3u8
 河南民生,https://live.lalifeier.eu.org/hntv/hnms.m3u8?t=1733713753&key=bd9a35bbf355c5ab9c78b0b550f7a436
 河南法治,http://v4d.xiepeiru.top:1123/iptv/hm/HeNanFaZhi
@@ -10069,6 +10384,7 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 武术世界,https://live.lalifeier.eu.org/hntv/wspd.m3u8?t=1733713753&key=adc60c70b258cbf2c60a5133ae1bc2f8
 武术世界,http://[2409:8087:3869:8021:1001::e5]:6610/PLTV/88888888/224/3221225508/2/index.m3u8#http://111.48.34.237/PLTV/88888888/224/3221230549/1.m3u8#http://iptv.cdn.ha.chinamobile.com/PLTV/88888888/224/3221226440/index.m3u8#http://60.255.240.247:8090/live/wssj_4000.m3u8#http://1.197.249.194:9901/tsfile/live/1012_1.m3u8
 武术世界,https://migu.tv12.xyz/104.m3u8
+武术世界,https://hls-gateway.vpstv.net/streams/708969.m3u8
 武陟新闻综合,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
 舞钢新闻综合,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
 舞阳新闻综合,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
@@ -10179,6 +10495,7 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 璧山综合,http://222.179.42.129:8181/hls1.m3u8?zzhongqd
 重庆精彩导视,http://zbxclive.cbg.cn:1935/app_2/ls_105.stream/playlist.m3u8
 万州综合频道,http://wanzhoulive.cbg.cn:8017/iTXwrGs/800/live.m3u8?zzhongqd
+万州三峡移民,http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8
 万州三峡移民,http://wanzhoulive.cbg.cn:8017/c2F0hmi/1000/live.m3u8#http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8#http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8?zzhongqd#http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8?zzhongqd
 万州三峡移民,https://wanzhoulive.cbg.cn/c2F0hmi/1000/live.m3u8
 万州最万州,http://123.146.162.24:8013/tslslive/vWlnEzU/hls/live_sd.m3u8
@@ -10595,6 +10912,7 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 吉林市新闻综合,https://living.muzhifm.com/jilinshi/jilin_zonghe_v.m3u8?auth_key=1837821685-0-0-67b43a2f1e9e2ce78746337eea2b2537
 吉林市公共,http://61.138.128.226:19901/tsfile/live/1012_1.m3u8
 吉林市科教,http://61.138.128.226:19901/tsfile/live/1013_1.m3u8
+延边-1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边-2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 延边汉语综合,http://live.ybtvyun.com/video/s10016-7e5f23de35df/index.m3u8?zjild
 延边汉语综合,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
@@ -10611,6 +10929,7 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 长春经济,http://r2bj.vzan.com/v/slowlive_349780930188572439.m3u8
 长春汽车,http://r2bj.vzan.com/v/slowlive_978419341085239014.m3u8
 延边公共,http://live.cloud.yanews.cn/video/s10001-YATV-2/index.m3u8?zjild
+延边1,http://live.ybtvyun.com/video/s10016-af95004b6d1a/index.m3u8?zjild
 延边2,http://live.ybtvyun.com/video/s10006-04819ee234a7/index.m3u8?zjild
 延边朝鲜语综合,http://live.ybtvyun.com/video/s10016-19a16c47eb99/index.m3u8?zjild
 通化综合,http://stream2.jlntv.cn/tonghua1/playlist.m3u8?_upt=685c15a11705562390
@@ -10748,6 +11067,7 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 临沂农科,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel115062/playlist.m3u8
 临沂图文,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel116773/playlist.m3u8
 临沂新闻,https://m3u8-channel.lytv.tv/nmip-media/channellive/channel111841/playlist.m3u8
+烟台公共频道,http://live.yantaitv.cn/live/412a6764092149faa58f80a0fd8004e9/22bbe85c960145dc95fc25e699d0fb3a-1.m3u8
 烟台影视频道,http://live.yantaitv.cn/live/e9f1d9045d474c31884d13fa4ffbbd16/a4a9b3704d854756907845107cc56129-1.m3u8
 菏泽三套影视频道,http://live.hznet.tv:1935/live/live3/500K/tzwj_video.m3u8
 青州文化旅游,http://sdqz.chinashadt.com:2036/live/stream:3.stream/playlist.m3u8?shandd
@@ -10903,11 +11223,13 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 云南富宁电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel13/playlist.m3u8
 麻栗坡电视台,http://m3u8.channel.wsrtv.com.cn/cms/videos/nmip-media/channellive/channel18/playlist.m3u8?zyund#http://tvdrs.wsrtv.com.cn:8100/channellive/mlptv.flv?zyund
 昌宁电视台,http://live.ynurl.com/video/s10047-cntv/index.m3u8?zyund
+江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8?zyund
 江川综合,http://live.ynurl.com/video/s10037-JCTV/index.m3u8
 开远综合,http://live.ynurl.com/video/s10044-KYTV/index.m3u8?zyund
 梁河综合,http://live.ynurl.com/video/s10032-lhtv/index.m3u8?zyund
 陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8?zyund
 陇川综合,http://live.ynurl.com/video/s10027-LCDST/index.m3u8
+芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8?zyund
 芒市综合,http://live.ynurl.com/video/s10001-mstv1/index.m3u8
 屏边综合,http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund
 瑞丽综合,http://live.ynurl.com/video/s10021-rltv/index.m3u8?zyund
@@ -10962,8 +11284,6 @@ SiTV游戏风云,http://goo.bkpcp.top/mg/yxfy
 乌兰察布经济生活,http://pluslive.wrbtv.cn/wrbtv1/sd/live.m3u8
 乌兰察布生活频道,http://pluslive.wrbtv.cn/wrbtv3/sd/live.m3u8
 鄂托克旗综合频道,http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8
-奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8
-奎屯哈萨克语,http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd
 七星关电视台,https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8
 内蒙古农牧频道,https://epg.pw/stream/f426a12024c3d2a6271d7b4e1514b8da71aeef77a9033c211e1e49a8386a8668.m3u8
 昆玉综合,http://test5.btzx.com.cn/live/14TV.stream/playlist.m3u8?zxinjd
