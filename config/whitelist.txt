@@ -3,6 +3,49 @@
 # This is the whitelist of the interface or subscription source. The interface in the whitelist or the interface obtained by the subscription source will not participate in the speed measurement and will be prioritized in the result.
 # Filling in the channel name will directly retain the record to the final result, such as: CCTV-1,url, only fill in the interface address will be effective for all channels, multiple records newline input.
 
+CCTV1,https://my5353.com/7pK8T$!
+CCTV2,https://my5353.com/PHJqh$!
+CCTV3,https://my5353.com/WiMq2$!
+CCTV4,https://my5353.com/544BU$!
+CCTV5,https://my5353.com/LF2g8$!
+CCTV5+,https://my5353.com/wsLOe$!
+CCTV6,https://my5353.com/rs53J$!
+CCTV7,https://my5353.com/SSEp8$!
+CCTV8,https://my5353.com/nj9v9$!
+CCTV9,https://my5353.com/KxUTa$!
+CCTV10,https://my5353.com/Wer1s$!
+CCTV11,https://my5353.com/Snpmv$!
+CCTV12,https://my5353.com/3uymB$!
+CCTV13,https://my5353.com/rdLiL$!
+CCTV14,https://my5353.com/X9sph$!
+CCTV15,https://my5353.com/ZXhEb$!
+CCTV17,https://my5353.com/WMJUE$!
+浙江卫视,https://my5353.com/o53RM$!
+东方卫视,https://my5353.com/kptLD$!
+江苏卫视,https://my5353.com/sqMbJ$!
+广东卫视,https://my5353.com/CACTE$!
+江西卫视,https://my5353.com/5UOXy$!
+河南卫视,https://my5353.com/MOrdL$!
+陕西卫视,https://my5353.com/iKPrh$!
+大湾区卫视,https://my5353.com/O4BVH$!
+湖北卫视,https://my5353.com/mGebX$!
+吉林卫视,https://my5353.com/LHm9b$!
+青海卫视,https://my5353.com/Q8HyL$!
+东南卫视,https://my5353.com/FfvxJ$!
+海南卫视,https://my5353.com/jR2JZ$!
+海峡卫视,https://my5353.com/iXXDV$!
+CHC影迷电影,https://my5353.com/ByntB$!
+CHC动作电影,https://my5353.com/UUxrm$!
+CHC家庭影院,https://my5353.com/Vij4k$!
+上海新闻综合,https://my5353.com/WG8LL$!
+上视东方影视,https://my5353.com/7aJ1S$!
+上海第一财经,https://my5353.com/HBO2R$!
+江苏体育,https://my5353.com/fCUpf$!
+江苏城市,https://my5353.com/5Jq6Y$!
+江苏国际,https://my5353.com/cOrBK$!
+江苏教育,https://my5353.com/bbDX2$!
+江苏影视,https://my5353.com/EOiHm$!
+江苏综艺,https://my5353.com/2cMHh$!
 
 CCTV1,http://148.135.93.213/live.php?id=CCTV-1$!
 CCTV2,http://148.135.93.213/live.php?id=CCTV-2$!
