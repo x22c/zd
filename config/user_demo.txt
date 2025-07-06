@@ -510,118 +510,45 @@ NESN,http://1tv41.icu:8080/30065823/63154294/46726
 NHL Network,http://1tv41.icu:8080/30065823/63154294/20179
 NFL,http://1tv41.icu:8080/30065823/63154294/208896
 WWE NETWORK,http://1tv41.icu:8080/30065823/63154294/11645
-DAZN 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990083
-DAZN 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990084
-DAZN 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990085
-DAZN 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990086
-DAZN 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990087
-DAZN 6,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990088
-DAZN 7,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990089
-ES: DAZN 1: F1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990008
-ES: DAZN 2: F1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/990009
-beIN Sports 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855424
-beIN Sports 1 English,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855425
-beIN Sports 1 French,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855426
-beIN Sports 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855427
-beIN Sports 2 English,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855428
-beIN Sports 2 French,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855429
-beIN Sports 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855430
-beIN Sports 3 English,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855431
-beIN Sports 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855432
-beIN Sports 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855433
-beIN Sports Premium 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855434
-beIN Sports Premium 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855435
-beIN Sports Premium 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/855436
-ESPN 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857462
-ESPN 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857463
-Fox Sports 501,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857464
-Fox Sports 502 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857465
-Fox Sports 503,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857466
-Fox Sports 504 FHD,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857467
-Fox Sports 505,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857468
-Fox Sports 506,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857469
-Fox Sports 507,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857470
-Fox Sports News,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/857471
-MY: Astro Premier 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856818
-MY: Astro Premier 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856819
-MY: Astro Rania,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856820
-MY: Astro Supersport 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856821
-MY: Astro Supersport 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856823
-MY: Astro Supersport 2_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856825
-MY: Astro Supersport 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856826
-MY: Astro Supersport 3_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856828
-MY: Astro Supersport 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856829
-MY: Astro Supersport 4_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856831
-MY: Astro Supersport 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856832
-MY: Astro SuperSport Events 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856833
-MY: Astro SuperSport Events 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856834
-MY: Astro Supersport_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856835
-MY: Astro Tutor TV SK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856836
-MY: Astro Tutor TV SMK,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856837
-MY: Astro Tutor TV UPSR,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856838
-MY: Astro Vellithirai,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856839
-MY: Astro Xiao Tai Yang,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856840
-MY: ASTRO_CRICKET_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856841
-MY: Awesome TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856842
-MY: AXN,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856843
-MY: BBC CBeebies,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856844
-MY: beIN Sports 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856845
-MY: beIN Sports 2 50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856847
-MY: beIN Sports 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856848
-MY: beIN Sports 3 50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856849
-MY: beIN Sports 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856850
-MY: beIN Sports 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856851
-MY: beIN Sports 50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856852
-MY: Bernama,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856853
-MY: Bisnet Adventure,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856854
-MY: Bloomberg TV,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856855
-MY: Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856875
-MY: Eurosport,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856876
-MY: Food Network,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856877
-MY: Global Trekker,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856878
-MY: Golf Channel,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856879
-MY: GOLF_CHANNEL_HD_50fps,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856880
-MY: HBO Family,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856881
-MY: HBO Hits,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856882
-MY: HBO Signature,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856883
-SS Variety 1 (FHD),http://doubleclicktv.live//70376812/52663544/62938
-SS Variety 2 (FHD),http://doubleclicktv.live//70376812/52663544/62937
-SS Variety 3 (FHD),http://doubleclicktv.live//70376812/52663544/62936
-SS Variety 4 (FHD),http://doubleclicktv.live//70376812/52663544/62935
-FR: EUROSPORT 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971606
-FR: EUROSPORT 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/971607
-ES: LALIGA TV 2 HYPERMOTION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973387
-ES: LALIGA TV 3 HYPERMOTION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973388
-ES: LALIGA TV HYPERMOTION,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/973389
-Serie A Tim Femminile 1,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778187
-Serie A Tim Femminile 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778189
-Serie A Tim Femminile 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778191
-Serie A Tim Femminile 4,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778193
-Serie A Tim Femminile 5,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778195
-Dazn Zona,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778122
-Dazn Zona 2,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778123
-Dazn Zona 3,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778124
-Boomerang,http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/778112
-DE: Sky Sport Bundesliga (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856661
-DE: Sky Sport Bundesliga (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856662
-DE: Sky Sport Bundesliga 1 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856663
-DE: Sky Sport Bundesliga 2 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856668
-DE: Sky Sport Bundesliga 3 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856669
-DE: Sky Sport Bundesliga 4 (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856671
-DE: Sky Sport Bundesliga 5 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856673
-DE: Sky Sport Bundesliga 6 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856675
-DE: Sky Sport Bundesliga 7 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856677
-DE: Sky Sport Bundesliga 8 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856679
-DE: Sky Sport Bundesliga 9 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856681
-DE: Sky Sport Bundesliga 10 (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856665
-DE: ZDF (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856736
-DE: ZDF Neo (HD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856739
-DE: ZDFinfo (FHD),http://ua-iptv.com:8080//zerubassman@yahoo.com/2MR879Z9PL/856740
-
-
 
 🔆HK香港-①🔆,#genre#
 👉以下频道需要魔法👈,https://cloud.wujiyan.cc/f/8Dmfb/3.MOV$!
+翡翠台,https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8$!
+翡翠综合台,https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8$!
+翡翠剧集台,https://s1.tvm4a1.cfd/aktv/CH-18/AKTV.m3u8$!
+鳳凰衛視中文台,https://s1.tvm4a1.cfd/aktv/CH-3/AKTV.m3u8$!
+鳳凰衛視資訊台,https://s1.tvm4a1.cfd/aktv/CH-4/AKTV.m3u8$!
+鳳凰衛視香港台,https://s1.tvm4a1.cfd/aktv/CH-5/AKTV.m3u8$!
+TVB Plus,https://s1.tvm4a1.cfd/aktv/tvbplus/AKTV.m3u8$!
+天映經典(1080),https://s1.tvm4a1.cfd/aktv/1080/AKTV.m3u8$!
+明珠剧集台(北美),https://s1.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8$!
+明珠台,https://s1.tvm4a1.cfd/aktv/CH-2/AKTV.m3u8$!
+無線新聞台,https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8$!
+美亞電影台(HK),https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8$!
+黃金翡翠台,https://s1.tvm4a1.cfd/aktv/CH-6/AKTV.m3u8$!
+天映电影,https://s1.tvm4a1.cfd/aktv2/CH-3/AKTV.m3u8$!
+TVB 星河,https://s1.tvm4a1.cfd/taiwan2/tvb/AKTV.m3u8$!
+Animax (HK),https://s1.tvm4a1.cfd/aktv/animaxhk/AKTV.m3u8$!
+PopC,https://s1.tvm4a1.cfd/aktv/popc/AKTV.m3u8$!
+ROCK Action,https://s1.tvm4a1.cfd/aktv/rockaction/AKTV.m3u8$!
+Japan News 24H LIVE,https://s1.tvm4a1.cfd/aktvjp/japannews24hlive/AKTV.m3u8$!
+日テレNEWS LIVE,https://s1.tvm4a1.cfd/aktvjp/ntv/AKTV.m3u8$!
+8TV,https://s1.tvm4a1.cfd/astro/8tv/AKTV.m3u8$!
+AXN,https://s1.tvm4a1.cfd/aktv/axn/AKTV.m3u8$!
+Channel 5 HD,https://s1.tvm4a1.cfd/aktv/channel5hd/AKTV.m3u8$!
+Channel 8 HD,https://s1.tvm4a1.cfd/aktv/channel8hd/AKTV.m3u8$!
+Channel U HD,https://s1.tvm4a1.cfd/aktv/channeluhd/AKTV.m3u8$!
+Love Nature HD,https://s1.tvm4a1.cfd/aktv/lovenaturehd/AKTV.m3u8$!
+tvN,https://s1.tvm4a1.cfd/aktv/tvn/AKTV.m3u8$!
+Astro Football,https://s1.tvm4a1.cfd/astro/CH-0/AKTV.m3u8$!
+Astro Sport UHD,https://s1.tvm4a1.cfd/astro/astrosportuhd/AKTV.m3u8$!
+EuroSport 1,https://s1.tvm4a1.cfd/astro/eurosport1/AKTV.m3u8$!
+EuroSport 2,https://s1.tvm4a1.cfd/astro/eurosport2/AKTV.m3u8$!
+TNT SPORTS 1,https://s1.tvm4a1.cfd/astro/tntsports1/AKTV.m3u8$!
+TNT SPORTS 2,https://s1.tvm4a1.cfd/astro/tntsports2/AKTV.m3u8$!
+TNT SPORTS 3,https://s1.tvm4a1.cfd/astro/tntsports3/AKTV.m3u8$!
+Sky Sports F1,https://s1.tvm4a1.cfd/aktv2/skysportsf1/AKTV.m3u8$!
+
 翡翠台,https://my5353.com/vWtcf$!
 翡翠台,https://my5353.com/hXJUM$!
 翡翠台,http://zb.xmzb.xyz/8888.php?id=be一翡翠台$!
@@ -853,6 +780,20 @@ Now HK Now Sports 4K 617,http://66.siyba.cn/7Lmtl$!
 🔆TW湾湾-①🔆,#genre#
 👉此分类需要湾湾魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
 👉此分类需要湾湾魔法👈,https://d.kstore.dev/download/7692/4.mp4$!
+中天亚洲台,https://s1.tvm4a1.cfd/astro/CH-1/AKTV.m3u8$!
+靖天國際台,https://s1.tvm4a1.cfd/taiwan/CH-3/AKTV.m3u8$!
+TVBS,https://s1.tvm4a1.cfd/taiwan/tvbs/AKTV.m3u8$!
+民視,https://s1.tvm4a1.cfd/taiwan/CH-1/AKTV.m3u8$!
+民視第一台,https://s1.tvm4a1.cfd/taiwan/CH-0/AKTV.m3u8$!
+龍華日韓台,https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8$!
+TVBS新聞,https://s1.tvm4a1.cfd/tvbs/tvbs/AKTV.m3u8$!
+中天新闻台,https://s1.tvm4a1.cfd/zhongtian/CH-0/AKTV.m3u8$!
+東森新聞,https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8$!
+東森洋片,https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8$!
+東森電影,https://s1.tvm4a1.cfd/aktv2/CH-1/AKTV.m3u8$!
+緯來體育台,https://s1.tvm4a1.cfd/aktv2/CH-0/AKTV.m3u8$!
+CNA,https://s1.tvm4a1.cfd/aktv3/cna/AKTV.m3u8$!
+
 民視第一台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv003/index.m3u8$!
 民視台灣台,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv001/index.m3u8$!
 民視,http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv002/index.m3u8$!
