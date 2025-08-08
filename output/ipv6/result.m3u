@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/e.xml"
-#EXTINF:-1 tvg-name="扫码联系售后" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/扫码联系售后.png" group-title="🕘️更新时间",2025-08-08 13:06:06
+#EXTINF:-1 tvg-name="扫码联系售后" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/扫码联系售后.png" group-title="🕘️更新时间",2025-08-08 17:27:58
 https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
 #EXTINF:-1 tvg-name="扫码联系售后" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/扫码联系售后.png" group-title="💎扫码联系售后💎",扫码联系售后
 https://cccimg.com/down.php/5802267b2cc6e35c44d1a83109075206.mp4
@@ -3680,7 +3680,7 @@ http://118.89.87.74:88/live.php?id=翡翠台
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🔆HK香港-①🔆",翡翠台
 http://php.jdshipin.com:8880/smt.php?id=jade_xue
 #EXTINF:-1 tvg-name="翡翠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠台.png" group-title="🔆HK香港-①🔆",翡翠台
-http://php.jdshipin.com:8880/PLTV/iptv.php?id=fct3
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="翡翠综合台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠综合台.png" group-title="🔆HK香港-①🔆",翡翠综合台
 https://s1.tvm4a1.cfd/aktv/CH-17/AKTV.m3u8
 #EXTINF:-1 tvg-name="翡翠综合台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/翡翠综合台.png" group-title="🔆HK香港-①🔆",翡翠综合台
@@ -3765,6 +3765,8 @@ http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 http://free.cnlive.club/channel/n7e49c99a.m3u8
 #EXTINF:-1 tvg-name="天映經典(1080)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映經典(1080).png" group-title="🔆HK香港-①🔆",天映經典(1080)
 http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 tvg-name="天映經典(1080)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映經典(1080).png" group-title="🔆HK香港-①🔆",天映經典(1080)
+http://t.061899.xyz/tl/168.php?id=tyjd
 #EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠剧集台(北美).png" group-title="🔆HK香港-①🔆",明珠剧集台(北美)
 https://s1.tvm4a1.cfd/aktv/CH-19/AKTV.m3u8
 #EXTINF:-1 tvg-name="明珠剧集台(北美)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/明珠剧集台(北美).png" group-title="🔆HK香港-①🔆",明珠剧集台(北美)
@@ -3841,6 +3843,8 @@ https://edge.163189.xyz/163189/wxxw
 http://api.mg.itv888.cn:8080/hls/e1bb5e8bc4f/index.m3u8
 #EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/無線新聞台.png" group-title="🔆HK香港-①🔆",無線新聞台
 http://cdn6.946985.xyz/live/wxxw/stream.m3u8
+#EXTINF:-1 tvg-name="無線新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/無線新聞台.png" group-title="🔆HK香港-①🔆",無線新聞台
+http://t.061899.xyz/tl/168.php?id=wxxwt
 #EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亞電影台(HK).png" group-title="🔆HK香港-①🔆",美亞電影台(HK)
 https://s1.tvm4a1.cfd/aktv/hk/AKTV.m3u8
 #EXTINF:-1 tvg-name="美亞電影台(HK)" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/美亞電影台(HK).png" group-title="🔆HK香港-①🔆",美亞電影台(HK)
@@ -4118,7 +4122,7 @@ http://118.89.87.74:88/phenix.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🔆HK香港-①🔆",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🔆HK香港-①🔆",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🔆HK香港-①🔆",凤凰资讯
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🔆HK香港-①🔆",凤凰资讯
@@ -4150,7 +4154,7 @@ http://118.89.87.74:88/phenix.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🔆HK香港-①🔆",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🔆HK香港-①🔆",凤凰中文
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🔆HK香港-①🔆",凤凰中文
 https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🔆HK香港-①🔆",凤凰中文
@@ -4190,7 +4194,7 @@ http://118.89.87.74:88/phenix.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🔆HK香港-①🔆",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🔆HK香港-①🔆",凤凰香港
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🔆HK香港-①🔆",凤凰香港
 https://cc04.tv12.xyz/24.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🔆HK香港-①🔆",凤凰香港
@@ -4450,7 +4454,7 @@ http://cdn.946985.xyz/live/rthk31/stream.m3u8
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="🔆HK香港-①🔆",RTHK32
 http://php.jdshipin.com/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="🔆HK香港-①🔆",RTHK32
-http://php.jdshipin.com:8880/smt.php?id=rhk32_twn
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=rthk32
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="🔆HK香港-①🔆",RTHK32
 http://cdn5.132.us.kg/live/rthk32/stream.m3u8
 #EXTINF:-1 tvg-name="RTHK32" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/RTHK32.png" group-title="🔆HK香港-①🔆",RTHK32
@@ -4499,6 +4503,8 @@ https://hls-gateway.vpstv.net/streams/636710.m3u8
 http://live.catvod.com/smart.php?id=Celestial
 #EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映频道.png" group-title="🔆HK香港-①🔆",天映频道
 http://free.cnlive.club/channel/n7e466c41.m3u8
+#EXTINF:-1 tvg-name="天映频道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映频道.png" group-title="🔆HK香港-①🔆",天映频道
+http://t.061899.xyz/tl/168.php?id=typd
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🔆HK香港-①🔆",天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🔆HK香港-①🔆",天映经典
@@ -4527,6 +4533,8 @@ http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 http://free.cnlive.club/channel/n7e49c99a.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🔆HK香港-①🔆",天映经典
 http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🔆HK香港-①🔆",天映经典
+http://t.061899.xyz/tl/168.php?id=tyjd
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间.png" group-title="🔆HK香港-①🔆",八度空间
 http://php.jdshipin.com:8880/smt.php?id=TV8
 #EXTINF:-1 tvg-name="八度空间" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八度空间.png" group-title="🔆HK香港-①🔆",八度空间
@@ -4722,7 +4730,7 @@ https://s1.tvm4a1.cfd/aktv/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🔆HK香港-①🔆",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=wxxwt
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🔆HK香港-①🔆",无线新闻
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=tvbxw
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🔆HK香港-①🔆",无线新闻
 https://cdn9.163189.xyz/smt3.1.1.php?id=inews_twn
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🔆HK香港-①🔆",无线新闻
@@ -4762,7 +4770,7 @@ https://s1.tvm4a1.cfd/aktv/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VIUTV.png" group-title="🔆HK香港-①🔆",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VIUTV.png" group-title="🔆HK香港-①🔆",VIUTV
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VIUTV.png" group-title="🔆HK香港-①🔆",VIUTV
 http://cdn5.1678520.xyz/live/live2.1.php?id=viu
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VIUTV.png" group-title="🔆HK香港-①🔆",VIUTV
@@ -4992,9 +5000,9 @@ http://live.catvod.com/smart.php?id=tvbxinhe_twn
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🔆HK香港-①🔆",TVB星河
 http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB娱乐新闻台.png" group-title="🔆HK香港-①🔆",TVB娱乐新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
-#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB娱乐新闻台.png" group-title="🔆HK香港-①🔆",TVB娱乐新闻台
 http://php.jdshipin.com/smt.php?id=Tvbentertainment
+#EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB娱乐新闻台.png" group-title="🔆HK香港-①🔆",TVB娱乐新闻台
+http://php.jdshipin.com/TVOD/iptv.php?id=tvbylxw
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB娱乐新闻台.png" group-title="🔆HK香港-①🔆",TVB娱乐新闻台
 http://v2hcdn.jdshipin.com/enew/enew.stream/chunklist_w1003.m3u8
 #EXTINF:-1 tvg-name="TVB娱乐新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB娱乐新闻台.png" group-title="🔆HK香港-①🔆",TVB娱乐新闻台
@@ -5183,6 +5191,8 @@ http://live.catvod.com/smart.php?id=lunghuawestern_twn
 http://free.cnlive.club/channel/66c68ce7/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="🔆HK香港-①🔆",龙华洋片
 http://cdn8.946985.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="🔆HK香港-①🔆",龙华洋片
+http://t.061899.xyz/tl/js/tw.php?id=hdlhyp
 #EXTINF:-1 tvg-name="👉以下频道需要魔法👈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉以下频道需要魔法👈.png" group-title="🔆HK香港-②🔆",👉以下频道需要魔法👈
 https://wp.23zo.cn/f/YP9fx/6h.mp4
 #EXTINF:-1 tvg-name="👉以下频道需要魔法👈" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/👉以下频道需要魔法👈.png" group-title="🔆HK香港-②🔆",👉以下频道需要魔法👈
@@ -5206,7 +5216,7 @@ http://118.89.87.74:88/phenix.php?id=fhzw
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🔆HK香港-②🔆",凤凰中文
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🔆HK香港-②🔆",凤凰中文
-http://php.jdshipin.com:8880/smt.php?id=phoenixtv_hd
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw2
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🔆HK香港-②🔆",凤凰中文
 https://piccpndks.v.kcdnvip.com/audio/xianggangweishi_2.m3u8
 #EXTINF:-1 tvg-name="凤凰中文" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰中文.png" group-title="🔆HK香港-②🔆",凤凰中文
@@ -5242,7 +5252,7 @@ http://118.89.87.74:88/phenix.php?id=fhzx
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🔆HK香港-②🔆",凤凰资讯
 http://php.jdshipin.com/TVOD/iptv.php?id=fhzx2
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🔆HK香港-②🔆",凤凰资讯
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx
+http://php.jdshipin.com:8880/smt.php?id=phoenixinfo_hd
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🔆HK香港-②🔆",凤凰资讯
 http://php.17186.eu.org/phtv/fhzx.m3u8
 #EXTINF:-1 tvg-name="凤凰资讯" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰资讯.png" group-title="🔆HK香港-②🔆",凤凰资讯
@@ -5286,7 +5296,7 @@ http://118.89.87.74:88/phenix.php?id=fhhk
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🔆HK香港-②🔆",凤凰香港
 http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🔆HK香港-②🔆",凤凰香港
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhhk2
+http://php.jdshipin.com/TVOD/iptv.php?id=fhhk2
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🔆HK香港-②🔆",凤凰香港
 https://cc04.tv12.xyz/24.m3u8
 #EXTINF:-1 tvg-name="凤凰香港" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/凤凰香港.png" group-title="🔆HK香港-②🔆",凤凰香港
@@ -5408,7 +5418,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=wxxw
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🔆HK香港-②🔆",无线新闻台
 http://php.jdshipin.com/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🔆HK香港-②🔆",无线新闻台
-http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
+http://php.jdshipin.com:8880/smt.php?id=inews_twn
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🔆HK香港-②🔆",无线新闻台
 http://v2hcdn.jdshipin.com/news/news.stream/chunklist_w1005.m3u8#http://aktv_stream1.m16tv.cfd/stream/aktv/null-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="无线新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻台.png" group-title="🔆HK香港-②🔆",无线新闻台
@@ -5481,6 +5491,8 @@ http://php.jdshipin.com/smt.php?id=Tvbclassic
 http://php.jdshipin.com:8880/smt.php?id=Tvbclassic
 #EXTINF:-1 tvg-name="TVB千禧经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB千禧经典.png" group-title="🔆HK香港-②🔆",TVB千禧经典
 https://ling.uus10000.top/23.m3u8
+#EXTINF:-1 tvg-name="TVB千禧经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB千禧经典.png" group-title="🔆HK香港-②🔆",TVB千禧经典
+http://t.061899.xyz/tl/168.php?id=tvbqxjd
 #EXTINF:-1 tvg-name="TVB亚洲武侠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB亚洲武侠.png" group-title="🔆HK香港-②🔆",TVB亚洲武侠
 http://php.jdshipin.com/TVOD/iptv.php?id=yzwx
 #EXTINF:-1 tvg-name="TVB亚洲武侠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB亚洲武侠.png" group-title="🔆HK香港-②🔆",TVB亚洲武侠
@@ -5502,7 +5514,7 @@ https://cdn5.163189.xyz/live/mzt/stream.m3u8
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="🔆HK香港-②🔆",TVB明珠台
 http://php.jdshipin.com/TVOD/iptv.php?id=mzt2
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="🔆HK香港-②🔆",TVB明珠台
-http://php.jdshipin.com:8880/smt.php?id=pearl_twn
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=mzt2
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="🔆HK香港-②🔆",TVB明珠台
 https://345iptv.com/?act=play&token=5a592ca5f9a4e277577d75c5ed9a2a0f&tid=gt&id=9&p=0###WEB\\n
 #EXTINF:-1 tvg-name="TVB明珠台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB明珠台.png" group-title="🔆HK香港-②🔆",TVB明珠台
@@ -5540,7 +5552,7 @@ http://r.jdshipin.com/GeWKr?id=mzt720
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🔆HK香港-②🔆",TVB星河
 http://php.jdshipin.com/TVOD/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🔆HK香港-②🔆",TVB星河
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=xinghe
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=xinghe
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🔆HK香港-②🔆",TVB星河
 http://v2h.jdshipin.com/xinghe_1/xinghe_1.stream/chunklist_w106.m3u8###HLS\\n
 #EXTINF:-1 tvg-name="TVB星河" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVB星河.png" group-title="🔆HK香港-②🔆",TVB星河
@@ -5568,7 +5580,7 @@ http://s1.an94tv.cfd/taiwan2/tvb/AKTV.m3u8
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VIUTV.png" group-title="🔆HK香港-②🔆",VIUTV
 http://php.jdshipin.com/TVOD/iptv.php?id=viutv2
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VIUTV.png" group-title="🔆HK香港-②🔆",VIUTV
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=viutv
+http://php.jdshipin.com:8880/PLTV/iptv.php?id=viutv
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VIUTV.png" group-title="🔆HK香港-②🔆",VIUTV
 https://cc04.tv12.xyz/84.m3u8
 #EXTINF:-1 tvg-name="VIUTV" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/VIUTV.png" group-title="🔆HK香港-②🔆",VIUTV
@@ -6051,6 +6063,8 @@ https://hls-gateway.vpstv.net/streams/636710.m3u8
 http://live.catvod.com/smart.php?id=Celestial
 #EXTINF:-1 tvg-name="天映" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映.png" group-title="🔆HK香港-②🔆",天映
 http://free.cnlive.club/channel/n7e466c41.m3u8
+#EXTINF:-1 tvg-name="天映" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映.png" group-title="🔆HK香港-②🔆",天映
+http://t.061899.xyz/tl/168.php?id=typd
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🔆HK香港-②🔆",天映经典
 http://php.jdshipin.com:8880/smt.php?id=Celestial2
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🔆HK香港-②🔆",天映经典
@@ -6077,12 +6091,14 @@ http://s1.an94tv.cfd/aktv/1080/AKTV.m3u8
 http://free.cnlive.club/channel/n7e49c99a.m3u8
 #EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🔆HK香港-②🔆",天映经典
 http://bxtv.757888.xyz/stream/bxtv/null-4/master.m3u8?u=bxtv&p=1416a274c445ae05b330fab65ee77ab0d02d18fb4c64dce55ec95cc245034ea7
+#EXTINF:-1 tvg-name="天映经典" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/天映经典.png" group-title="🔆HK香港-②🔆",天映经典
+http://t.061899.xyz/tl/168.php?id=tyjd
 #EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线翡翠.png" group-title="🔆HK香港-②🔆",无线翡翠
 http://php.jdshipin.com/PLTV/iptv.php?id=fct2
 #EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线翡翠.png" group-title="🔆HK香港-②🔆",无线翡翠
 http://php.jdshipin.com/PLTV/iptv.php?id=fct3
 #EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线翡翠.png" group-title="🔆HK香港-②🔆",无线翡翠
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct3
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fct
 #EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线翡翠.png" group-title="🔆HK香港-②🔆",无线翡翠
 http://cdn3.132.us.kg/live/fct/stream.m3u8
 #EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线翡翠.png" group-title="🔆HK香港-②🔆",无线翡翠
@@ -6097,6 +6113,8 @@ https://hls-gateway.vpstv.net/streams/476929.m3u8
 http://tl.061833.xyz/tl/null
 #EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线翡翠.png" group-title="🔆HK香港-②🔆",无线翡翠
 http://cdn6.946985.xyz/live/fct/stream.m3u8
+#EXTINF:-1 tvg-name="无线翡翠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线翡翠.png" group-title="🔆HK香港-②🔆",无线翡翠
+http://t.061899.xyz/tl/168.php?id=fct
 #EXTINF:-1 tvg-name="无线翡翠 4k" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线翡翠 4k.png" group-title="🔆HK香港-②🔆",无线翡翠 4k
 http://php.jdshipin.com/PLTV/iptv.php?id=fct4
 #EXTINF:-1 tvg-name="无线华丽" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线华丽.png" group-title="🔆HK香港-②🔆",无线华丽
@@ -6133,12 +6151,16 @@ http://api.mg.itv888.cn:8080/hls/63e9ea6e5df/index.m3u8
 http://tl.061833.xyz/tl/null12
 #EXTINF:-1 tvg-name="无线明珠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线明珠.png" group-title="🔆HK香港-②🔆",无线明珠
 http://cdn.946985.xyz/live/mzt/stream.m3u8
+#EXTINF:-1 tvg-name="无线明珠" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线明珠.png" group-title="🔆HK香港-②🔆",无线明珠
+http://t.061899.xyz/tl/168.php?id=zzt
 #EXTINF:-1 tvg-name="无线明珠粤语" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线明珠粤语.png" group-title="🔆HK香港-②🔆",无线明珠粤语
 http://php.jdshipin.com/PLTV/iptv.php?id=mzt2
 #EXTINF:-1 tvg-name="无线千禧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线千禧.png" group-title="🔆HK香港-②🔆",无线千禧
 http://php.jdshipin.com/PLTV/iptv.php?id=tvbc
 #EXTINF:-1 tvg-name="无线千禧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线千禧.png" group-title="🔆HK香港-②🔆",无线千禧
 https://vx65267199.18cn.dpdns.org/18.m3u8
+#EXTINF:-1 tvg-name="无线千禧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线千禧.png" group-title="🔆HK香港-②🔆",无线千禧
+http://t.061899.xyz/tl/168.php?id=tvbqxjd
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🔆HK香港-②🔆",无线新闻
 http://php.jdshipin.com/TVOD/iptv.php?id=tvbxw
 #EXTINF:-1 tvg-name="无线新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/无线新闻.png" group-title="🔆HK香港-②🔆",无线新闻
@@ -6335,6 +6357,8 @@ http://live.catvod.com/smart.php?id=lunghuajingdian_twn
 http://s1.an94tv.cfd/taiwan/CH-0/AKTV.m3u8
 #EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民視第一台.png" group-title="🔆TW湾湾-①🔆",民視第一台
 https://migu.188766.xyz/?migutoken=1c356cc4165cca691effb31a8358c368&id=awei_msdy&type=dy
+#EXTINF:-1 tvg-name="民視第一台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民視第一台.png" group-title="🔆TW湾湾-①🔆",民視第一台
+http://t.061899.xyz/tl/js/tw.php?id=hdmsdyt
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="🔆TW湾湾-①🔆",龍華日韓台
 https://s1.tvm4a1.cfd/taiwan/CH-5/AKTV.m3u8
 #EXTINF:-1 tvg-name="龍華日韓台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華日韓台.png" group-title="🔆TW湾湾-①🔆",龍華日韓台
@@ -6403,6 +6427,8 @@ https://migu.188766.xyz/?migutoken=95d20c71ab9ff79da9e7482c4f5dc00d&id=awei_ztxw
 http://flv3948069e.live.126.net/live/dabadqdszbtest78612.flv
 #EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png" group-title="🔆TW湾湾-①🔆",中天新闻台
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv009
+#EXTINF:-1 tvg-name="中天新闻台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新闻台.png" group-title="🔆TW湾湾-①🔆",中天新闻台
+http://t.061899.xyz/tl/js/tw.php?id=hdztxw
 #EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森新聞.png" group-title="🔆TW湾湾-①🔆",東森新聞
 https://s1.tvm4a1.cfd/zhongtian/CH-1/AKTV.m3u8
 #EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森新聞.png" group-title="🔆TW湾湾-①🔆",東森新聞
@@ -6439,6 +6465,8 @@ http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森新聞.png" group-title="🔆TW湾湾-①🔆",東森新聞
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-name="東森新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森新聞.png" group-title="🔆TW湾湾-①🔆",東森新聞
+http://t.061899.xyz/tl/js/tw.php?id=hddsxw
 #EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森洋片.png" group-title="🔆TW湾湾-①🔆",東森洋片
 https://s1.tvm4a1.cfd/aktv2/CH-2/AKTV.m3u8
 #EXTINF:-1 tvg-name="東森洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/東森洋片.png" group-title="🔆TW湾湾-①🔆",東森洋片
@@ -6587,6 +6615,8 @@ http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv043/index.m3u8
 https://hls-gateway.vpstv.net/streams/476229.m3u8
 #EXTINF:-1 tvg-name="客家電視" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/客家電視.png" group-title="🔆TW湾湾-①🔆",客家電視
 https://vx65267199.18cn.dpdns.org/167.m3u8
+#EXTINF:-1 tvg-name="客家電視" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/客家電視.png" group-title="🔆TW湾湾-①🔆",客家電視
+http://t.061899.xyz/tl/js/tw.php?id=hdkjds
 #EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視菁采台.png" group-title="🔆TW湾湾-①🔆",中視菁采台
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv064/index.m3u8
 #EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視菁采台.png" group-title="🔆TW湾湾-①🔆",中視菁采台
@@ -6597,6 +6627,8 @@ https://tv.iill.top/litv/4gtv-4gtv064
 http://kr2.13430067.xyz/proxy?url=http%3A//172.17.0.2%3A80/litv.php%3Ftoken%3Ddante%26id%3D4gtv-4gtv064
 #EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視菁采台.png" group-title="🔆TW湾湾-①🔆",中視菁采台
 https://hls-gateway.vpstv.net/streams/476260.m3u8
+#EXTINF:-1 tvg-name="中視菁采台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視菁采台.png" group-title="🔆TW湾湾-①🔆",中視菁采台
+http://t.061899.xyz/tl/js/tw.php?id=zsjc
 #EXTINF:-1 tvg-name="靖天綜合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天綜合.png" group-title="🔆TW湾湾-①🔆",靖天綜合
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv046/index.m3u8
 #EXTINF:-1 tvg-name="靖天綜合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/靖天綜合.png" group-title="🔆TW湾湾-①🔆",靖天綜合
@@ -6811,6 +6843,8 @@ https://hls-gateway.vpstv.net/streams/476362.m3u8
 https://vx65267199.18cn.dpdns.org/87.m3u8
 #EXTINF:-1 tvg-name="中視經典台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視經典台.png" group-title="🔆TW湾湾-①🔆",中視經典台
 http://free.cnlive.club/channel/4291e438/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="中視經典台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視經典台.png" group-title="🔆TW湾湾-①🔆",中視經典台
+http://t.061899.xyz/tl/js/tw.php?id=zsjd
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/ROCK Entertainment.png" group-title="🔆TW湾湾-①🔆",ROCK Entertainment
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live080/index.m3u8
 #EXTINF:-1 tvg-name="ROCK Entertainment" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/ROCK Entertainment.png" group-title="🔆TW湾湾-①🔆",ROCK Entertainment
@@ -6997,6 +7031,8 @@ http://live.catvod.com/smart.php?id=lunghuawestern_twn
 http://free.cnlive.club/channel/66c68ce7/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華洋片.png" group-title="🔆TW湾湾-①🔆",龍華洋片
 http://cdn8.946985.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-name="龍華洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華洋片.png" group-title="🔆TW湾湾-①🔆",龍華洋片
+http://t.061899.xyz/tl/js/tw.php?id=hdlhyp
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影.png" group-title="🔆TW湾湾-①🔆",龍華電影
 http://xn--elt51t.azip.dpdns.org:5008/li-litv-longturn03/index.m3u8
 #EXTINF:-1 tvg-name="龍華電影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龍華電影.png" group-title="🔆TW湾湾-①🔆",龍華電影
@@ -7435,6 +7471,8 @@ https://vx65267199.18cn.dpdns.org/28.m3u8
 https://hls-gateway.vpstv.net/streams/476266.m3u8
 #EXTINF:-1 tvg-name="華視新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/華視新聞台.png" group-title="🔆TW湾湾-①🔆",華視新聞台
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv052
+#EXTINF:-1 tvg-name="華視新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/華視新聞台.png" group-title="🔆TW湾湾-①🔆",華視新聞台
+http://t.061899.xyz/tl/js/tw.php?id=hdhsxw
 #EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民視新聞.png" group-title="🔆TW湾湾-①🔆",民視新聞
 http://xn--elt51t.azip.dpdns.org:5008/litv-ftv13/index.m3u8
 #EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民視新聞.png" group-title="🔆TW湾湾-①🔆",民視新聞
@@ -7461,6 +7499,8 @@ http://live.catvod.com/smart.php?id=ftvnew_taiwan
 http://free.cnlive.club/channel/n4b747ee6/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民視新聞.png" group-title="🔆TW湾湾-①🔆",民視新聞
 https://www.judy.xx.kg/judy.php?id=litv-ftv13
+#EXTINF:-1 tvg-name="民視新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民視新聞.png" group-title="🔆TW湾湾-①🔆",民視新聞
+http://t.061899.xyz/tl/js/tw.php?id=hdmsxw
 #EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立iNEWS.png" group-title="🔆TW湾湾-①🔆",三立iNEWS
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live089/index.m3u8
 #EXTINF:-1 tvg-name="三立iNEWS" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立iNEWS.png" group-title="🔆TW湾湾-①🔆",三立iNEWS
@@ -7513,6 +7553,8 @@ http://live.catvod.com/smart.php?id=ca73a13c37
 http://free.cnlive.club/channel/428f1dfa/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視新聞台.png" group-title="🔆TW湾湾-①🔆",中視新聞台
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv074
+#EXTINF:-1 tvg-name="中視新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中視新聞台.png" group-title="🔆TW湾湾-①🔆",中視新聞台
+http://t.061899.xyz/tl/js/tw.php?id=hdzsxw
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🔆TW湾湾-①🔆",中天新聞台
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv009/index.m3u8
 #EXTINF:-1 tvg-name="中天新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天新聞台.png" group-title="🔆TW湾湾-①🔆",中天新聞台
@@ -7673,6 +7715,8 @@ http://live.catvod.com/smart.php?id=feifannews_twn
 http://free.cnlive.club/channel/6302a884/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡新聞.png" group-title="🔆TW湾湾-①🔆",非凡新聞
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv010
+#EXTINF:-1 tvg-name="非凡新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡新聞.png" group-title="🔆TW湾湾-①🔆",非凡新聞
+http://t.061899.xyz/tl/js/tw.php?id=hdffxw
 #EXTINF:-1 tvg-name="非凡商業" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡商業.png" group-title="🔆TW湾湾-①🔆",非凡商業
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv048/index.m3u8
 #EXTINF:-1 tvg-name="非凡商業" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡商業.png" group-title="🔆TW湾湾-①🔆",非凡商業
@@ -7687,6 +7731,8 @@ http://xn--elt51t.azip.dpdns.org:5008/4gtv-4gtv056/index.m3u8
 https://hls-gateway.vpstv.net/streams/476271.m3u8
 #EXTINF:-1 tvg-name="台視財經台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台視財經台.png" group-title="🔆TW湾湾-①🔆",台視財經台
 https://vx65267199.18cn.dpdns.org/91.m3u8
+#EXTINF:-1 tvg-name="台視財經台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台視財經台.png" group-title="🔆TW湾湾-①🔆",台視財經台
+http://t.061899.xyz/tl/js/tw.php?id=tscj
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新聞台.png" group-title="🔆TW湾湾-①🔆",TVBS新聞台
 http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv072/index.m3u8
 #EXTINF:-1 tvg-name="TVBS新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS新聞台.png" group-title="🔆TW湾湾-①🔆",TVBS新聞台
@@ -7757,6 +7803,8 @@ http://free.cnlive.club/channel/452d9d57/index.m3u8?q=1752629214236
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台視新聞台.png" group-title="🔆TW湾湾-①🔆",台視新聞台
 http://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn
+#EXTINF:-1 tvg-name="台視新聞台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台視新聞台.png" group-title="🔆TW湾湾-①🔆",台視新聞台
+http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
 #EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第1商業台.png" group-title="🔆TW湾湾-①🔆",第1商業台
 http://xn--elt51t.azip.dpdns.org:5008/li-4gtv-4gtv104/index.m3u8
 #EXTINF:-1 tvg-name="第1商業台" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/第1商業台.png" group-title="🔆TW湾湾-①🔆",第1商業台
@@ -7833,6 +7881,8 @@ http://xn--elt51t.azip.dpdns.org:5008/litv-longturn13/index.m3u8
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live026/index.m3u8
 #EXTINF:-1 tvg-name="歷史頻道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/歷史頻道.png" group-title="🔆TW湾湾-①🔆",歷史頻道
 https://hls-gateway.vpstv.net/streams/525779.m3u8
+#EXTINF:-1 tvg-name="歷史頻道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/歷史頻道.png" group-title="🔆TW湾湾-①🔆",歷史頻道
+http://t.061899.xyz/tl/js/tw.php?id=hdlspd
 #EXTINF:-1 tvg-name="CI 罪案偵查頻道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CI 罪案偵查頻道.png" group-title="🔆TW湾湾-①🔆",CI 罪案偵查頻道
 http://xn--elt51t.azip.dpdns.org:5008/4gtv-live027/index.m3u8
 #EXTINF:-1 tvg-name="視納華仁紀實頻道" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/視納華仁紀實頻道.png" group-title="🔆TW湾湾-①🔆",視納華仁紀實頻道
@@ -7937,6 +7987,8 @@ http://s1.an94tv.cfd/zhongtian/CH-1/AKTV.m3u8
 http://free.cnlive.club/channel/n88aa83/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="🔆TW湾湾-②🔆",东森新闻
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv152
+#EXTINF:-1 tvg-name="东森新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森新闻.png" group-title="🔆TW湾湾-②🔆",东森新闻
+http://t.061899.xyz/tl/js/tw.php?id=hddsxw
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻.png" group-title="🔆TW湾湾-②🔆",寰宇新闻
 https://smart.pendy.dpdns.org/Smart.php?id=huanyuxinwen_twn
 #EXTINF:-1 tvg-name="寰宇新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/寰宇新闻.png" group-title="🔆TW湾湾-②🔆",寰宇新闻
@@ -8075,6 +8127,8 @@ http://live.catvod.com/smart.php?id=feifannews_twn
 http://free.cnlive.club/channel/6302a884/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡新闻.png" group-title="🔆TW湾湾-②🔆",非凡新闻
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv010
+#EXTINF:-1 tvg-name="非凡新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/非凡新闻.png" group-title="🔆TW湾湾-②🔆",非凡新闻
+http://t.061899.xyz/tl/js/tw.php?id=hdffxw
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🔆TW湾湾-②🔆",东森超视
 http://122.117.71.103:8524/东森超视.m3u8
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🔆TW湾湾-②🔆",东森超视
@@ -8091,6 +8145,8 @@ http://live.catvod.com/smart.php?id=ettvsuper
 http://free.cnlive.club/channel/4210df69/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🔆TW湾湾-②🔆",东森超视
 https://migu.188766.xyz/?migutoken=be5f76fd64d44dda6cdc7e0f77fa9be9&id=awei_dscs&type=dy
+#EXTINF:-1 tvg-name="东森超视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森超视.png" group-title="🔆TW湾湾-②🔆",东森超视
+http://t.061899.xyz/tl/js/tw.php?id=hddscs
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🔆TW湾湾-②🔆",纬来体育
 http://yc.myds.me:35455/itv/5000000010000017540.m3u8?cdn=bestzb
 #EXTINF:-1 tvg-name="纬来体育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/纬来体育.png" group-title="🔆TW湾湾-②🔆",纬来体育
@@ -8281,6 +8337,8 @@ https://yidong.18cn.dpdns.org/18.m3u8
 http://free.cnlive.club/channel/2733018a/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="八大第一" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大第一.png" group-title="🔆TW湾湾-②🔆",八大第一
 https://migu.188766.xyz/?migutoken=f337fe32436e938cc203e6cdcf09661d&id=awei_bddy&type=dy
+#EXTINF:-1 tvg-name="八大第一" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大第一.png" group-title="🔆TW湾湾-②🔆",八大第一
+http://t.061899.xyz/tl/js/tw.php?id=hdbddy
 #EXTINF:-1 tvg-name="八大综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大综合.png" group-title="🔆TW湾湾-②🔆",八大综合
 http://122.117.71.103:8519/http/61.222.53.250:8081/hls/66/808/ch21.m3u8
 #EXTINF:-1 tvg-name="八大综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大综合.png" group-title="🔆TW湾湾-②🔆",八大综合
@@ -8301,6 +8359,8 @@ http://live.catvod.com/smart.php?id=badazhonghe
 http://free.cnlive.club/channel/27420c52/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="八大综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大综合.png" group-title="🔆TW湾湾-②🔆",八大综合
 https://migu.188766.xyz/?migutoken=d93b5a3ec3351874527098e6ee2fcd59&id=awei_bdzh&type=dy
+#EXTINF:-1 tvg-name="八大综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大综合.png" group-title="🔆TW湾湾-②🔆",八大综合
+http://t.061899.xyz/tl/js/tw.php?id=hdbdzh
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="🔆TW湾湾-②🔆",三立台湾
 http://122.117.71.103:8520/http/61.222.53.250:8081/hls/65/807/ch20.m3u8
 #EXTINF:-1 tvg-name="三立台湾" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立台湾.png" group-title="🔆TW湾湾-②🔆",三立台湾
@@ -8381,12 +8441,16 @@ https://hls-gateway.vpstv.net/streams/492922.m3u8
 https://yidong.18cn.dpdns.org/42.m3u8
 #EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🔆TW湾湾-②🔆",三立新闻
 http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14
+#EXTINF:-1 tvg-name="三立新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新闻.png" group-title="🔆TW湾湾-②🔆",三立新闻
+http://t.061899.xyz/tl/js/tw.php?id=hdslxw
 #EXTINF:-1 tvg-name="闽壹新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/闽壹新闻.png" group-title="🔆TW湾湾-②🔆",闽壹新闻
 http://122.117.71.103:8579/闽壹新闻.m3u8
 #EXTINF:-1 tvg-name="闽壹新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/闽壹新闻.png" group-title="🔆TW湾湾-②🔆",闽壹新闻
 https://hls-gateway.vpstv.net/streams/488993.m3u8
 #EXTINF:-1 tvg-name="闽壹新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/闽壹新闻.png" group-title="🔆TW湾湾-②🔆",闽壹新闻
 https://vx65267199.18cn.dpdns.org/64.m3u8
+#EXTINF:-1 tvg-name="闽壹新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/闽壹新闻.png" group-title="🔆TW湾湾-②🔆",闽壹新闻
+http://t.061899.xyz/tl/js/tw.php?id=hdyxw
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="🔆TW湾湾-②🔆",民视新闻
 http://122.117.71.103:8535/民视新闻.m3u8
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="🔆TW湾湾-②🔆",民视新闻
@@ -8413,12 +8477,16 @@ http://live.catvod.com/smart.php?id=ftvnew_taiwan
 http://free.cnlive.club/channel/n4b747ee6/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="🔆TW湾湾-②🔆",民视新闻
 https://www.judy.xx.kg/judy.php?id=litv-ftv13
+#EXTINF:-1 tvg-name="民视新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视新闻.png" group-title="🔆TW湾湾-②🔆",民视新闻
+http://t.061899.xyz/tl/js/tw.php?id=hdmsxw
 #EXTINF:-1 tvg-name="公视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/公视闽南.png" group-title="🔆TW湾湾-②🔆",公视闽南
 http://122.117.71.103:8505/公视闽南.m3u8
 #EXTINF:-1 tvg-name="公视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/公视闽南.png" group-title="🔆TW湾湾-②🔆",公视闽南
 https://hls-gateway.vpstv.net/streams/476984.m3u8
 #EXTINF:-1 tvg-name="公视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/公视闽南.png" group-title="🔆TW湾湾-②🔆",公视闽南
 https://vx65267199.18cn.dpdns.org/71.m3u8
+#EXTINF:-1 tvg-name="公视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/公视闽南.png" group-title="🔆TW湾湾-②🔆",公视闽南
+http://t.061899.xyz/tl/js/tw.php?id=hdgs
 #EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视闽南.png" group-title="🔆TW湾湾-②🔆",民视闽南
 http://122.117.71.103:8567/民视闽南.m3u8
 #EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视闽南.png" group-title="🔆TW湾湾-②🔆",民视闽南
@@ -8427,6 +8495,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=ftvhd_taiwan
 https://vx65267199.18cn.dpdns.org/30.m3u8
 #EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视闽南.png" group-title="🔆TW湾湾-②🔆",民视闽南
 https://hls-gateway.vpstv.net/streams/476986.m3u8
+#EXTINF:-1 tvg-name="民视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/民视闽南.png" group-title="🔆TW湾湾-②🔆",民视闽南
+http://t.061899.xyz/tl/js/tw.php?id=hdms
 #EXTINF:-1 tvg-name="中视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视闽南.png" group-title="🔆TW湾湾-②🔆",中视闽南
 http://122.117.71.103:8503/中视闽南.m3u8
 #EXTINF:-1 tvg-name="中视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视闽南.png" group-title="🔆TW湾湾-②🔆",中视闽南
@@ -8435,6 +8505,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=zhongshihd_twn
 https://hls-gateway.vpstv.net/streams/476983.m3u8
 #EXTINF:-1 tvg-name="中视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视闽南.png" group-title="🔆TW湾湾-②🔆",中视闽南
 https://vx65267199.18cn.dpdns.org/73.m3u8
+#EXTINF:-1 tvg-name="中视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中视闽南.png" group-title="🔆TW湾湾-②🔆",中视闽南
+http://t.061899.xyz/tl/js/tw.php?id=hdzs
 #EXTINF:-1 tvg-name="华视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视闽南.png" group-title="🔆TW湾湾-②🔆",华视闽南
 http://122.117.71.103:8502/华视闽南.m3u8
 #EXTINF:-1 tvg-name="华视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视闽南.png" group-title="🔆TW湾湾-②🔆",华视闽南
@@ -8443,6 +8515,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=ctshd_twn
 https://vx65267199.18cn.dpdns.org/31.m3u8
 #EXTINF:-1 tvg-name="华视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视闽南.png" group-title="🔆TW湾湾-②🔆",华视闽南
 https://hls-gateway.vpstv.net/streams/476985.m3u8
+#EXTINF:-1 tvg-name="华视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/华视闽南.png" group-title="🔆TW湾湾-②🔆",华视闽南
+http://t.061899.xyz/tl/js/tw.php?id=hdhs
 #EXTINF:-1 tvg-name="台视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视闽南.png" group-title="🔆TW湾湾-②🔆",台视闽南
 http://122.117.71.103:8504/台视闽南.m3u8
 #EXTINF:-1 tvg-name="台视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视闽南.png" group-title="🔆TW湾湾-②🔆",台视闽南
@@ -8451,6 +8525,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=ttv_taiwan
 https://hls-gateway.vpstv.net/streams/476982.m3u8
 #EXTINF:-1 tvg-name="台视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视闽南.png" group-title="🔆TW湾湾-②🔆",台视闽南
 https://vx65267199.18cn.dpdns.org/75.m3u8
+#EXTINF:-1 tvg-name="台视闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视闽南.png" group-title="🔆TW湾湾-②🔆",台视闽南
+http://t.061899.xyz/tl/js/tw.php?id=hdts
 #EXTINF:-1 tvg-name="三立闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立闽南.png" group-title="🔆TW湾湾-②🔆",三立闽南
 http://122.117.71.103:8520/三立闽南.m3u8
 #EXTINF:-1 tvg-name="三立闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立闽南.png" group-title="🔆TW湾湾-②🔆",三立闽南
@@ -8459,6 +8535,8 @@ https://smart.pendy.dpdns.org/Smart.php?id=sanlitaiwan
 https://vx65267199.18cn.dpdns.org/41.m3u8
 #EXTINF:-1 tvg-name="三立闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立闽南.png" group-title="🔆TW湾湾-②🔆",三立闽南
 https://hls-gateway.vpstv.net/streams/477050.m3u8
+#EXTINF:-1 tvg-name="三立闽南" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立闽南.png" group-title="🔆TW湾湾-②🔆",三立闽南
+http://t.061899.xyz/tl/js/tw.php?id=hdsltwt
 #EXTINF:-1 tvg-name="三立都会" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立都会.png" group-title="🔆TW湾湾-②🔆",三立都会
 http://122.117.71.103:8521/三立闽南.m3u8
 #EXTINF:-1 tvg-name="三立都会" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立都会.png" group-title="🔆TW湾湾-②🔆",三立都会
@@ -8471,6 +8549,8 @@ https://vx65267199.18cn.dpdns.org/93.m3u8
 https://yidong.18cn.dpdns.org/21.m3u8
 #EXTINF:-1 tvg-name="三立都会" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立都会.png" group-title="🔆TW湾湾-②🔆",三立都会
 http://free.cnlive.club/channel/72452bb/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="三立都会" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立都会.png" group-title="🔆TW湾湾-②🔆",三立都会
+http://t.061899.xyz/tl/js/tw.php?id=hdsldht
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合.png" group-title="🔆TW湾湾-②🔆",中天综合
 http://122.117.71.103:8525/中天综合.m3u8
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合.png" group-title="🔆TW湾湾-②🔆",中天综合
@@ -8489,6 +8569,8 @@ http://live.catvod.com/smart.php?id=ctizhonghe
 http://free.cnlive.club/channel/41db6ede/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="中天综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合.png" group-title="🔆TW湾湾-②🔆",中天综合
 https://migu.188766.xyz/?migutoken=a3cd41eaa3f778d752fd19a50aceb03b&id=awei_ztzh&type=dy
+#EXTINF:-1 tvg-name="中天综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天综合.png" group-title="🔆TW湾湾-②🔆",中天综合
+http://t.061899.xyz/tl/js/tw.php?id=hdztzh
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐.png" group-title="🔆TW湾湾-②🔆",中天娱乐
 http://122.117.71.103:8526/中天娱乐.m3u8
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐.png" group-title="🔆TW湾湾-②🔆",中天娱乐
@@ -8509,6 +8591,8 @@ http://live.catvod.com/smart.php?id=ctient
 http://free.cnlive.club/channel/41d6f491/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐.png" group-title="🔆TW湾湾-②🔆",中天娱乐
 https://migu.188766.xyz/?migutoken=a0429df9e0ace457b2bece27a0e05a91&id=167ztyl&type=dy
+#EXTINF:-1 tvg-name="中天娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中天娱乐.png" group-title="🔆TW湾湾-②🔆",中天娱乐
+http://t.061899.xyz/tl/js/tw.php?id=hdztyl
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="🔆TW湾湾-②🔆",东森综合
 http://122.117.71.103:8523/东森综合.m3u8
 #EXTINF:-1 tvg-name="东森综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森综合.png" group-title="🔆TW湾湾-②🔆",东森综合
@@ -8539,6 +8623,8 @@ https://vx65267199.18cn.dpdns.org/44.m3u8
 https://hls-gateway.vpstv.net/streams/477062.m3u8
 #EXTINF:-1 tvg-name="东森财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经.png" group-title="🔆TW湾湾-②🔆",东森财经
 https://yidong.18cn.dpdns.org/47.m3u8
+#EXTINF:-1 tvg-name="东森财经" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森财经.png" group-title="🔆TW湾湾-②🔆",东森财经
+http://t.061899.xyz/tl/js/tw.php?id=hddscj
 #EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森戏剧.png" group-title="🔆TW湾湾-②🔆",东森戏剧
 https://smart.pendy.dpdns.org/Smart.php?id=ettvdrama#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=0770&tk=e640d0a1bf70#http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/806/ch13.m3u8#http://122.117.71.103:8529/http/61.222.53.250:8081/hls/64/803/ch13.m3u8#http://162.19.247.76:22222/live/dsxj/index.m3u8#https://pixman.mytvsuper.com.mp/Smart.php?id=ettvdrama#http://50.7.238.114:8278/ettvdrama/playlist.m3u8?tid=m921dcb630ebe17354109&ct=17874&tsum=695370160923af940d1a90d44c262acc#http://122.117.71.103:8529/东森戏剧.m3u8#http://211.72.65.236:8530/.m3u8
 #EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森戏剧.png" group-title="🔆TW湾湾-②🔆",东森戏剧
@@ -8553,6 +8639,8 @@ https://yidong.18cn.dpdns.org/29.m3u8
 http://live.catvod.com/smart.php?id=ettvdrama
 #EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森戏剧.png" group-title="🔆TW湾湾-②🔆",东森戏剧
 http://free.cnlive.club/channel/n9e78d0/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="东森戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/东森戏剧.png" group-title="🔆TW湾湾-②🔆",东森戏剧
+http://t.061899.xyz/tl/js/tw.php?id=hddsxj
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="🔆TW湾湾-②🔆",龙华戏剧
 https://cdn8.163189.xyz/live/lhxj/stream.m3u8#http://61.163.58.168:2005/play/forward/5?tvid=ltvdramahd&token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjaXR5Ijoi5rex5Zyz5biCIiwiaXAiOiI1OS4zNi4xNjYuMjE1IiwidHZpZCI6IjI3OTY4NTIzIiwiZWNvbm9taXplIjoi5bm_5LicIiwiZXhwIjoxNzQ2MTAyMDU0LCJuYmYiOjE3NDYwODQwNTQsImlhdCI6MTc0NjA4NDA1NH0.S3NFp_Pg4T14ExLY5n4#https://tv.iill.top/litv/litv-longturn18#http://50.7.238.114:8278/lunghuaxiju_twn/playlist.m3u8?tid=m5c1b0bf1531015581628&ct=17874&tsum=2d2c4d6761fa92d63b97c0fe787007cb#https://cdn3.132.us.kg/live/lhxj/stream.m3u8#http://kkk.jjjj.jiduo.me/api.php?n=tttt&id=2683&tk=e640d0a1bf70#http://122.117.71.103:8533/http/61.222.53.250:8068/hls/13/80/cstv13.m3u8#http://122.117.71.103:8533/http/61.222.53.250:8081/hls/75/817/ch59.m3u8#http://122.117.71.103:8533/龙华戏剧.m3u8#https://pixman.mytvsuper.com.mp/Smart.php?id=lunghuaxiju_twn#http://211.72.65.236:8534/.m3u8#https://smart.pendy.dpdns.org/Smart.php?id=lunghuaxiju_twn
 #EXTINF:-1 tvg-name="龙华戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华戏剧.png" group-title="🔆TW湾湾-②🔆",龙华戏剧
@@ -8645,6 +8733,8 @@ https://yidong.18cn.dpdns.org/30.m3u8
 http://live.catvod.com/smart.php?id=badadrama
 #EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大戏剧.png" group-title="🔆TW湾湾-②🔆",八大戏剧
 http://free.cnlive.club/channel/26d54426/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="八大戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/八大戏剧.png" group-title="🔆TW湾湾-②🔆",八大戏剧
+http://t.061899.xyz/tl/js/tw.php?id=hdbdxj
 #EXTINF:-1 tvg-name="年代综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/年代综合.png" group-title="🔆TW湾湾-②🔆",年代综合
 http://122.117.71.103:8565/年代综合.m3u8
 #EXTINF:-1 tvg-name="年代综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/年代综合.png" group-title="🔆TW湾湾-②🔆",年代综合
@@ -8827,6 +8917,8 @@ https://hls-gateway.vpstv.net/streams/492922.m3u8
 https://yidong.18cn.dpdns.org/42.m3u8
 #EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新聞.png" group-title="🔆TW湾湾-②🔆",三立新聞
 http://wo.xiang.lai.ge.bi.jiao.chang.de.yu.ming.wan.wan.jie.xi.bu.zhi.dao.ke.bu.ke.xing.hk3.345888.xyz.cdn.cloudflare.net/gt/aktv.php?variable=null-14
+#EXTINF:-1 tvg-name="三立新聞" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立新聞.png" group-title="🔆TW湾湾-②🔆",三立新聞
+http://t.061899.xyz/tl/js/tw.php?id=hdslxw
 #EXTINF:-1 tvg-name="BBC new" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/BBC new.png" group-title="🔆TW湾湾-②🔆",BBC new
 http://125.227.210.55:8165/VideoInput/play.ts
 #EXTINF:-1 tvg-name="CNN new" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNN new.png" group-title="🔆TW湾湾-②🔆",CNN new
@@ -8973,6 +9065,8 @@ http://live.catvod.com/smart.php?id=lunghuawestern_twn
 http://free.cnlive.club/channel/66c68ce7/index.m3u8?q=1752629214236
 #EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="🔆TW湾湾-②🔆",龙华洋片
 http://cdn8.946985.xyz/live/lhyp/stream.m3u8
+#EXTINF:-1 tvg-name="龙华洋片" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/龙华洋片.png" group-title="🔆TW湾湾-②🔆",龙华洋片
+http://t.061899.xyz/tl/js/tw.php?id=hdlhyp
 #EXTINF:-1 tvg-name="CNA亚洲新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA亚洲新闻.png" group-title="🔆TW湾湾-②🔆",CNA亚洲新闻
 http://v4h.xiepeiru.top:1123/iptv/ga/CNAYaZhouXinWen
 #EXTINF:-1 tvg-name="CNA亚洲新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/CNA亚洲新闻.png" group-title="🔆TW湾湾-②🔆",CNA亚洲新闻
@@ -9007,6 +9101,8 @@ http://free.cnlive.club/channel/452d9d57/index.m3u8?q=1752629214236
 https://www.judy.xx.kg/judy.php?id=4gtv-4gtv051
 #EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="🔆TW湾湾-②🔆",台视新闻
 http://xn--94q.l5.ca/daili/Smartv.php?id=ttvnews_twn
+#EXTINF:-1 tvg-name="台视新闻" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/台视新闻.png" group-title="🔆TW湾湾-②🔆",台视新闻
+http://t.061899.xyz/tl/js/tw.php?id=hdtsxw
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐.png" group-title="🔆TW湾湾-②🔆",TVBS欢乐
 http://38.64.72.148/hls/modn/list/4005/chunklist0.m3u8
 #EXTINF:-1 tvg-name="TVBS欢乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/TVBS欢乐.png" group-title="🔆TW湾湾-②🔆",TVBS欢乐
@@ -9037,6 +9133,8 @@ https://vx65267199.18cn.dpdns.org/96.m3u8
 http://live.catvod.com/smart.php?id=sanlixiju_twn
 #EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧.png" group-title="🔆TW湾湾-②🔆",三立戏剧
 http://free.cnlive.club/channel/6748da0/index.m3u8?q=1752629214236
+#EXTINF:-1 tvg-name="三立戏剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/三立戏剧.png" group-title="🔆TW湾湾-②🔆",三立戏剧
+http://t.061899.xyz/tl/js/tw.php?id=hdslxj
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中华小当家.png" group-title="🔆TW湾湾-②🔆",中华小当家
 https://live.metshop.top/huya/11342413
 #EXTINF:-1 tvg-name="中华小当家" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/中华小当家.png" group-title="🔆TW湾湾-②🔆",中华小当家
@@ -20682,7 +20780,7 @@ http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6306119848317438256
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南经视.png" group-title="🔆湖南🔆",湖南经视
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7766420291569067385
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南经视.png" group-title="🔆湖南🔆",湖南经视
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnjs
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6306119848317438256
 #EXTINF:-1 tvg-name="湖南经视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南经视.png" group-title="🔆湖南🔆",湖南经视
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-2.m3u8
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="🔆湖南🔆",湖南都市
@@ -20690,7 +20788,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hnds
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="🔆湖南🔆",湖南都市
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=4682579636905393407
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="🔆湖南🔆",湖南都市
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnds
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=4682579636905393407
 #EXTINF:-1 tvg-name="湖南都市" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南都市.png" group-title="🔆湖南🔆",湖南都市
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-6.m3u8
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南国际.png" group-title="🔆湖南🔆",湖南国际
@@ -20698,7 +20796,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hngj
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南国际.png" group-title="🔆湖南🔆",湖南国际
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=5015828848322021526
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南国际.png" group-title="🔆湖南🔆",湖南国际
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hngj
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=5015828848322021526
 #EXTINF:-1 tvg-name="湖南国际" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南国际.png" group-title="🔆湖南🔆",湖南国际
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-4.m3u8
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南娱乐.png" group-title="🔆湖南🔆",湖南娱乐
@@ -20706,7 +20804,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hnyl
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南娱乐.png" group-title="🔆湖南🔆",湖南娱乐
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=6427893650335440392
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南娱乐.png" group-title="🔆湖南🔆",湖南娱乐
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hnyl
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=6427893650335440392
 #EXTINF:-1 tvg-name="湖南娱乐" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南娱乐.png" group-title="🔆湖南🔆",湖南娱乐
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-13.m3u8
 #EXTINF:-1 tvg-name="湖南爱晚" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南爱晚.png" group-title="🔆湖南🔆",湖南爱晚
@@ -20720,7 +20818,7 @@ http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-9.m3u8
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电影.png" group-title="🔆湖南🔆",湖南电影
 http://php.jdshipin.com/TVOD/iptv.php?id=hndy
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电影.png" group-title="🔆湖南🔆",湖南电影
-http://php.jdshipin.com/itv6.php?cid=hnbblive&id=7884242846753128038
+http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=7884242846753128038
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电影.png" group-title="🔆湖南🔆",湖南电影
 http://[2409:8087:5e08:24::11]:6610/000000001000/7884242846753128038/1.m3u8?channel-id=hnbblive&Contentid=7884242846753128038&livemode=1&stbId=3
 #EXTINF:-1 tvg-name="湖南电影" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电影.png" group-title="🔆湖南🔆",湖南电影
@@ -20730,7 +20828,7 @@ http://php.jdshipin.com/TVOD/iptv.php?id=hndsj
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png" group-title="🔆湖南🔆",湖南电视剧
 http://php.jdshipin.com:8880/itv6.php?cid=hnbblive&id=8765482907954673867
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png" group-title="🔆湖南🔆",湖南电视剧
-http://php.jdshipin.com:8880/TVOD/iptv.php?id=hndsj
+http://php.jdshipin.com/itv6.php?cid=hnbblive&id=8765482907954673867
 #EXTINF:-1 tvg-name="湖南电视剧" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湖南电视剧.png" group-title="🔆湖南🔆",湖南电视剧
 http://pili-live-snapshot.tv.hntvcloud.com/mg-tv/channel-10.m3u8
 #EXTINF:-1 tvg-name="湘潭综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/湘潭综合.png" group-title="🔆湖南🔆",湘潭综合
@@ -21448,7 +21546,7 @@ http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 tvg-name="滁州公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州公共.png" group-title="🔆安徽🔆",滁州公共
 http://live.cztv.cc:85/live/ggpd.m3u8
 #EXTINF:-1 tvg-name="滁州公共" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/滁州公共.png" group-title="🔆安徽🔆",滁州公共
-http://live.cztv.cc:85/live/ggpd.m3u8?zanhd#http://live.cztv.cc:85/live/ggpd.m3u8
+http://live.cztv.cc:85/live/ggpd.m3u8?zanhd
 #EXTINF:-1 tvg-name="固镇影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/固镇影视.png" group-title="🔆安徽🔆",固镇影视
 http://www.guzhenm.com:7004/hls/hd-live.m3u8
 #EXTINF:-1 tvg-name="固镇影视" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/固镇影视.png" group-title="🔆安徽🔆",固镇影视
@@ -21499,6 +21597,8 @@ https://livebjsy.chinamcache.com/live/zb02.m3u8
 http://222.179.42.129:8181/hls1.m3u8
 #EXTINF:-1 tvg-name="祁门综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/祁门综合.png" group-title="🔆安徽🔆",祁门综合
 http://live.cztv.cc:85/live/sjpd.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]#rtmp://tv.qmxrmt.com/chan/ch1#rtmp://tv.qmxrmt.com/chan/ch1?zanhd
+#EXTINF:-1 tvg-name="祁门综合" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/祁门综合.png" group-title="🔆安徽🔆",祁门综合
+http://zbbf2.ahbztv.com/live/416.m3u8?zanhd
 #EXTINF:-1 tvg-name="党员教育" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/党员教育.png" group-title="🔆安徽🔆",党员教育
 https://12371wbndali.v.myalicdn.com/12371wbnd/dangyuanwang_2hd.m3u8
 #EXTINF:-1 tvg-name="宿州1" tvg-logo="https://gh-proxy.com/https://raw.githubusercontent.com/fanmingming/live/main/tv/宿州1.png" group-title="🔆安徽🔆",宿州1
